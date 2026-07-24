@@ -1,0 +1,12 @@
+name: Tawjih Monitor
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test
+        run: echo "Tawjih Monitor is working!"First monitor
