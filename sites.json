@@ -1,0 +1,14 @@
+{
+  "ministry": {
+    "name": "وزارة التربية الوطنية",
+    "url": "https://www.men.gov.ma/Ar/Pages/Accueil.aspx"
+  },
+  "cursussup": {
+    "name": "CursusSup",
+    "url": "https://www.cursussup.gov.ma/"
+  },
+  "ensa_agadir": {
+    "name": "ENSA Agadir",
+    "url": "https://wwwensa.uiz.ac.ma/"
+  }
+}
