@@ -2,7 +2,7 @@ name: Tawjih Monitor Bot
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # كل 30 دقيقة
+    - cron: '*/5 * * * *' كل 5 دقيقة
   workflow_dispatch: # باش تقدر تخدمو بيدك وقتاش ما بغيتي
 
 jobs:
