@@ -165,9 +165,8 @@
   "fp_errachidia": { "name": "الكلية المتعددة التخصصات الرشيدية", "url": "http://www.fpe.umi.ac.ma/" },
 
   "fsjes_beni_mellal": { "name": "كلية الحقوق بني ملال", "url": "http://fsjes.usms.ac.ma/" },
-  "fp_khouribga": { "name": "الكلية المتعددة التخصصات خريبكة", "url": "http://fpk.usms.ac.ma/" }
-},
-{
+  "fp_khouribga": { "name": "الكلية المتعددة التخصصات خريبكة", "url": "http://fpk.usms.ac.ma/" },
+
   "recrutement_far": { "name": "بوابة التوظيف القوات المسلحة الملكية (FAR)", "url": "https://recrutement.far.ma/" },
   "concours_dgsn": { "name": "بوابة مباريات الشرطة (DGSN)", "url": "https://concours.dgsn.gov.ma/" },
   "recrutement_gr": { "name": "بوابة الدرك الملكي (Gendarmerie Royale)", "url": "https://recrutement.gr.ma/" },
@@ -226,9 +225,8 @@
   "encg_taroudant": { "name": "المدرسة الوطنية للتجارة والتسيير تارودانت", "url": "http://www.encgt.uiz.ac.ma/" },
   "fmp_laayoune": { "name": "كلية الطب والصيدلة العيون", "url": "http://fmpl.uiz.ac.ma/" },
   "fmp_beni_mellal": { "name": "كلية الطب والصيدلة بني ملال", "url": "http://fpm.usms.ac.ma/" },
-  "fmp_guelmim": { "name": "كلية الطب والصيدلة كلميم", "url": "http://fmpg.uiz.ac.ma/" }
-},
-{
+  "fmp_guelmim": { "name": "كلية الطب والصيدلة كلميم", "url": "http://fmpg.uiz.ac.ma/" },
+
   "arm_meknes": { "name": "الأكاديمية الملكية العسكرية بمكناس (ARM)", "url": "https://recrutement.far.ma/" },
   "erssm_rabat": { "name": "المدرسة الملكية لخدمات الصحة العسكرية (ERSSM)", "url": "https://recrutement.far.ma/" },
   "era_marrakech": { "name": "المدرسة الملكية الجوية بمراكش (ERA)", "url": "https://recrutement.far.ma/" },
@@ -284,9 +282,8 @@
   "ensa_sidi_bennour": { "name": "ENSA Sidi Bennour", "url": "http://www.ensasb.ucd.ac.ma/" },
   "est_fquih_ben_salah": { "name": "EST Fquih Ben Salah", "url": "http://estfbs.usms.ac.ma/" },
   "est_kelaa": { "name": "EST El Kelâa des Sraghna", "url": "http://www.estk.uca.ma/" },
-  "est_dakhla": { "name": "EST Dakhla", "url": "http://estd.uiz.ac.ma/" }
-},
-{
+  "est_dakhla": { "name": "EST Dakhla", "url": "http://estd.uiz.ac.ma/" },
+
   "iss_settat": { "name": "المعهد العالي لعلوم الرياضة بسطات (ISS Settat)", "url": "https://i2s.uh1.ac.ma/" },
   "amf_sale": { "name": "أكاديمية محمد السادس لكرة القدم", "url": "https://amf.ma/" },
   "irfc_yacoub_el_mansour": { "name": "المعهد الملكي لتكوين الأطر - يعقوب المنصور", "url": "http://www.irfc.ma/" },
