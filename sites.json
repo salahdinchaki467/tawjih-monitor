@@ -318,4 +318,20 @@
 
   "garde_royale": { "name": "بوابة توظيف الحرس الملكي المغربي", "url": "https://recrutement.far.ma/" },
   "forces_armees_sante": { "name": "المدرسة الملكية لضباط الصف للخدمات الاجتماعية", "url": "https://recrutement.far.ma/" }
+},
+{
+  "tawjihnet": { "name": "موقع توجيه نت (Tawjihnet)", "url": "https://www.tawjihnet.net/" },
+  "moutamadris": { "name": "موقع متمدرس (Moutamadris)", "url": "https://www.moutamadris.ma/" },
+  "9rayti": { "name": "موقع قرايتي (9rayti)", "url": "https://www.9rayti.com/" },
+  "supmaroc": { "name": "موقع سوب ماروك (Supmaroc)", "url": "https://www.supmaroc.com/" },
+  "tawjih_info": { "name": "بوابة التوجيه (Tawjih.info)", "url": "https://www.tawjih.info/" },
+  "orientation_ma": { "name": "منصة Orientation.ma", "url": "https://www.orientation.ma/" },
+
+  "alwadifa_maroc": { "name": "موقع الوظيفة مروك (Alwadifa-Maroc)", "url": "https://www.alwadifa-maroc.com/" },
+  "emploi_public": { "name": "بوابة الوظيفة العمومية (Emploi Public)", "url": "https://www.emploi-public.ma/" },
+  "recrutement_far": { "name": "بوابة التوظيف القوات المسلحة الملكية (FAR)", "url": "https://recrutement.far.ma/" },
+  "concours_dgsn": { "name": "بوابة مباريات الشرطة (DGSN)", "url": "https://concours.dgsn.gov.ma/" },
+  "recrutement_gr": { "name": "بوابة الدرك الملكي (Gendarmerie Royale)", "url": "https://recrutement.gr.ma/" },
+  "recrutement_fa": { "name": "بوابة القوات المساعدة", "url": "https://recrutement.forcesauxiliaires.ma/" },
+  "protection_civile": { "name": "بوابة الوقاية المدنية", "url": "https://concours.protectioncivile.ma/" }
 }
