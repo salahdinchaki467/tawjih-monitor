@@ -166,4 +166,65 @@
 
   "fsjes_beni_mellal": { "name": "كلية الحقوق بني ملال", "url": "http://fsjes.usms.ac.ma/" },
   "fp_khouribga": { "name": "الكلية المتعددة التخصصات خريبكة", "url": "http://fpk.usms.ac.ma/" }
+},
+{
+  "recrutement_far": { "name": "بوابة التوظيف القوات المسلحة الملكية (FAR)", "url": "https://recrutement.far.ma/" },
+  "concours_dgsn": { "name": "بوابة مباريات الشرطة (DGSN)", "url": "https://concours.dgsn.gov.ma/" },
+  "recrutement_gr": { "name": "بوابة الدرك الملكي (Gendarmerie Royale)", "url": "https://recrutement.gr.ma/" },
+  "recrutement_fa": { "name": "بوابة القوات المساعدة", "url": "https://recrutement.forcesauxiliaires.ma/" },
+  "protection_civile": { "name": "بوابة الوقاية المدنية", "url": "https://concours.protectioncivile.ma/" },
+
+  "inau_rabat": { "name": "المعهد الوطني للتهيئة والتعمير (INAU)", "url": "http://www.inau.ac.ma/" },
+  "isit_tanger": { "name": "المعهد العالي الدولي للسياحة طنجة (ISIT)", "url": "http://www.isit.ma/" },
+  "inas_tanger": { "name": "المعهد الوطني للعمل الاجتماعي بطنجة (INAS)", "url": "https://inas.sante.gov.ma/" },
+  "insap_rabat": { "name": "المعهد الوطني لعلوم الآثار والتراث (INSAP)", "url": "https://insap.ac.ma/" },
+  "isem_casablanca": { "name": "المعهد العالي للدراسات البحرية (ISEM)", "url": "https://isem.ac.ma/" },
+  "ismala_nouaceur": { "name": "المعهد العالي لمهن الطيران واللوجستيك (ISMALA)", "url": "https://ismala.ac.ma/" },
+
+  "dar_hadith_hassania": { "name": "مؤسسة دار الحديث الحسنية الرباط", "url": "http://www.edhh.org/" },
+  "m6_lectures_coraniques": { "name": "معهد محمد السادس للقراءات والدراسات القرآنية", "url": "https://www.m6lectures.ma/" },
+  "quaraouiyine_fes": { "name": "جامعة القرويين فاس", "url": "http://www.alquaraouiyine.ma/" },
+  "fac_chariaa_agadir": { "name": "كلية الشريعة أكادير", "url": "http://shariaa.uiz.ac.ma/" },
+  "fac_chariaa_smara": { "name": "كلية الشريعة السمارة", "url": "http://fcs.uiz.ac.ma/" },
+  "fac_usul_addine_tetouan": { "name": "كلية أصول الدين تطوان", "url": "https://usuladdine.uae.ac.ma/" },
+  "fac_langue_arabe_marrakech": { "name": "كلية اللغة العربية مراكش", "url": "http://www.flam.uca.ma/" },
+
+  "crmef_rabat": { "name": "مركز مهن التربية والتكوين الرباط", "url": "http://crmef-rsk.ma/" },
+  "crmef_casa": { "name": "مركز مهن التربية والتكوين الدار البيضاء", "url": "http://www.crmefcs.ma/" },
+  "crmef_fes": { "name": "مركز مهن التربية والتكوين فاس مكناس", "url": "http://crmeffm.ma/" },
+  "crmef_marrakech": { "name": "مركز مهن التربية والتكوين مراكش آسفي", "url": "http://crmefms.ma/" },
+  "crmef_souss": { "name": "مركز مهن التربية والتكوين سوس ماسة", "url": "http://crmefsm.ma/" },
+  "crmef_oriental": { "name": "مركز مهن التربية والتكوين الشرق", "url": "http://crmefo.ma/" },
+
+  "ifmeree_oujda": { "name": "معهد الطاقات المتجددة وجدة (IFMEREE)", "url": "https://ifmeree.ma/" },
+  "ifmia_casablanca": { "name": "معهد صناعة السيارات الدار البيضاء (IFMIA)", "url": "https://ifmia-sa.ma/" },
+
+  "itpm_agadir": { "name": "معهد الصيد البحري أكادير (ITPM)", "url": "http://www.itpm-agadir.ac.ma/" },
+  "itpm_tan_tan": { "name": "معهد الصيد البحري طانطان (ITPM)", "url": "http://www.itpm-tantan.ac.ma/" },
+  "itpm_larache": { "name": "معهد الصيد البحري العرائش (ITPM)", "url": "http://www.itpm-larache.ac.ma/" },
+  "itpm_safi": { "name": "معهد الصيد البحري آسفي (ITPM)", "url": "http://www.itpm-safi.ac.ma/" },
+
+  "flsh_mohammedia": { "name": "كلية الآداب والعلوم الإنسانية المحمدية", "url": "http://www.flshm.ma/" },
+  "flsh_ben_msik": { "name": "كلية الآداب بن مسيك الدار البيضاء", "url": "http://www.flshb.unv.ma/" },
+  "flsh_ain_chock": { "name": "كلية الآداب عين الشق الدار البيضاء", "url": "http://www.flsh-uh2c.ac.ma/" },
+  "flsh_meknes": { "name": "كلية الآداب والعلوم الإنسانية مكناس", "url": "http://www.flsh-umi.ac.ma/" },
+  "flsh_tetouan": { "name": "كلية الآداب والعلوم الإنسانية تطوان", "url": "https://flsht.uae.ac.ma/" },
+  "flsh_kenitra": { "name": "كلية الآداب والعلوم الإنسانية القنيطرة", "url": "https://flsh.uit.ac.ma/" },
+  "flsh_jadida": { "name": "كلية الآداب والعلوم الإنسانية الجديدة", "url": "http://www.ucd.ac.ma/flsh/" },
+  "flsh_beni_mellal": { "name": "كلية الآداب والعلوم الإنسانية بني ملال", "url": "http://flsh.usms.ac.ma/" },
+
+  "fs_beni_mellal": { "name": "كلية العلوم بني ملال", "url": "http://fs.usms.ac.ma/" },
+  "fsjes_mohammedia": { "name": "كلية العلوم القانونية والاقتصادية المحمدية", "url": "http://www.fsjesm.ma/" },
+  "fsjes_el_jadida": { "name": "كلية العلوم القانونية والاقتصادية الجديدة", "url": "http://www.fsjes.ucd.ac.ma/" },
+  "cu_kelaa": { "name": "المركز الجامعي قلعة السراغنة", "url": "http://www.cu-kelaa.uca.ma/" },
+
+  "isfr_sale": { "name": "معهد الفنيين المتخصصين في المياه والغابات سلا", "url": "http://www.eauxetforets.gov.ma/" },
+  "itsag_moulay_yacoub": { "name": "معهد الفنيين المتخصصين في الفلاحة مولاي يعقوب", "url": "https://www.agriculture.gov.ma/" },
+  "itsag_zraib": { "name": "المعهد التقني الفلاحي الزرايب بركان", "url": "https://www.agriculture.gov.ma/" },
+  "itsag_souassi": { "name": "معهد الفنيين الفلاحيين تمارة", "url": "https://www.agriculture.gov.ma/" },
+
+  "encg_taroudant": { "name": "المدرسة الوطنية للتجارة والتسيير تارودانت", "url": "http://www.encgt.uiz.ac.ma/" },
+  "fmp_laayoune": { "name": "كلية الطب والصيدلة العيون", "url": "http://fmpl.uiz.ac.ma/" },
+  "fmp_beni_mellal": { "name": "كلية الطب والصيدلة بني ملال", "url": "http://fpm.usms.ac.ma/" },
+  "fmp_guelmim": { "name": "كلية الطب والصيدلة كلميم", "url": "http://fmpg.uiz.ac.ma/" }
 }
