@@ -227,4 +227,62 @@
   "fmp_laayoune": { "name": "كلية الطب والصيدلة العيون", "url": "http://fmpl.uiz.ac.ma/" },
   "fmp_beni_mellal": { "name": "كلية الطب والصيدلة بني ملال", "url": "http://fpm.usms.ac.ma/" },
   "fmp_guelmim": { "name": "كلية الطب والصيدلة كلميم", "url": "http://fmpg.uiz.ac.ma/" }
+},
+{
+  "arm_meknes": { "name": "الأكاديمية الملكية العسكرية بمكناس (ARM)", "url": "https://recrutement.far.ma/" },
+  "erssm_rabat": { "name": "المدرسة الملكية لخدمات الصحة العسكرية (ERSSM)", "url": "https://recrutement.far.ma/" },
+  "era_marrakech": { "name": "المدرسة الملكية الجوية بمراكش (ERA)", "url": "https://recrutement.far.ma/" },
+  "ern_casablanca": { "name": "المدرسة الملكية البحرية بالدار البيضاء (ERN)", "url": "https://recrutement.far.ma/" },
+
+  "aiac_casablanca": { "name": "الأكاديمية الدولية محمد السادس للطيران المدني (AIAC)", "url": "https://www.aiac.ma/" },
+  "ensmr_rabat": { "name": "المدرسة الوطنية العليا للمعادن بالرباط (ENSMR - Ex ENIM)", "url": "https://www.ensmr.ac.ma/" },
+  "enfi_sale": { "name": "المدرسة الوطنية الغابوية للمهندسين بسلا (ENFI)", "url": "https://enfi.ac.ma/" },
+  "ispm_agadir": { "name": "المعهد العالي للصيد البحري بأكادير (ISPM)", "url": "https://www.ispm.ac.ma/" },
+  "aat_casablanca": { "name": "أكاديمية الفنون التقليدية بالدار البيضاء (AAT)", "url": "https://www.aat.ac.ma/" },
+  "irfc_moulay_rachid": { "name": "المعهد الملكي لتكوين أطر الشبيبة والرياضة (IRFC)", "url": "http://www.irfc.ma/" },
+  "ensp_rabat": { "name": "المدرسة الوطنية للصحة العمومية (ENSP)", "url": "https://ensp.sante.gov.ma/" },
+  "ism_rabat": { "name": "المعهد العالي للقضاء بالرباط (ISM)", "url": "https://ism.justice.gov.ma/" },
+  "ensa_admin_rabat": { "name": "المدرسة الوطنية العليا للإدارة (ENSA Rabat)", "url": "https://www.ensa.org.ma/" },
+  "emploi_public": { "name": "بوابة الوظيفة العمومية والمباريات (Emploi Public)", "url": "https://www.emploi-public.ma/" },
+
+  "ispits_rabat": { "name": "معهد ISPITS الرباط", "url": "https://ispits.sante.gov.ma/rabat" },
+  "ispits_casablanca": { "name": "معهد ISPITS الدار البيضاء", "url": "https://ispits.sante.gov.ma/casablanca" },
+  "ispits_fes": { "name": "معهد ISPITS فاس", "url": "https://ispits.sante.gov.ma/fes" },
+  "ispits_marrakech": { "name": "معهد ISPITS مراكش", "url": "https://ispits.sante.gov.ma/marrakech" },
+  "ispits_agadir": { "name": "معهد ISPITS أكادير", "url": "https://ispits.sante.gov.ma/agadir" },
+  "ispits_oujda": { "name": "معهد ISPITS وجدة", "url": "https://ispits.sante.gov.ma/oujda" },
+  "ispits_tetouan": { "name": "معهد ISPITS تطوان", "url": "https://ispits.sante.gov.ma/tetouan" },
+  "ispits_errachidia": { "name": "معهد ISPITS الرشيدية", "url": "https://ispits.sante.gov.ma/errachidia" },
+  "ispits_laayoune": { "name": "معهد ISPITS العيون", "url": "https://ispits.sante.gov.ma/laayoune" },
+  "ispits_guelmim": { "name": "معهد ISPITS كلميم", "url": "https://ispits.sante.gov.ma/guelmim" },
+
+  "cmc_souss_massa": { "name": "مدينة المهن والكفاءات سوس ماسة (CMC)", "url": "https://myway.ac.ma/" },
+  "cmc_rabat": { "name": "مدينة المهن والكفاءات تامسنا الرباط", "url": "https://myway.ac.ma/" },
+  "cmc_oriental": { "name": "مدينة المهن والكفاءات الناظور الشرق", "url": "https://myway.ac.ma/" },
+  "cmc_laayoune": { "name": "مدينة المهن والكفاءات العيون", "url": "https://myway.ac.ma/" },
+  "cmc_tanger": { "name": "مدينة المهن والكفاءات طنجة", "url": "https://myway.ac.ma/" },
+  "cmc_beni_mellal": { "name": "مدينة المهن والكفاءات بني ملال", "url": "https://myway.ac.ma/" },
+  "cmc_casablanca": { "name": "مدينة المهن والكفاءات النواصر الدار البيضاء", "url": "https://myway.ac.ma/" },
+
+  "uir_rabat": { "name": "الجامعة الدولية للرباط (UIR)", "url": "https://www.uir.ac.ma/" },
+  "um6p_benguerir": { "name": "جامعة محمد السادس متعددة التخصصات (UM6P)", "url": "https://www.um6p.ma/" },
+  "um6ss_casablanca": { "name": "جامعة محمد السادس للعلوم الصحية (UM6SS)", "url": "https://um6ss.ma/" },
+  "uiass_rabat": { "name": "الجامعة الدولية أبو القاسم الزهراوي لعلوم الصحة", "url": "https://uiass.ma/" },
+  "ueuromed_fes": { "name": "الجامعة الأورومتوسطية بفاس (UEMF)", "url": "https://ueuromed.org/" },
+
+  "ifmia_kenitra": { "name": "معهد صناعة السيارات القنيطرة (IFMIA)", "url": "https://www.ifmia-sa.ma/" },
+  "ifmia_tanger": { "name": "معهد صناعة السيارات طنجة (IFMIA)", "url": "https://www.ifmia-sa.ma/" },
+  "ifmeree_tanger": { "name": "معهد الطاقات المتجددة طنجة (IFMEREE)", "url": "https://ifmeree.ma/" },
+  "ifmeree_ouarzazate": { "name": "معهد الطاقات المتجددة ورزازات (IFMEREE)", "url": "https://ifmeree.ma/" },
+
+  "ifmerp_casablanca": { "name": "المعهد التخصصي في مهن البناء والأشغال العمومية", "url": "https://myway.ac.ma/" },
+  "ispits_taza": { "name": "ملحقة ISPITS تازة", "url": "https://ispits.sante.gov.ma/fes" },
+  "ispits_khenifra": { "name": "ملحقة ISPITS خنيفرة", "url": "https://ispits.sante.gov.ma/errachidia" },
+  "ispits_safi": { "name": "ملحقة ISPITS آسفي", "url": "https://ispits.sante.gov.ma/marrakech" },
+  "ispits_dakhla": { "name": "ملحقة ISPITS الداخلة", "url": "https://ispits.sante.gov.ma/laayoune" },
+
+  "ensa_sidi_bennour": { "name": "ENSA Sidi Bennour", "url": "http://www.ensasb.ucd.ac.ma/" },
+  "est_fquih_ben_salah": { "name": "EST Fquih Ben Salah", "url": "http://estfbs.usms.ac.ma/" },
+  "est_kelaa": { "name": "EST El Kelâa des Sraghna", "url": "http://www.estk.uca.ma/" },
+  "est_dakhla": { "name": "EST Dakhla", "url": "http://estd.uiz.ac.ma/" }
 }
