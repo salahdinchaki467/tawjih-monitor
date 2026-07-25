@@ -334,4 +334,16 @@
   "recrutement_gr": { "name": "بوابة الدرك الملكي (Gendarmerie Royale)", "url": "https://recrutement.gr.ma/" },
   "recrutement_fa": { "name": "بوابة القوات المساعدة", "url": "https://recrutement.forcesauxiliaires.ma/" },
   "protection_civile": { "name": "بوابة الوقاية المدنية", "url": "https://concours.protectioncivile.ma/" }
-}
+},
+"univ_ibn_zohr": { "name": "جامعة ابن زهر - أكادير (UIZ)", "url": "https://www.uiz.ac.ma/" },
+  "univ_mohammed5": { "name": "جامعة محمد الخامس - الرباط (UM5)", "url": "https://www.um5.ac.ma/" },
+  "univ_hassan2": { "name": "جامعة الحسن الثاني - الدار البيضاء (UH2C)", "url": "https://www.univh2c.ma/" },
+  "univ_cadi_ayyad": { "name": "جامعة القاضي عياض - مراكش (UCA)", "url": "https://www.uca.ma/" },
+  "univ_usmba": { "name": "جامعة سيدي محمد بن عبد الله - فاس (USMBA)", "url": "http://www.usmba.ac.ma/" },
+  "univ_ump": { "name": "جامعة محمد الأول - وجدة (UMP)", "url": "http://www.ump.ma/" },
+  "univ_uae": { "name": "جامعة عبد المالك السعدي - تطوان وطنجة (UAE)", "url": "https://www.uae.ac.ma/" },
+  "univ_ucd": { "name": "جامعة شعيب الدكالي - الجديدة (UCD)", "url": "http://www.ucd.ac.ma/" },
+  "univ_umi": { "name": "جامعة مولاي إسماعيل - مكناس (UMI)", "url": "http://www.umi.ac.ma/" },
+  "univ_uh1": { "name": "جامعة الحسن الأول - سطات (UH1)", "url": "http://www.uh1.ac.ma/" },
+  "univ_usms": { "name": "جامعة السلطان مولاي سليمان - بني ملال (USMS)", "url": "http://www.usms.ac.ma/" },
+  "univ_uit": { "name": "جامعة ابن طفيل - القنيطرة (UIT)", "url": "https://www.uit.ac.ma/" }
