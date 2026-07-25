@@ -285,4 +285,40 @@
   "est_fquih_ben_salah": { "name": "EST Fquih Ben Salah", "url": "http://estfbs.usms.ac.ma/" },
   "est_kelaa": { "name": "EST El Kelâa des Sraghna", "url": "http://www.estk.uca.ma/" },
   "est_dakhla": { "name": "EST Dakhla", "url": "http://estd.uiz.ac.ma/" }
+},
+{
+  "iss_settat": { "name": "المعهد العالي لعلوم الرياضة بسطات (ISS Settat)", "url": "https://i2s.uh1.ac.ma/" },
+  "amf_sale": { "name": "أكاديمية محمد السادس لكرة القدم", "url": "https://amf.ma/" },
+  "irfc_yacoub_el_mansour": { "name": "المعهد الملكي لتكوين الأطر - يعقوب المنصور", "url": "http://www.irfc.ma/" },
+  "irfc_sale_sports": { "name": "المعهد الملكي لتكوين الأطر - المركز الوطني للرياضات سلا", "url": "http://www.irfc.ma/" },
+
+  "ismac_rabat": { "name": "المعهد العالي لمهن السمعي البصري والسينما (ISMAC)", "url": "https://ismac.ac.ma/" },
+  "conservatoire_rabat": { "name": "المعهد الوطني للموسيقى والرقص بالرباط", "url": "https://minculture.gov.ma/" },
+
+  "itpm_alhoceima": { "name": "معهد الصيد البحري الحسيمة (ITPM)", "url": "http://www.itpm-alhoceima.ac.ma/" },
+  "itpm_laayoune": { "name": "معهد الصيد البحري العيون (ITPM)", "url": "http://www.itpm-laayoune.ac.ma/" },
+  "cqpm_dakhla": { "name": "مركز التأهيل المهني البحري بالداخلة", "url": "https://www.mpm.gov.ma/" },
+  "cqpm_agadir": { "name": "مركز التأهيل المهني البحري بأكادير", "url": "https://www.mpm.gov.ma/" },
+
+  "aui_ifrane": { "name": "جامعة الأخوين بإفران (Al Akhawayn)", "url": "https://www.aui.ma/" },
+  "uic_casablanca": { "name": "الجامعة الدولية للدار البيضاء (UIC)", "url": "https://www.uic.ac.ma/" },
+  "universiapolis_agadir": { "name": "الجامعة الدولية لأكادير (Universiapolis)", "url": "https://universiapolis.ma/" },
+  "um6p_rabat": { "name": "جامعة محمد السادس متعددة التخصصات - الرباط", "url": "https://www.um6p.ma/" },
+
+  "fmp_errachidia": { "name": "كلية الطب والصيدلة الرشيدية", "url": "http://fme.umi.ac.ma/" },
+  "fmp_dakhla": { "name": "كلية الطب والصيدلة الداخلة", "url": "https://fmpd.uiz.ac.ma/" },
+  "ispits_kenitra": { "name": "ملحقة ISPITS القنيطرة", "url": "https://ispits.sante.gov.ma/rabat" },
+  "ispits_nador": { "name": "ملحقة ISPITS الناظور", "url": "https://ispits.sante.gov.ma/oujda" },
+  "ispits_meknes": { "name": "ملحقة ISPITS مكناس", "url": "https://ispits.sante.gov.ma/fes" },
+  "ispits_settat": { "name": "ملحقة ISPITS سطات", "url": "https://ispits.sante.gov.ma/casablanca" },
+
+  "crmef_laayoune": { "name": "مركز مهن التربية والتكوين العيون الساقية الحمراء", "url": "http://crmeflsh.ma/" },
+  "crmef_dakhla": { "name": "مركز مهن التربية والتكوين الداخلة وادي الذهب", "url": "http://crmefdod.ma/" },
+  "crmef_guelmim": { "name": "مركز مهن التربية والتكوين كلميم واد نون", "url": "http://crmefgwn.ma/" },
+  "crmef_draa": { "name": "مركز مهن التربية والتكوين درعة تافيلالت", "url": "http://crmefdt.ma/" },
+  "crmef_tanger": { "name": "مركز مهن التربية والتكوين طنجة تطوان الحسيمة", "url": "http://crmeftth.ma/" },
+  "crmef_benimellal": { "name": "مركز مهن التربية والتكوين بني ملال خنيفرة", "url": "http://crmefbmk.ma/" },
+
+  "garde_royale": { "name": "بوابة توظيف الحرس الملكي المغربي", "url": "https://recrutement.far.ma/" },
+  "forces_armees_sante": { "name": "المدرسة الملكية لضباط الصف للخدمات الاجتماعية", "url": "https://recrutement.far.ma/" }
 }
