@@ -15,7 +15,8 @@ GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
 
-DATA_FILE = 'data/state.json'
+# تعديل المسار ليكون مباشرة في جذر المشروع
+DATA_FILE = 'state.json'
 
 def send_telegram_message(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
@@ -67,12 +68,14 @@ def summarize_with_ai(text_content):
 
 def load_state():
     if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        try:
+            with open(DATA_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading state.json: {e}")
     return {}
 
 def save_state(state):
-    os.makedirs('data', exist_ok=True)
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(state, f, ensure_ascii=False, indent=4)
 
