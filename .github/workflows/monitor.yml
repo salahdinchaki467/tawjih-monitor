@@ -34,11 +34,10 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: python monitor.py
 
-    - name: Commit and Push state
+   - name: Commit and Push state
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git pull origin main || true
-        git add -A
+        git add state.json
         git commit -m "Auto-update state.json [skip ci]" || echo "No changes to commit"
         git push
