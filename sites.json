@@ -590,3 +590,49 @@
   "esi": "http://www.esi.ac.ma/",
   "hespress": "https://www.hespress.com/"
 }
+{
+  "est_oujda": "http://www.esto.ump.ma",
+  "est_nador": "http://estn.ump.ma/",
+  "est_fes": "http://www.est-usmba.ac.ma",
+  "est_meknes": "http://www.est-umi.ac.ma",
+  "est_casablanca": "http://www.est-uh2c.ac.ma",
+  "est_sale": "http://www.est.um5.ac.ma",
+  "est_safi": "http://www.ests.uca.ma",
+  "est_essaouira": "http://www.este.uca.ma",
+  "est_kelaa": "http://www.estk.uca.ma",
+  "est_agadir": "http://www.esta.ac.ma",
+  "est_guelmim": "http://www.estg.ac.ma",
+  "est_laayoune": "http://www.estl.ac.ma",
+  "est_dakhla": "http://estd.uiz.ac.ma",
+  "est_ouarzazate": "http://www.uiz.ac.ma",
+  "est_khenifra": "http://www.estk.umi.ac.ma",
+  "est_beni_mellal": "https://estbm.ac.ma",
+  "est_fquih_ben_salah": "http://estfbs.usms.ac.ma",
+  "est_kenitra": "http://www.uit.ac.ma",
+  "est_sidi_bennour": "http://www.estsb.ucd.ac.ma",
+  "est_tetouan": "https://est.uae.ma",
+
+  "fst_tanger": "https://fstt.ac.ma/Portail2023",
+  "fst_mohammedia": "https://www.fstm.ac.ma/",
+  "fst_errachidia": "http://www.fste-umi.ac.ma",
+  "fst_marrakech": "http://www.fstg-marrakech.ac.ma/FST/",
+  "fst_fes": "https://fst-usmba.ac.ma/",
+  "fst_settat": "https://www.fsts.ac.ma/",
+  "fst_beni_mellal": "https://fstbm.ac.ma/accueil",
+  "fst_al_hoceima": "https://www.fsth.ma/",
+
+  "ensam_meknes": "http://www.ensam-umi.ac.ma",
+  "ensam_casablanca": "http://www.ensam-casa.ma",
+  "ensam_rabat": "https://ensam.um5.ac.ma",
+
+  "ifmiac_casablanca": "http://www.ifmiac.ma",
+  "ifmia_kenitra": "http://www.ifmia-kenitra.com",
+
+  "ens_casablanca": "http://ens.univcasa.ma",
+  "ens_rabat": "http://www.ens.um5a.ac.ma",
+  "ens_marrakech": "http://www.ens-marrakech.ac.ma",
+  "ens_fes": "http://www.ens.usmba.ac.ma",
+  "ens_tetouan": "http://www.enstetouan.ma",
+  "ens_meknes": "http://www.ens.umi.ac.ma",
+  "enset_mohammedia": "http://enset-media.ac.ma"
+}
