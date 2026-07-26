@@ -18,6 +18,8 @@ if GEMINI_API_KEY:
 DATA_FILE = 'state.json'
 
 def send_telegram_message(text):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        return
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {
         'chat_id': TELEGRAM_CHAT_ID,
@@ -26,28 +28,26 @@ def send_telegram_message(text):
         'disable_web_page_preview': False
     }
     try:
-        requests.post(url, json=payload, timeout=10)
+        requests.post(url, json=payload, timeout=8)
     except Exception as e:
         print(f"Error sending to Telegram: {e}")
 
 def extract_text_from_pdf(pdf_url):
-    """تحميل ملف PDF واستخراج النص منه"""
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
-        res = requests.get(pdf_url, headers=headers, timeout=10)
+        res = requests.get(pdf_url, headers=headers, timeout=8)
         if res.status_code == 200:
             pdf_file = io.BytesIO(res.content)
             reader = PdfReader(pdf_file)
             text = ""
             for page in reader.pages[:2]:
                 text += page.extract_text() or ""
-            return text[:2000]
+            return text[:1500]
     except Exception as e:
         print(f"Error reading PDF {pdf_url}: {e}")
     return None
 
 def summarize_with_ai(text_content):
-    """تلخيص النص باستخدام الذكاء الاصطناعي Gemini"""
     if not GEMINI_API_KEY or not text_content:
         return None
     try:
@@ -79,6 +79,10 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=4)
 
 def check_sites():
+    if not os.path.exists('sites.json'):
+        print("sites.json file missing!")
+        return
+
     with open('sites.json', 'r', encoding='utf-8') as f:
         sites = json.load(f)
     
@@ -88,7 +92,7 @@ def check_sites():
         print(f"Checking {site_info['name']}...")
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-            response = requests.get(site_info['url'], headers=headers, timeout=10)
+            response = requests.get(site_info['url'], headers=headers, timeout=8)
             soup = BeautifulSoup(response.text, 'html.parser')
             
             links = []
@@ -101,20 +105,22 @@ def check_sites():
                         href = site_info['url'].rstrip('/') + href
                     elif not href.startswith('http'):
                         href = site_info['url'].rstrip('/') + '/' + href
-                    links.append({"text": text, "url": href})
+                    if href not in [l['url'] for l in links]:
+                        links.append({"text": text, "url": href})
 
-            # إذا كان الموقع جديد في الـ state، نسجل جميع الروابط الحالية ونرسل أحدث 2 فقط لعدم التكرار
+            # 1. حالة أول مرة: حفظ جميع الروابط الحالية صامتاً لتجنب البطء والتكرار
             if site_id not in state:
                 state[site_id] = [l['url'] for l in links]
-                save_state(state)
-                to_process = links[:2] # فقط أول عنصرين للتجربة
-            else:
-                to_process = [l for l in links if l['url'] not in state[site_id]][:3] # حد أقصى 3 إعلانات جديدة لكل تشغيل
+                print(f"Successfully seeded {len(links)} links for {site_info['name']}")
+                continue
 
-            for link in to_process:
+            # 2. حالة البحث عن الإعلانات الجديدة فقط
+            new_links = [l for l in links if l['url'] not in state[site_id]]
+
+            for link in new_links:
+                print(f"New announcement found: {link['text']}")
                 summary_text = ""
                 if '.pdf' in link['url'].lower():
-                    print(f"Extracting & Summarizing PDF: {link['url']}")
                     pdf_text = extract_text_from_pdf(link['url'])
                     if pdf_text:
                         ai_summary = summarize_with_ai(pdf_text)
@@ -130,17 +136,14 @@ def check_sites():
                 )
                 
                 send_telegram_message(msg)
-                
-                if link['url'] not in state[site_id]:
-                    state[site_id].append(link['url'])
-                
-                save_state(state) # حفظ فوري
-                time.sleep(2)
+                state[site_id].append(link['url'])
+                time.sleep(1)
 
         except Exception as e:
             print(f"Error checking {site_info['name']}: {e}")
 
-    print("State check finished successfully.")
+    save_state(state)
+    print("Done checking all sites.")
 
 if __name__ == "__main__":
     check_sites()
