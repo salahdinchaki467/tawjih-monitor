@@ -94,6 +94,7 @@ def check_sites():
         sites = json.load(f)
     
     state = load_state()
+    failed_sites = []  # قائمة لجمع أسماء المواقع المعطلة
 
     for site_id, site_info in sites.items():
         print(f"Checking {site_info['name']}...", flush=True)
@@ -103,6 +104,7 @@ def check_sites():
             
             if response.status_code != 200:
                 print(f"Skipping {site_info['name']}: HTTP Status {response.status_code}", flush=True)
+                failed_sites.append(f"{site_info['name']} (كود: {response.status_code})")
                 continue
 
             soup = BeautifulSoup(response.text, 'html.parser')
@@ -125,7 +127,7 @@ def check_sites():
             if not links:
                 continue
 
-            # 💡 تسجيل صامت تلقائي لأي موقع لم يسبق تسجيله أو كانت قائمته فارغة
+            # 💡 تسجيل صامت تلقائي لأي موقع لم يسبق تسجيله
             if site_id not in state or not state[site_id]:
                 state[site_id] = [clean_url(l['url']) for l in links]
                 save_state(state)
@@ -160,9 +162,21 @@ def check_sites():
 
         except Exception as e:
             print(f"Error checking {site_info['name']}: {e}", flush=True)
+            failed_sites.append(f"{site_info['name']} (غير متاح/بطء السيرفر)")
 
     save_state(state)
     print("Done checking all sites.", flush=True)
+
+    # 📩 إرسال تقرير المواقع المعطلة إلى تلغرام إن وجدت
+    if failed_sites:
+        failed_list_str = "\n".join([f"• {s}" for s in failed_sites])
+        report_msg = (
+            f"⚠️ <b>تقرير الفحص: مواضع لم تجب</b>\n\n"
+            f"المواقع التالية كانت غير متاحة أثناء الفحص الحالي:\n"
+            f"{failed_list_str}\n\n"
+            f"💡 <i>سيقوم البوت بإعادة فحصها تلقائياً في التشغيل القادم.</i>"
+        )
+        send_telegram_message(report_msg)
 
 if __name__ == "__main__":
     check_sites()
