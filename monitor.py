@@ -1,14 +1,13 @@
 import json
 import os
 import io
-import time
 import requests
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 import google.generativeai as genai
 import urllib3
 
-# إخفاء تحذيرات شهادات الأمان SSL فـ اللوغ
+# إخفاء تحذيرات شهادات الأمان SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # الإعدادات والمتغيرات
@@ -39,7 +38,7 @@ def send_telegram_message(text):
 def extract_text_from_pdf(pdf_url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
-        res = requests.get(pdf_url, headers=headers, timeout=5, verify=False)
+        res = requests.get(pdf_url, headers=headers, timeout=6, verify=False)
         if res.status_code == 200:
             pdf_file = io.BytesIO(res.content)
             reader = PdfReader(pdf_file)
@@ -82,6 +81,10 @@ def save_state(state):
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(state, f, ensure_ascii=False, indent=4)
 
+def clean_url(url):
+    """تنظيف الرابط لضمان عدم تكراره بفرقات بسيطة"""
+    return url.strip().split('?')[0].rstrip('/').replace('http://', 'https://')
+
 def check_sites():
     if not os.path.exists('sites.json'):
         print("sites.json file missing!", flush=True)
@@ -96,31 +99,42 @@ def check_sites():
         print(f"Checking {site_info['name']}...", flush=True)
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-            # verify=False لتفادي مشاكل الـ SSL و timeout=3 للسرعة
-            response = requests.get(site_info['url'], headers=headers, timeout=3, verify=False)
+            response = requests.get(site_info['url'], headers=headers, timeout=6, verify=False)
+            
+            if response.status_code != 200:
+                print(f"Skipping {site_info['name']}: HTTP Status {response.status_code}", flush=True)
+                continue
+
             soup = BeautifulSoup(response.text, 'html.parser')
             
             links = []
             for a in soup.find_all('a', href=True):
-                href = a['href']
+                href = a['href'].strip()
                 text = a.text.strip() or "إعلان / بلاغ جديد"
                     
-                if '.pdf' in href.lower() or 'avis' in href.lower() or 'concours' in href.lower() or 'annonce' in href.lower():
+                if any(ext in href.lower() for ext in ['.pdf', 'avis', 'concours', 'annonce', 'communique', 'actualite']):
                     if href.startswith('/'):
                         href = site_info['url'].rstrip('/') + href
                     elif not href.startswith('http'):
                         href = site_info['url'].rstrip('/') + '/' + href
-                    if href not in [l['url'] for l in links]:
+                    
+                    c_url = clean_url(href)
+                    if not any(clean_url(l['url']) == c_url for l in links):
                         links.append({"text": text, "url": href})
 
-            # 1. أول مرة: تسجيل صامت وسريع
-            if site_id not in state:
-                state[site_id] = [l['url'] for l in links]
-                print(f"Seeded {len(links)} links for {site_info['name']}", flush=True)
+            if not links:
                 continue
 
-            # 2. الإعلانات الجديدة فقط
-            new_links = [l for l in links if l['url'] not in state[site_id]]
+            # 💡 تسجيل صامت تلقائي لأي موقع لم يسبق تسجيله أو كانت قائمته فارغة
+            if site_id not in state or not state[site_id]:
+                state[site_id] = [clean_url(l['url']) for l in links]
+                save_state(state)
+                print(f"Silently seeded {len(links)} links for {site_info['name']}", flush=True)
+                continue
+
+            # البحث عن الإعلانات الجديدة فقط
+            existing_urls = set(state[site_id])
+            new_links = [l for l in links if clean_url(l['url']) not in existing_urls]
 
             for link in new_links:
                 print(f"New announcement found: {link['text']}", flush=True)
@@ -141,7 +155,8 @@ def check_sites():
                 )
                 
                 send_telegram_message(msg)
-                state[site_id].append(link['url'])
+                state[site_id].append(clean_url(link['url']))
+                save_state(state)
 
         except Exception as e:
             print(f"Error checking {site_info['name']}: {e}", flush=True)
