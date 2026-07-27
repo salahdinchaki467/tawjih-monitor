@@ -1,11 +1,13 @@
 import json
 import os
 import io
+import time
 import requests
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 import google.generativeai as genai
 import urllib3
+from urllib.parse import urlparse, urlunparse, urllib
 
 # إخفاء تحذيرات شهادات الأمان SSL فـ اللوغ
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -20,13 +22,20 @@ if GEMINI_API_KEY:
 
 DATA_FILE = 'state.json'
 
-# هيدرز موحدة تظهر كمتصفح Chrome حقيقي لتفادي الحظر
 DEFAULT_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
     'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7,ar;q=0.6',
-    'Upgrade-Insecure-Requests': '1'
+    'Cache-Control': 'no-cache, no-store, must-revalidate',
+    'Pragma': 'no-cache'
 }
+
+# كلمات تُستبعد لأنها غالباً روابط ثابتة فـ القوائم والـ Footer
+BLACKLIST_KEYWORDS = [
+    'contact', 'accueil', 'presentation', 'historique', 'mot du doyen', 
+    'mot du directeur', 'organigramme', 'emplacement', 'archive', 'galerie',
+    'اتصل بنا', 'الرئيسية', 'تقديم', 'الهيكلة'
+]
 
 def send_telegram_message(text):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
@@ -45,7 +54,9 @@ def send_telegram_message(text):
 
 def extract_text_from_pdf(pdf_url):
     try:
-        res = requests.get(pdf_url, headers=DEFAULT_HEADERS, timeout=6, verify=False)
+        # إضافة Cache Busting للـ PDF أيضاً
+        fresh_pdf_url = f"{pdf_url}{'&' if '?' in pdf_url else '?'}_cb={int(time.time())}"
+        res = requests.get(fresh_pdf_url, headers=DEFAULT_HEADERS, timeout=8, verify=False)
         if res.status_code == 200:
             pdf_file = io.BytesIO(res.content)
             reader = PdfReader(pdf_file)
@@ -89,8 +100,29 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=4)
 
 def clean_url(url):
-    """تنظيف الرابط لضمان عدم تكراره بفرقات بسيطة"""
-    return url.strip().split('?')[0].rstrip('/').replace('http://', 'https://')
+    """تنظيف الرابط وإزالة الـ Anchor (#) مع الحفاظ على Query Params المهمة"""
+    parsed = urlparse(url.strip())
+    # توحيد البرتوكول وإزالة التجزئة #
+    cleaned = urlunparse((
+        'https',
+        parsed.netloc.lower(),
+        parsed.path.rstrip('/'),
+        parsed.params,
+        parsed.query,
+        ''
+    ))
+    return cleaned
+
+def is_valid_announcement(text, href):
+    """التحقق من أن الرابط إعلان وليس زراً ثابتاً في الموقع"""
+    combined = (text + " " + href).lower()
+    
+    # استبعاد الكلمات الثابتة
+    if any(black in combined for black in BLACKLIST_KEYWORDS):
+        return False
+        
+    keywords = ['.pdf', 'avis', 'concours', 'annonce', 'communique', 'actualite', 'إعلان', 'مباراة', 'بلاغ']
+    return any(kw in combined for kw in keywords)
 
 def check_sites():
     if not os.path.exists('sites.json'):
@@ -101,12 +133,16 @@ def check_sites():
         sites = json.load(f)
     
     state = load_state()
-    failed_sites = []  # قائمة لجمع أسماء المواقع المعطلة
+    failed_sites = []
 
     for site_id, site_info in sites.items():
         print(f"Checking {site_info['name']}...", flush=True)
         try:
-            response = requests.get(site_info['url'], headers=DEFAULT_HEADERS, timeout=6, verify=False)
+            # تقنية Cache Busting: إضافة timestamp للرابط لمنع السيرفر من إرجاع صفحات قديمة
+            target_url = site_info['url']
+            cache_buster_url = f"{target_url}{'&' if '?' in target_url else '?'}_t={int(time.time())}"
+            
+            response = requests.get(cache_buster_url, headers=DEFAULT_HEADERS, timeout=8, verify=False)
             
             if response.status_code != 200:
                 print(f"Skipping {site_info['name']}: HTTP Status {response.status_code}", flush=True)
@@ -118,35 +154,40 @@ def check_sites():
             links = []
             for a in soup.find_all('a', href=True):
                 href = a['href'].strip()
-                text = a.text.strip() or "إعلان / بلاغ جديد"
-                    
-                if any(ext in href.lower() for ext in ['.pdf', 'avis', 'concours', 'annonce', 'communique', 'actualite']):
+                text = " ".join(a.text.split()) or "إعلان / بلاغ جديد"
+                
+                if is_valid_announcement(text, href):
+                    # إصلاح الروابط النسبية
                     if href.startswith('/'):
-                        href = site_info['url'].rstrip('/') + href
+                        href = target_url.rstrip('/') + href
                     elif not href.startswith('http'):
-                        href = site_info['url'].rstrip('/') + '/' + href
+                        href = target_url.rstrip('/') + '/' + href
                     
                     c_url = clean_url(href)
                     if not any(clean_url(l['url']) == c_url for l in links):
                         links.append({"text": text, "url": href})
 
+            # التركيز فقط على أول 10 روابط جديدة في الصفحة
+            links = links[:10]
+
             if not links:
                 continue
 
-            # 💡 تسجيل صامت تلقائي لأي موقع لم يسبق تسجيله أو كانت قائمته فارغة
+            # التسجيل المبدئي الصامت عند إضافة موقع جديد لأول مرة
             if site_id not in state or not state[site_id]:
                 state[site_id] = [clean_url(l['url']) for l in links]
                 save_state(state)
                 print(f"Silently seeded {len(links)} links for {site_info['name']}", flush=True)
                 continue
 
-            # البحث عن الإعلانات الجديدة فقط
+            # تصفية الإعلانات الجديدة غير الموجودة سابقاً
             existing_urls = set(state[site_id])
             new_links = [l for l in links if clean_url(l['url']) not in existing_urls]
 
             for link in new_links:
                 print(f"New announcement found: {link['text']}", flush=True)
                 summary_text = ""
+                
                 if '.pdf' in link['url'].lower():
                     pdf_text = extract_text_from_pdf(link['url'])
                     if pdf_text:
@@ -163,7 +204,12 @@ def check_sites():
                 )
                 
                 send_telegram_message(msg)
+                
+                # إضافته لـ state لمنع إرساله مجدداً
                 state[site_id].append(clean_url(link['url']))
+                
+                # الاحتفاظ بأحدث 50 رابط فقط لكل موقع لتفادي تضخم الملف
+                state[site_id] = state[site_id][-50:]
                 save_state(state)
 
         except Exception as e:
@@ -173,14 +219,13 @@ def check_sites():
     save_state(state)
     print("Done checking all sites.", flush=True)
 
-    # 📩 إرسال تقرير المواقع المعطلة إلى تلغرام إن وجدت
-    if failed_sites:
-        failed_list_str = "\n".join([f"• {s}" for s in failed_sites])
+    # إرسال تقرير المواقع المعطلة إلى تلغرام فقط إذا تجاوزت 5 مواقع
+    if len(failed_sites) > 5:
+        failed_list_str = "\n".join([f"• {s}" for s in failed_sites[:10]])
         report_msg = (
-            f"⚠️ <b>تقرير الفحص: مواضع لم تجب</b>\n\n"
-            f"المواقع التالية كانت غير متاحة أثناء الفحص الحالي:\n"
+            f"⚠️ <b>تقرير الفحص: بعض المواقع لم تجب</b>\n\n"
             f"{failed_list_str}\n\n"
-            f"💡 <i>سيقوم البوت بإعادة فحصها تلقائياً في التشغيل القادم.</i>"
+            f"💡 <i>سيقوم البوت بإعادة فحصها تلقائياً.</i>"
         )
         send_telegram_message(report_msg)
 
