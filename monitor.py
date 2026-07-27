@@ -7,7 +7,7 @@ from pypdf import PdfReader
 import google.generativeai as genai
 import urllib3
 
-# إخفاء تحذيرات شهادات الأمان SSL
+# إخفاء تحذيرات شهادات الأمان SSL فـ اللوغ
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # الإعدادات والمتغيرات
@@ -19,6 +19,14 @@ if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
 
 DATA_FILE = 'state.json'
+
+# هيدرز موحدة تظهر كمتصفح Chrome حقيقي لتفادي الحظر
+DEFAULT_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7,ar;q=0.6',
+    'Upgrade-Insecure-Requests': '1'
+}
 
 def send_telegram_message(text):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
@@ -37,8 +45,7 @@ def send_telegram_message(text):
 
 def extract_text_from_pdf(pdf_url):
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        res = requests.get(pdf_url, headers=headers, timeout=6, verify=False)
+        res = requests.get(pdf_url, headers=DEFAULT_HEADERS, timeout=6, verify=False)
         if res.status_code == 200:
             pdf_file = io.BytesIO(res.content)
             reader = PdfReader(pdf_file)
@@ -99,8 +106,7 @@ def check_sites():
     for site_id, site_info in sites.items():
         print(f"Checking {site_info['name']}...", flush=True)
         try:
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-            response = requests.get(site_info['url'], headers=headers, timeout=6, verify=False)
+            response = requests.get(site_info['url'], headers=DEFAULT_HEADERS, timeout=6, verify=False)
             
             if response.status_code != 200:
                 print(f"Skipping {site_info['name']}: HTTP Status {response.status_code}", flush=True)
@@ -127,7 +133,7 @@ def check_sites():
             if not links:
                 continue
 
-            # 💡 تسجيل صامت تلقائي لأي موقع لم يسبق تسجيله
+            # 💡 تسجيل صامت تلقائي لأي موقع لم يسبق تسجيله أو كانت قائمته فارغة
             if site_id not in state or not state[site_id]:
                 state[site_id] = [clean_url(l['url']) for l in links]
                 save_state(state)
