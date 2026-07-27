@@ -168,7 +168,7 @@
   "fsjes_kenitra": { "name": "كلية الحقوق القنيطرة", "url": "https://fsjes.uit.ac.ma/" },
 
   "fs_jadida": { "name": "كلية العلوم الجديدة", "url": "http://www.ucd.ac.ma/fs/" },
-  "fsjes_jadida": { "name": "كلية الحقوق الجديدة", "url": "http://www.ucd.ac.ma/fsjes/" },
+  "fsjes_jadida": { "name": "كلية العلوم القانونية والاقتصادية الجديدة", "url": "http://www.fsjes.ucd.ac.ma/" },
 
   "fsjes_settat": { "name": "كلية الحقوق سطات", "url": "http://www.fsjes.uh1.ac.ma/" },
 
@@ -239,7 +239,6 @@
 
   "fs_beni_mellal": { "name": "كلية العلوم بني ملال", "url": "http://fs.usms.ac.ma/" },
   "fsjes_mohammedia": { "name": "كلية العلوم القانونية والاقتصادية المحمدية", "url": "http://www.fsjesm.ma/" },
-  "fsjes_el_jadida": { "name": "كلية العلوم القانونية والاقتصادية الجديدة", "url": "http://www.fsjes.ucd.ac.ma/" },
   "cu_kelaa": { "name": "المركز الجامعي قلعة السراغنة", "url": "http://www.cu-kelaa.uca.ma/" },
 
   "isfr_sale": { "name": "معهد الفنيين المتخصصين في المياه والغابات سلا", "url": "http://www.eauxetforets.gov.ma/" },
