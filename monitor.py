@@ -21,7 +21,6 @@ if GEMINI_API_KEY:
 
 DATA_FILE = 'state.json'
 
-# هيدرز قوية لتفادي الحظر مع منع الكاش بدون تغيير الرابط
 DEFAULT_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
@@ -35,6 +34,37 @@ BLACKLIST_KEYWORDS = [
     'mot du directeur', 'organigramme', 'emplacement', 'archive', 'galerie',
     'اتصل بنا', 'الرئيسية', 'تقديم', 'الهيكلة'
 ]
+
+# قائمة بالبروكسيات المجانية لتجاوُز حظر سيرفرات الجامعات المغربية فـ GitHub
+PROXY_SERVICES = [
+    "https://api.allorigins.win/raw?url={url}",
+    "https://corsproxy.io/?{url}",
+    "https://thingproxy.freeboard.io/fetch/{url}"
+]
+
+def fetch_with_retry(url, timeout=12, max_retries=2):
+    """جلب محتوى الصفحة مع محاولة الاتصال المباشر أولاً ثم التجربة عبر البروكسيات"""
+    # 1. المحاولة المباشرة
+    for attempt in range(max_retries):
+        try:
+            res = requests.get(url, headers=DEFAULT_HEADERS, timeout=timeout, verify=False)
+            if res.status_code == 200 and len(res.text) > 200:
+                return res
+        except Exception:
+            time.sleep(1)
+
+    # 2. المحاولة عبر شبكة البروكسيات إذا فشل الاتصال المباشر
+    for proxy_template in PROXY_SERVICES:
+        try:
+            proxy_url = proxy_template.format(url=url)
+            p_res = requests.get(proxy_url, headers=DEFAULT_HEADERS, timeout=18, verify=False)
+            if p_res.status_code == 200 and len(p_res.text) > 200:
+                print(f"✅ تم الجلب عبر البروكسي لـ: {url}", flush=True)
+                return p_res
+        except Exception:
+            continue
+
+    return None
 
 def send_telegram_message(text):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
@@ -53,8 +83,8 @@ def send_telegram_message(text):
 
 def extract_text_from_pdf(pdf_url):
     try:
-        res = requests.get(pdf_url, headers=DEFAULT_HEADERS, timeout=12, verify=False)
-        if res.status_code == 200:
+        res = fetch_with_retry(pdf_url, timeout=15)
+        if res and res.status_code == 200:
             pdf_file = io.BytesIO(res.content)
             reader = PdfReader(pdf_file)
             text = ""
@@ -131,12 +161,12 @@ def check_sites():
     for site_id, site_info in sites.items():
         print(f"Checking {site_info['name']}...", flush=True)
         try:
-            # زيادة Timeout إلى 15 ثانية لضمان استجابة المواقع البطيئة
-            response = requests.get(site_info['url'], headers=DEFAULT_HEADERS, timeout=15, verify=False)
+            response = fetch_with_retry(site_info['url'], timeout=12)
             
-            if response.status_code != 200:
-                print(f"Skipping {site_info['name']}: HTTP Status {response.status_code}", flush=True)
-                failed_sites.append(f"{site_info['name']} (كود: {response.status_code})")
+            if not response or response.status_code != 200:
+                code = response.status_code if response else "No Response"
+                print(f"Skipping {site_info['name']}: HTTP Status {code}", flush=True)
+                failed_sites.append(f"{site_info['name']} (كود: {code})")
                 continue
 
             soup = BeautifulSoup(response.text, 'html.parser')
@@ -156,13 +186,11 @@ def check_sites():
                     if not any(clean_url(l['url']) == c_url for l in links):
                         links.append({"text": text, "url": href})
 
-            # أخذ أول 15 رابط فقط لتفادي جلب الأرشيف القديم
             links = links[:15]
 
             if not links:
                 continue
 
-            # التسجيل المبدئي للرابط إذا كان الموقع جديداً فـ state.json
             if site_id not in state or not state[site_id]:
                 state[site_id] = [clean_url(l['url']) for l in links]
                 save_state(state)
@@ -194,7 +222,6 @@ def check_sites():
                 send_telegram_message(msg)
                 state[site_id].append(clean_url(link['url']))
                 
-                # إبقاء أحدث 50 رابط فقط فـ state لكل موقع
                 state[site_id] = state[site_id][-50:]
                 save_state(state)
 
@@ -205,7 +232,6 @@ def check_sites():
     save_state(state)
     print("Done checking all sites.", flush=True)
 
-    # إرسال تقرير تلغرام فقط إذا كانت المواقع الفاشلة أكثر من 10 مواقع
     if len(failed_sites) > 10:
         failed_list_str = "\n".join([f"• {s}" for s in failed_sites[:10]])
         report_msg = (
