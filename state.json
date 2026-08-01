@@ -120,7 +120,8 @@
         "http://www.ensa-agadir.ac.ma/pages/tempamenage",
         "https://www.youtube.com/watch?v=rLsjtEClNYU",
         "http://www.ensa-agadir.ac.ma/index-2.html",
-        "http://www.ensa-agadir.ac.ma/pages/trone2026"
+        "http://www.ensa-agadir.ac.ma/pages/trone2026",
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=www.ensa-agadir.ac.ma"
     ],
     "ensa_tanger": [
         "https://ensat.ac.ma/Portail/centres-dexamen-tanger-concours-ensa-2026-2027/",
@@ -1036,7 +1037,8 @@
         "http://fsjes-sale.um5.ac.ma/node/731",
         "http://fsjes-sale.um5.ac.ma/index.php/node/685",
         "http://fsjes-sale.um5.ac.ma/node/701",
-        "http://fsjes-sale.um5.ac.ma/node/700"
+        "http://fsjes-sale.um5.ac.ma/node/700",
+        "http://fsjes-sale.um5.ac.ma/node/732"
     ],
     "fs_casa_ain_chock": [
         "http://www.fsac.ac.ma/annonces.html",
@@ -2098,7 +2100,10 @@
         "https://www.supmaroc.com/isic-rabat-concours-master-2026-2027",
         "https://www.supmaroc.com/fs-ain-chock-casablanca-masters-fsac-2026-2027",
         "https://www.supmaroc.com/preselection-esrft-tanger-ecole-roi-fahd-2026-2027",
-        "https://www.supmaroc.com/bac3-concours-iscae-2eme-gm-2026-2027"
+        "https://www.supmaroc.com/bac3-concours-iscae-2eme-gm-2026-2027",
+        "https://www.supmaroc.com/ens-casablanca-casa-concours-master-normal-amenage-2026-2027",
+        "https://www.supmaroc.com/esef-berrechid-master-normal-et-amenage-2026-2027",
+        "https://www.supmaroc.com/fst-marrakech-avis-concours-lst-acces-s5-2026-2027"
     ],
     "tawjih_info": [
         "https://www.tawjih.info/avisconcours.php",
@@ -2153,12 +2158,6 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23350"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/5b03f025-2080-458b-996f-8cb9679a6229",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2a6e06ca-6e7b-4f74-bc94-36c6ddcfe533",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/86dc7506-e3f3-4673-b352-e2418a1f918b",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/576652e1-f2af-4b8f-ab3a-24fc35e4e02b",
-        "http://maps.service-public.ma",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/13cd8b82-e82b-4f40-b07f-b30f82b42464",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/b106db09-b41c-4163-a76d-f8205ec94cc2",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/719a2c81-60ae-424a-b8ad-4794a494c3ab",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/b89b6b38-795f-49af-9d00-910305760e85",
@@ -2202,7 +2201,13 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9b86efa-89b3-4bef-8060-fba970ef9f66",
         "https://www.prixpanafricain-servicepublic.org",
         "https://www.emtiaz.ma",
-        "http://idarati.ma"
+        "http://idarati.ma",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/54950a7a-82f8-4e77-8ec0-fa44762e58a0",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/fd208cc5-f1c0-4a80-8bab-e1a758b57dfe",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/838415be-f998-467d-9f57-2b05fd2a4f9f",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e847bd57-c8d1-4e3c-9d60-e67d5c3919c9",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/fd9d5f69-5057-46ec-a3d8-2a64bfdfccfb",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/f2e10bd2-ff04-47fd-8e7b-5edb3cafd989"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -2297,5 +2302,14 @@
         "https://www.uae.ac.ma/actualites/annonces-diverses/table-ronde-autour-de-la-recherche-scientifique-et-de-linnovation",
         "https://www.uae.ac.ma/actualites/annonces-diverses/jamt-bd-almalk-alsdy-thtfy-baldhkry-27-lyd-alrsh-almjyd",
         "https://www.uae.ac.ma/actualites/annonces-concours/alan-n-fth-bab-altrshyh-lwlwj-almdrst-allya-lltknwlwjya-balhsymt-brsm"
+    ],
+    "massar": [
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_525&utm_campaign=massarservice.men.gov.ma"
+    ],
+    "bts_maroc": [
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=e-bts.men.gov.ma"
+    ],
+    "ensa_khouribga": [
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_525&utm_campaign=ensak.usms.ac.ma"
     ]
 }
