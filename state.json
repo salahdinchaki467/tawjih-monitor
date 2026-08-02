@@ -1527,8 +1527,6 @@
     ],
     "flsh_mohammedia": [],
     "flsh_ain_chock": [
-        "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/dates/hist_s6_session1.pdf",
-        "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/dates/hist_s4_session1.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/dates/hist_s2_session1.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/dates/fra_s6_session1.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/dates/fra_s4_session1.pdf",
@@ -1576,7 +1574,9 @@
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/hist_s2_session2_2.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/fra_s6_session2.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/fra_s4_session2_1.pdf",
-        "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/fra_s2_session2.pdf"
+        "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/fra_s2_session2.pdf",
+        "http://www.flsh-uh2c.ac.ma/mailto:communication@flshac.ma",
+        "https://www.flsh-uh2c.ac.ma/docs/2026/annonce_02-08-2026.pdf"
     ],
     "flsh_kenitra": [],
     "flsh_jadida": [
