@@ -155,7 +155,8 @@
         "https://ensat.ac.ma/Portail/avis-de-soutenance-doctorat-67",
         "https://ensat.ac.ma/Portail/avis-de-soutenance-doctorat-66",
         "https://ensat.ac.ma/Portail/avis-de-soutenance-habilitation-universitaire-15",
-        "https://ensat.ac.ma/Portail/concours-dacces-2026-2027-liste-dattente"
+        "https://ensat.ac.ma/Portail/concours-dacces-2026-2027-liste-dattente",
+        "https://ensat.ac.ma/Portail/resultats-dacces-aux-ensa-liste-dattente-n2"
     ],
     "ensa_kenitra": [
         "https://ensa.uit.ac.ma/avis-de-soutnance/",
@@ -2162,7 +2163,8 @@
         "https://www.youtube.com/channel/UCzAzUeV3stUUSPR3gHXYcfA",
         "http://www.usms.ac.ma/node/1133",
         "http://www.usms.ac.ma/node/1131",
-        "http://www.usms.ac.ma/node/1139"
+        "http://www.usms.ac.ma/node/1139",
+        "http://www.usms.ac.ma/node/1152"
     ],
     "univ_uit": [
         "https://www.uit.ac.ma/avis-important-aux-doctorants-nayant-pas-valide-un-ou-plusieurs-modules-obligatoires/",
@@ -2531,10 +2533,6 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23470"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%A7%D8%B7%D8%B1%D8%AD-%D8%B3%D8%A4%D8%A7%D9%84%D8%A7",
-        "https://www.emploi-public.ma/ar/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9",
-        "https://www.emploi-public.ma",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/72ed0218-c625-44ef-ad36-0ddf1450d8b7",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/842983cc-7255-4c4b-bb17-e127c97242eb",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d35122cb-97cb-472b-9188-5979d87c14ab",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2a56355b-6652-407d-8b60-41bbef231c1f",
@@ -2580,7 +2578,11 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c74fd975-8344-45f4-9ad8-d78f3f370c10",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1463eca2-688c-47c1-863a-38c6e65e58a7",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d12b1869-b29c-45b7-9ce4-dc542660e304",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/10c4fb50-9762-4c47-bf3d-cf5090dac6ae"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/10c4fb50-9762-4c47-bf3d-cf5090dac6ae",
+        "https://www.emploi-public.ma/ar",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/def9877b-261f-4d8e-8254-71c62ed30b51",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/a96f4dec-e4ec-4391-8757-36a84f04ebbf",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/cfabb382-bf9f-4974-bc0a-145920bd0285"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -2633,7 +2635,8 @@
         "https://www.ensaj.ucd.ac.ma/pieces-a-fournir-pour-linscription-au-cycle-ingenieur-de-lensa-del-jadida-annee-universitaire-20262027",
         "https://www.ensaj.ucd.ac.ma/pieces-a-fournir-pour-linscription-au-cycle-preparatoire-de-lensa-del-jadida-annee-universitaire-2026-2027",
         "https://www.ensaj.ucd.ac.ma/resultats-du-concours-national-dacces-aux-ecoles-nationales-des-sciences-appliquees-ensa-annee-universitaire-2026-2027",
-        "https://www.ensaj.ucd.ac.ma/liste-des-candidats-convoques-au-concours-national-dacces-aux-ensa-maroc-au-titre-de-lannee-universitaire-20262027"
+        "https://www.ensaj.ucd.ac.ma/liste-des-candidats-convoques-au-concours-national-dacces-aux-ensa-maroc-au-titre-de-lannee-universitaire-20262027",
+        "https://www.ensaj.ucd.ac.ma/avis-relatif-aux-resultats-dacces-aux-ecoles-nationales-des-sciences-appliquees-ensa-liste-dattente-2"
     ],
     "est_dakhla": [
         "http://estd.uiz.ac.ma",
