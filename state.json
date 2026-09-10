@@ -1194,11 +1194,6 @@
         "https://isadac.ma/assets/images/event/PlaquetteMasterEcritureTheatrale.pdf"
     ],
     "fsjes_agdal": [
-        "https://www.youtube.com/channel/UCUmPHW3HVmQ4tNaQm54z0KQ",
-        "http://fsjes-agdal.um5.ac.ma/fr",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2820",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2817",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2821",
         "http://fsjes-agdal.um5.ac.ma/fr/node/2821",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2818",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2822",
@@ -1243,7 +1238,12 @@
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2861",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2864",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2862",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2840"
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2840",
+        "https://www.facebook.com/FSJESAGDAL.ma",
+        "https://www.instagram.com/fsjes.agdal",
+        "http://fsjes-agdal.um5.ac.ma/fr/avis-licence",
+        "http://fsjes-agdal.um5.ac.ma/fr/node/2864",
+        "http://fsjes-agdal.um5.ac.ma/fr/avis-master"
     ],
     "fsjes_souissi": [
         "https://www.facebook.com/FsjessSouissi",
@@ -1403,16 +1403,6 @@
         "http://www.flsh-agadir.ac.ma?p=36670"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/Avis-doctorat",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InlqTS9Pb1daektEWmhjWUlUQzhKWUE9PSIsInZhbHVlIjoiQmdrbldoRisweGFudDVFQ0JkOFlLdz09IiwibWFjIjoiZDQwZGU2ZDllMTk2MWM3ZWIyMGE2YWE3ZTI3ZWVjMTEzMWIxYjliOTE0MmE2ZmNiMjU5OTI1ZDQxYTM4MjU1MyIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InNGZzBsNGxDMHhXZjREa3dPa0hwS2c9PSIsInZhbHVlIjoiVHhML2VIUFJzLy9SRGJNT2dXa3Judz09IiwibWFjIjoiYThhMzdmNjY2NDc5NmZlNWVjNzhkZDIyNjRlYTMxMmRkYzU0OWYwOTc1YWI4YjczYjRhZjljNjczMTI1MmJlYiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik9kUnV0NE9NY01TS3A2YlJWOS9ocEE9PSIsInZhbHVlIjoidU1YUklCZmVhSVRNSEdPWG9IYVZwUT09IiwibWFjIjoiZTg4NDJkYzJmNzM1NDBhNmQwMTgwOTE0MTAwN2Y3YWRhMzA4NTQ2NTY2ZjNjZTllYmM3ZWU1NWZkZjNkNGRjZSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlNBL0xyUjMxQzcwWHV6MGVaRnpqWnc9PSIsInZhbHVlIjoicHVpNXRFeTdHQVF1dVJJeU5sQXQ2QT09IiwibWFjIjoiOGJmMmJhODBjYmQwN2ZlNjk3OWJkN2E3NWFhMDNmM2VjNGFkNWRmYmRlMGFjYzBjNDhkMGU3MGM5ZDFlOGI3MyIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjgzU29SM292NVN4UjZFdmJGTkV2NFE9PSIsInZhbHVlIjoiRjUrWWsyRWpQVjJKK3hlczBzVEovQT09IiwibWFjIjoiZjZiMTQ4NDFkNTQxZTFjOTVlNGEzNWNkYzI5MDZkNGQ5MjZjZTZmYjAwMDVhMzA1OGM5NjdkYzRjOTE1M2Y1ZiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImRaNWN0K2ZVaFYrcVoyUFJwUklLQWc9PSIsInZhbHVlIjoiU1hQOGY0eG53MzN6VkpjVGdFSDlKQT09IiwibWFjIjoiZThjYzBhYTY0OWUwYTg2MDBjNmExYjc2MGNiNDAzNzY1ZTExYjVhNjQ4Yjg5MDdhNmJkMzdhODlkNDY0NmE4ZCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjAvNDBTRTNWS2I4cUhPYkdmZGMrK1E9PSIsInZhbHVlIjoiSWlvalZnSCsxZitVTnJkcGJacFVGQT09IiwibWFjIjoiZjU1ODUyNjFmNTUwMDBkNDcwMzQ4MTVhM2ZlMTliYzhmNDdlMzhiYWZiNjdkMjRhNzhmMGI1ZDk3ZmViOTk1YiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkloVS9XS2htZ1VCeWhvb0g1V0d1cWc9PSIsInZhbHVlIjoiejVSS0w2UHJ6Rk81c21tZEJkWFRkZz09IiwibWFjIjoiMzZiMGYwZTIxZDhiODgyNzhjMDBiNzEzMTY2ZWRmY2Y4MTZmNGJmNzAzZDQ0OTIzZWIxOTE2ZDk3MjZhMzE3YyIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IitTQVEwMmROUk5YaktzT04ybmZPNkE9PSIsInZhbHVlIjoiZWk4eVFaYmg0K1h4ekErUEpSalpPQT09IiwibWFjIjoiOWYzYmExMzQxZTJkZmZkZTU5OWQwZWI2MzE5Njc3YmQwZmMxYWE0ZTA1YmQyNDliMWQzZTE4YjllZTE5NGQwZCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/files/Calendar.pdf",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImNqcktXejdqclMxRG14K3Q2WkpFb2c9PSIsInZhbHVlIjoiQkhVdW9LNERDY1JPQTB4SnUzUUM4dz09IiwibWFjIjoiNTBjNzk0ZjVlOGVmMGJmYWUwN2EyYWQyMzc5M2U0YjljMzZhOGZhYzVmMDkzMzI2M2ZjZTY2ODA3MGY1ZWZmZCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlZraTQ2SHBGb0lMUnhlTFdRVHh3Umc9PSIsInZhbHVlIjoibkR0cHJQRzNHeU8vS1JocHVCTUZXZz09IiwibWFjIjoiODk1MjdkYzkyMzY5NDAyMGQ4ZjAyNWJjNDMwOTRjYjQ0ODZlYWY1NDUyZDQwM2Y0NzBlMDUwYmU0MDlkM2E5NiIsInRhZyI6IiJ9",
@@ -1452,7 +1442,17 @@
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Imw1VytkWHgzeVlwKzJzd09FakRMQ0E9PSIsInZhbHVlIjoiMEhFeU9GME0vUHJRVjlMYmRrWTl4UT09IiwibWFjIjoiZDkzNDkyNmJmOTg4MGU0NzQyZThlZWQzMTU1NDE3N2M2YmRjYzA1YzAyOTZkMGFjNzFlOGQyODc4MzJhYzM4MyIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik1lYTMwVkxrR0RKdzRPMnZLcWN3TWc9PSIsInZhbHVlIjoiaDEySDJIcHRlZllxWE1UMmJrYUZiQT09IiwibWFjIjoiYTk0YmIxOTgzZDJjMmZkZjhiOGFjOTE5YzA3NmVjY2JjYThhNDVjMDk5ZDE1YmUwMmQwM2EwYTBlMjViZjRjZiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlhNdlZLKytkaUorQnRkVzlhdXo5TkE9PSIsInZhbHVlIjoiVkxCWUU5cUhKNGxRUVpKV3VkbklRQT09IiwibWFjIjoiMjEzOTFhNTgwMTg0Njc0NWJiZTQwOWNlNWNlZDYyMDMxM2E4NDg4OTdiNjNlY2RhODA4YTZlMjQ5NzlkNWI2OSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkNhd1FOcGY0YTZMYUFYYjZhZkphVVE9PSIsInZhbHVlIjoicDZ3MTlLRFZTSmg3Rm1DVUo5cUtQZz09IiwibWFjIjoiMGFiYTE0NzllMTM4MzY5NTc5MmRlYjNhM2YwYTA2ZWY2ZDhhZDRlOWE5ODJjNWM1NGM2MzBiZmRlODFlNzEyZSIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkNhd1FOcGY0YTZMYUFYYjZhZkphVVE9PSIsInZhbHVlIjoicDZ3MTlLRFZTSmg3Rm1DVUo5cUtQZz09IiwibWFjIjoiMGFiYTE0NzllMTM4MzY5NTc5MmRlYjNhM2YwYTA2ZWY2ZDhhZDRlOWE5ODJjNWM1NGM2MzBiZmRlODFlNzEyZSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/files/cadre-tpA.pdf",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImNibDVWcEt4dnR6MEd2NGpraDFlR2c9PSIsInZhbHVlIjoiMDlMWVBBNlBiTlZkNENLdWJXdTEwdz09IiwibWFjIjoiMGZlM2I3NTlhNmY1ZTgzYzE5Yzk5YWM5MTgxNjY1NjNhMmM4MzU0NmRkNzMwODEwNjNmMDQ5ZmVjYTVkMzBiMiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InVta2dEbDZyT0ZEa1Ewb3hCOStscEE9PSIsInZhbHVlIjoieTR6Sis5bmh5ZjcrREFXS0hxTTZGdz09IiwibWFjIjoiOWM1Y2FhYmQ0OWEzOTlmNzE4N2ZjZGRiYzQxNGNhOWRhYjU4Y2M0MDUzYTMyNjBkZjg2Y2ZiZGNjOTFlMzcxMCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ii81T3lON0RNUnhkMFVPRXFodFpla2c9PSIsInZhbHVlIjoidkJEYmdnWUNqZG5tQzhKVHBub1Zadz09IiwibWFjIjoiNWUwNTAxYmExN2ZhNGEyMWNkZTkwODk3MjQ4ODcyNDNkYzkzNzhiMDI2YmI5YWU3NjQ3ZWM3NmY5YmIzY2YzYSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlNMTFJta1Y3ZHE0RGI0dUQ5RWNweUE9PSIsInZhbHVlIjoic1RESm1mMG94ZUFHS3QzaWFoZkRkQT09IiwibWFjIjoiZDdmNjU1MWI4ZWQwYTJlYTJjMGE5NDQyYTUyNzMxNTkxNTYwNTA5NzU5ZTRjNmI4ZTA3OTUyYjcyMGJkOTFmMSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InlBdm9kaHkySTlxMXI0MXdseTEySkE9PSIsInZhbHVlIjoiR0YxVmZHa2IxMElNM2NjOTVVeEg0dz09IiwibWFjIjoiNTYzMTBlZDg4YzE4ZmY0YjI0MmQ0MGM0ZTBhMjRkODFjN2JkMDY3OGJkOTY2ZDg4ZDYxYWY0ZDViZmU3YTAwZSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Im4vM1kxYThYTGd2N2NUeTdLcjhYNUE9PSIsInZhbHVlIjoiN052Y25YN3NzbXZhbDRZdGtsODhuQT09IiwibWFjIjoiMTY2OTMzMDQyN2ViZDA2MGQzOTFkN2FjMzcxZjliMzBlNjBhMmU2Y2Y0Y2JlOTIxNzdkMjQzOTIwODJiOTJjOSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjFiYWluamJMdEx0YzZid3dYUE43M2c9PSIsInZhbHVlIjoieDJTYUh3dE5GeGhDeDNDTmVWeXlOQT09IiwibWFjIjoiY2Y5YzlhZmE0ZjQ4ZWYyMGZhYjZiNjEwZGM5Y2FhZDU2ODY4Mzk0YTUyNDU3OTY1MWM3NzA1MzQ2YWVhNzlhZCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik5ONlVwV3M5cjBBYTRvN09vSlExQUE9PSIsInZhbHVlIjoiWE9GeldlMVh5WDJpaHNlQTlyRkdPdz09IiwibWFjIjoiOTk2M2IxYjE3MTRiNGFjNDc2ZGNkNGQ4Y2U1MzYxOTcwM2E0N2ZiNDYwZmE2YTJkNGQ5NDQzZTc2NDFjYmQ0OCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Imo3dGVyWEVKQzVsQTRSczNMN3lvL2c9PSIsInZhbHVlIjoiQ3RLMjV1WmU3UzNGTURxQWY2QTRWdz09IiwibWFjIjoiYzFhNmZiNGI3Mjk0ODg0N2FlYmEzODM5MjI5MmY0ZGU1ZTUwYWMzMzNmMDdlMDFiZTdmNjM4ZmUzMmM3YmY0YSIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -2655,7 +2655,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23435",
         "https://www.alwadifa-maroc.com/offre/show/id/23432",
         "https://www.alwadifa-maroc.com/actualite/show/id/2141",
         "https://www.alwadifa-maroc.com/offre/show/id/23430",
@@ -2704,10 +2703,10 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23512",
         "https://www.alwadifa-maroc.com/offre/show/id/23513",
         "https://www.alwadifa-maroc.com/actualite/show/id/2148",
-        "https://www.alwadifa-maroc.com/offre/show/id/23517"
+        "https://www.alwadifa-maroc.com/offre/show/id/23517",
+        "https://www.alwadifa-maroc.com/offre/show/id/23519"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/b5880426-3819-4b81-9d33-41ca5397c581",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/806d2f82-0ec1-4b39-b28d-ef14c6a42b1a",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/a7042500-03d1-4a2e-a1f6-fc7920defa4f",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/0cf43f51-cc3e-47d4-9c66-6beb1edac26f",
@@ -2756,7 +2755,8 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/078fd6da-45f0-4090-a3f1-05f37f11069c",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/785384e4-e79e-43d6-9104-888ad29ac55c",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2c15e888-7029-4082-9334-eef194ee5586",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/18a4ab71-52ca-4f73-8b54-00e20e256e78"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/18a4ab71-52ca-4f73-8b54-00e20e256e78",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e7790234-1391-45fb-9402-068f3dcf6123"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
