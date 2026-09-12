@@ -1222,7 +1222,6 @@
         "https://isadac.ma/assets/images/event/PlaquetteMasterEcritureTheatrale.pdf"
     ],
     "fsjes_agdal": [
-        "http://fsjes-agdal.um5.ac.ma/fr/node/2829",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2829",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2831",
         "http://fsjes-agdal.um5.ac.ma/fr/node/2830",
@@ -1271,7 +1270,8 @@
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2877",
         "http://fsjes-agdal.um5.ac.ma/fr/node/2879",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/avis-licence",
-        "http://fsjes-agdal.um5.ac.ma/fr/node/2882"
+        "http://fsjes-agdal.um5.ac.ma/fr/node/2882",
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/avis-master"
     ],
     "fsjes_souissi": [
         "https://www.facebook.com/FsjessSouissi",
@@ -1315,7 +1315,9 @@
         "http://fsjes-souissi.um5.ac.ma/node/469",
         "http://fsjes-souissi.um5.ac.ma/node/477",
         "http://fsjes-souissi.um5.ac.ma/node/476",
-        "http://fsjes-souissi.um5.ac.ma/index.php/node/480"
+        "http://fsjes-souissi.um5.ac.ma/index.php/node/480",
+        "http://fsjes-souissi.um5.ac.ma/node/480",
+        "http://fsjes-souissi.um5.ac.ma/node/479"
     ],
     "fsjes_sale": [
         "http://fsjes-sale.um5.ac.ma/sites/default/files/doctoriales%20fsjes%20sal%C3%A9%20finale%2030_03_2026%20(4).pdf",
@@ -1432,7 +1434,8 @@
         "http://www.flsh-agadir.ac.ma?p=36667",
         "http://www.flsh-agadir.ac.ma?p=36668",
         "http://www.flsh-agadir.ac.ma?p=36669",
-        "http://www.flsh-agadir.ac.ma?p=36670"
+        "http://www.flsh-agadir.ac.ma?p=36670",
+        "http://www.flsh-agadir.ac.ma?p=36744"
     ],
     "fp_ouarzazate": [
         "https://fpo.uiz.ac.ma/avis",
@@ -2530,8 +2533,6 @@
         "https://ismac.ac.ma"
     ],
     "tawjihnet": [
-        "https://www.tawjihnet.net/2eme-session-septembre-ts-itsmaer-bouknadel-sale-2026-2027",
-        "https://www.tawjihnet.net/preselection-concours-inau-rabat-2026-2027",
         "https://www.tawjihnet.net/preselection-ifmbtp-fes-metiers-btp-2026-2027",
         "https://www.tawjihnet.net/vb/threads/136017",
         "https://www.tawjihnet.net/concours-ismac-dakhla-septembre-2026-2027",
@@ -2579,7 +2580,9 @@
         "https://www.tawjihnet.net/resultats-definitifs-ispits-2026-2027",
         "https://www.tawjihnet.net/resultats-preselection-ispits-2026-2027",
         "https://www.tawjihnet.net/inscription-concours-ispits-2026-2027",
-        "https://www.tawjihnet.net/resultats-cpge-listes-principales-lp-2026-2027"
+        "https://www.tawjihnet.net/resultats-cpge-listes-principales-lp-2026-2027",
+        "https://www.tawjihnet.net/resultats-techniciens-ifmeree-oujda-tanger-2026-2027",
+        "https://www.tawjihnet.net/resultats-definitifs-ifmeree-oujda-tanger-ouarzazate-2026-2027"
     ],
     "moutamadris": [
         "https://moutamadris.ma",
@@ -2693,8 +2696,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23450",
-        "https://www.alwadifa-maroc.com/actualite/show/id/2144",
         "https://www.alwadifa-maroc.com/offre/show/id/23452",
         "https://www.alwadifa-maroc.com/offre/show/id/23456",
         "https://www.alwadifa-maroc.com/offre/show/id/23458",
@@ -2742,7 +2743,9 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23526",
         "https://www.alwadifa-maroc.com/offre/show/id/23525",
         "https://www.alwadifa-maroc.com/offre/show/id/23531",
-        "https://www.alwadifa-maroc.com/offre/show/id/23530"
+        "https://www.alwadifa-maroc.com/offre/show/id/23530",
+        "https://www.alwadifa-maroc.com/offre/show/id/23535",
+        "https://www.alwadifa-maroc.com/offre/show/id/23534"
     ],
     "emploi_public": [
         "https://www.emploi-public.ma/ar",
@@ -2850,7 +2853,8 @@
         "https://www.ensaj.ucd.ac.ma/liste-des-candidats-convoques-au-concours-national-dacces-aux-ensa-maroc-au-titre-de-lannee-universitaire-20262027",
         "https://www.ensaj.ucd.ac.ma/avis-relatif-aux-resultats-dacces-aux-ecoles-nationales-des-sciences-appliquees-ensa-liste-dattente-2",
         "https://www.ensaj.ucd.ac.ma/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84-17",
-        "https://www.ensaj.ucd.ac.ma/avis-de-prolongation-du-delai-de-depot-des-dossiers-de-candidature-en-ligne-au-cycle-master-de-lecole-nationale-des-sciences-appliquees-del-jadida-au-titre-de-lannee-univers"
+        "https://www.ensaj.ucd.ac.ma/avis-de-prolongation-du-delai-de-depot-des-dossiers-de-candidature-en-ligne-au-cycle-master-de-lecole-nationale-des-sciences-appliquees-del-jadida-au-titre-de-lannee-univers",
+        "https://www.ensaj.ucd.ac.ma/avis-dinscription-des-etudiants-issus-du-concours-national-commun-cnc-admis-en-1ere-annee-du-cycle-ingenieur-de-lensa-del-jadida-annee-universitaire-20262027"
     ],
     "est_dakhla": [
         "http://estd.uiz.ac.ma",
