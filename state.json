@@ -1227,7 +1227,9 @@
         "https://isic.ac.ma/ar/2026/07/29/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%88%d9%84%d9%88%d8%ac-%d8%b3%d9%84%d9%83-%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d8%aa%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%b1-3",
         "https://isic.ac.ma/ar/2026/07/29/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%88%d9%84%d9%88%d8%ac-%d8%b3%d9%84%d9%83-%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d8%aa%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%b3-6",
         "https://isic.ac.ma/fr/2026/09/23/js-oral-26",
-        "https://isic.ac.ma/fr/2026/09/23/cp-oral-26"
+        "https://isic.ac.ma/fr/2026/09/23/cp-oral-26",
+        "https://isic.ac.ma/ar/2026/09/23/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84-21",
+        "https://isic.ac.ma/ar/2026/09/23/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84-20"
     ],
     "ehtp_casablanca": [
         "https://www.ehtp.ac.ma/concours-dacces-en-1ere-annee-du-cycle-ingenieur-de-lehtp-liste-des-candidats-convoques-a-lepreuve-orale-du-mardi-26-juillet-2026/",
@@ -1399,9 +1401,6 @@
         "https://isadac.ma/assets/images/event/PlaquetteMasterEcritureTheatrale.pdf"
     ],
     "fsjes_agdal": [
-        "http://fsjes-agdal.um5.ac.ma/fr/avis-doctorat",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2935",
-        "http://fsjes-agdal.um5.ac.ma/fr/node/2935",
         "http://fsjes-agdal.um5.ac.ma/fr/node/2934",
         "http://fsjes-agdal.um5.ac.ma/fr/node/2909",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2934",
@@ -1448,7 +1447,10 @@
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3010",
         "http://fsjes-agdal.um5.ac.ma/fr/node/3012",
         "http://fsjes-agdal.um5.ac.ma/fr/node/3011",
-        "http://fsjes-agdal.um5.ac.ma/fr/node/3010"
+        "http://fsjes-agdal.um5.ac.ma/fr/node/3010",
+        "http://fsjes-agdal.um5.ac.ma/avis-etudiant",
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3012",
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3011"
     ],
     "fsjes_souissi": [
         "https://www.facebook.com/FsjessSouissi",
@@ -1659,12 +1661,6 @@
         "http://www.flsh-agadir.ac.ma?p=31150"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InlrWkFyemlBQXhubThTWkZtK2x3dGc9PSIsInZhbHVlIjoiUXFOcW1lc1M3WVpxRUNBaU5YYnVUUT09IiwibWFjIjoiN2M3MjUyMzVhZmQzNDcwYTQ1NGNiNTcxZDAzMTE3NWExNjU2MTNlNWRjYzY5NmNjMmIwOWU4M2I1MjMwMWZkYyIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkdSTFdaTFpNdHN1bENyaWd2TUdaREE9PSIsInZhbHVlIjoidTNibWlJT2NLbjU2QjMwalVBK3NtQT09IiwibWFjIjoiNzczNWM2NzRiZmQ4Njk5YzExOTJkZWYyMzljNTIxYjA4OGUwNmVlYzBhOWFmNzEyODUzZWQ0NDY0NzFiNTUxYiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IldCKzIzUkIwdG9VcnBaL0RDcmZrZHc9PSIsInZhbHVlIjoiNnBvbE1PNWRlek50MVp6d3VOQ29uQT09IiwibWFjIjoiMWZiMGVhOTdmNWZkODU5ZTNlYmRiNjk4ZDAyM2EyMjJlN2EzYTJmZjU1NDE5NWFhYjlhZDZkZWNiNWU3ZDhjOSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlhaZlBTUlVIZE00eXVIL0dGWDV2TGc9PSIsInZhbHVlIjoiV2RGS0pZL2xPQkUrQzZZTzNvbVFFZz09IiwibWFjIjoiYmViZjQ0MTZjOGY2OTRhYjA1ZmIxODk5MTRmYmIzMDg1ZGQ3NTMxMzBiNTkyZjhjZmJjYmRlY2MyNWM0OGNmZiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkJOZk1sNVpnejFiQyt2RnVVZCtBVVE9PSIsInZhbHVlIjoic2pyRFhrUlpyOFJFWms4VVM4OXM0dz09IiwibWFjIjoiZjY4MjU5NmU5MTk2MjQ1NjY5NGRhYTlmNTU1OGExNDI4NzIxMDBmOTU4MDhlOTEwODVhYjc5YzVjZWYyZWRhOCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ing3aHFSemF6Y2xLT216dTJWemEwY1E9PSIsInZhbHVlIjoiN0ZtOUEvYVhGQThIN2ZSbWJHLzMrZz09IiwibWFjIjoiZjc2MTI5ZmZhZTkwZDc0YjljNGUxZDgzYjYwOWNmNWQwNzRhNjczOTEzMjhlN2NkMmEyN2M2NjBlODA0NjVjMiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImJKTXBaVVNXQnZab3ozQ0ZpOGs1eHc9PSIsInZhbHVlIjoiN2V6ekYrc1d6d2dsQVlZYms2MSs5QT09IiwibWFjIjoiZTEzMzZiMjQ3ZGJmZjk5NmM5ODk3ZTc0ZGQ3MjRjMTJmMjUxODk1MDZkY2RhYTE3Y2YwYjMxMmMwM2FiZTg3OSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlZvdEJabXc5cG1CRk5wUmtKdnF5aFE9PSIsInZhbHVlIjoiV1lqaTZFamJTNXBMdmlvclFiS2NaZz09IiwibWFjIjoiNGVhYmQ1OWQxYjA4ZjkwYzUzNWUzNWFlOTY5YTRhOGIxY2ExN2FjYjc3ODA3MjkyNjA2MDRjOGExZjMyMDU5OSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis/avis-licence-nouvelle-generation",
@@ -1708,7 +1704,13 @@
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik9IWENYR09VbGdyajdxYVI1WGpDT3c9PSIsInZhbHVlIjoiNkl2M1Z2OEJGMmsyMVptVWlVcklyQT09IiwibWFjIjoiMDY3YTA0YTk1YzRjNjc3YzEwYjZjNDQxY2FmOGFiMDgxMGM0ZGY2NDRhNGU3MjhiZjlmYmViYmNhOWI1MDdlNSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjBMTVh6WVlVZFBWYU90bERWK0dxUWc9PSIsInZhbHVlIjoiK2tuNWhkNUIxVDBxMjF3WEZZMGhkUT09IiwibWFjIjoiZWQxMDZjOTgzZTQwNTg2YjJiOTM4NTdhNDkyYzdmYWUyMjU2NzRiMWQ5OTBiNDIxODIzOWMwZDZhNTJjYzgzMiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik5mTFdjTHN5YlJ0VnlQbExtYU91VlE9PSIsInZhbHVlIjoieTE3cUZVMHBLWXRCRWtlUFhhVndlQT09IiwibWFjIjoiOGNhNGE0ODVhNGZhNWU1NmE1ZWJhZDAzNWFkMTllNjA3ZmRmN2YzNDc4Yjg0YjVhMDE2NDE4ZjM0ODMwOTBhOSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjB1Zm9GV1BzQkFIdlVrc3c3c0s3eVE9PSIsInZhbHVlIjoiRVZOT2ZCcjgrT0hNU0VZdlV0Y3REUT09IiwibWFjIjoiMGY2YmFjYzIxYjk4YTViZjM1ODkzYzgzNWM4MjNkNjczMjMyOGU3YjE2NjE3MGQ3MGEyOGMwMzRlY2IxMDBhMSIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjB1Zm9GV1BzQkFIdlVrc3c3c0s3eVE9PSIsInZhbHVlIjoiRVZOT2ZCcjgrT0hNU0VZdlV0Y3REUT09IiwibWFjIjoiMGY2YmFjYzIxYjk4YTViZjM1ODkzYzgzNWM4MjNkNjczMjMyOGU3YjE2NjE3MGQ3MGEyOGMwMzRlY2IxMDBhMSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InJKd3FUMnVRamRqYjhvVWIxWkR1aUE9PSIsInZhbHVlIjoiRGJKMHl1azA3ZGM1MkhxdnFzeWpJUT09IiwibWFjIjoiOWFkMzdkZjljYzEyYTRjODUyYmRjM2Q2OWIzYmU4ZmE2NDFhZThkMGJjYTIwMDJjNTA0YjEzZTA0ZDViMjYzZCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlVZZGVjOGsrc0QrSldzRERJWm1iaXc9PSIsInZhbHVlIjoiL05IYnlMNE4rdytWcHpGQnhiMjBldz09IiwibWFjIjoiMTA3YzNiODIzOWJhNjQzNDY3NzY4NDBiYjJlNmU0MTczYjVlYjQ0N2U2MzVjNmE3NTY5NTlkZTZmOTJlY2U3MCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImtMajNmZXRhMGgrbHhyTjN3VTNBTFE9PSIsInZhbHVlIjoidTNaR1VRa0pyNFRaR0M0RVNxNjdlUT09IiwibWFjIjoiZDhjM2YyNjI4ZjBhZTY2MmY4YTMzZmI4OTJmMDkwNjE0MmQyOTUzYjUxNzI0OGM4ZGZlODMwMjgwMTA2MDVlZSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Im10K2FMcXRveWhncHNrTEIyL1kyOEE9PSIsInZhbHVlIjoiRnVhV2pReEpueUVYaVo5a0hzWGlxQT09IiwibWFjIjoiYjVmZGRlYjMzODA2MTVhMTQ4ZmEyMmRjZGUwZDRjZmM4ZjlkZmEzZWI3ODdkNjgxOGFjZjA5NjE0ZjIzMTFhYiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkdTamFOUXl1cmZrdkZsaTA2WUlhRGc9PSIsInZhbHVlIjoiU0tmS0hocklwQUM4VWlHTENkOHNEUT09IiwibWFjIjoiNTQyNTYwOWMxMTQ1MjhiNTU4YjQxOWExZGEyZWFkMmY5MWU0YmFlNGY0ZWYxYzYzMzRlOGJkZGU2NDQ1ODY1ZCIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -3208,7 +3210,8 @@
         "http://estd.uiz.ac.ma/listes-des-candidats-convoques-a-passer-le-concours-du-dbt-bioprocedes-industriels-et-developpement-durable-temps-normal-amenage-annee-universitaire-2026-2027",
         "http://estd.uiz.ac.ma/liste-des-candidats-convoques-au-concours-ecrit-du-dbt-sciences-des-donnees-et-systemes-intelligents-temps-normal-amenage-annee-universitaire-2026-2027",
         "http://estd.uiz.ac.ma/liste-des-candidats-convoques-pour-passes-le-concours-ecrit-du-dbt-systemes-informatiques-embarques-temps-normal-amenage-annee-universitaire-2026-2027",
-        "http://estd.uiz.ac.ma/liste-des-convoques-au-concours-ecrit-du-dbt-informatique-et-gestion-dentreprises-temps-normal-annee-universitaire-2026-2027"
+        "http://estd.uiz.ac.ma/liste-des-convoques-au-concours-ecrit-du-dbt-informatique-et-gestion-dentreprises-temps-normal-annee-universitaire-2026-2027",
+        "http://estd.uiz.ac.ma/avis-dinscription-au-dbt"
     ],
     "inau_rabat": [
         "https://inau.ac.ma",
