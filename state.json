@@ -1407,7 +1407,6 @@
         "https://isadac.ma/assets/images/event/PlaquetteMasterEcritureTheatrale.pdf"
     ],
     "fsjes_agdal": [
-        "http://fsjes-agdal.um5.ac.ma/fr/node/2934",
         "http://fsjes-agdal.um5.ac.ma/fr/node/2909",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2934",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2909",
@@ -1456,7 +1455,8 @@
         "http://fsjes-agdal.um5.ac.ma/fr/node/3010",
         "http://fsjes-agdal.um5.ac.ma/avis-etudiant",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3012",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3011"
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3011",
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3007"
     ],
     "fsjes_souissi": [
         "https://www.facebook.com/FsjessSouissi",
@@ -1668,7 +1668,6 @@
         "http://www.flsh-agadir.ac.ma?p=31150"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjdzT1phSUJEck5KREtkc1hZZWt4eWc9PSIsInZhbHVlIjoiM081VGxZL0F0WEtNTlJmaHhBbENyQT09IiwibWFjIjoiMGEzNWI1ZWI5NWNhODQ0YzRjYjU5ZWRkODc2ODYxMmJiZGJkMWU0M2EzNDI5MTAyZDM1MjBlMzk5NDZkZmVkMSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik9XSDBwbkZIUWNSSUQyMDNnNzZxRVE9PSIsInZhbHVlIjoiUWQwbENEdmE4QVlHbkU5bEV1L3E0dz09IiwibWFjIjoiM2E2Y2EzODQxYmVmODdjMWNjMTA4N2ZjMTliYmE4Mzk5MDBhMTQyODI4NzEzZjQwMTM0ZmZmYjNmMjhmZTg2NCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkQzNEg5MG5RMmZqZjBST3c2VXNybnc9PSIsInZhbHVlIjoiOTg1emFQN0NKd2xiSUVQM0IvTi9qZz09IiwibWFjIjoiZWE3YWUyNTNmZmI3NzhkYjdlZjQwMDNiYjQxNzE4NjUxMjQ4MGMzZWZiOGFkMTFmNTFhNGZiOGRhYTdjNTRjNCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImRabDdZS2NVLzhGbTBhZzZXdDM0OFE9PSIsInZhbHVlIjoidE5SNUJyRXhpUTBaVCtNQVhtNmc5dz09IiwibWFjIjoiZjU2NWIwNmU3NTgxMGYxZjE2NWI1MTRiZDU1MjUxZTk3YzVkODZhYmFlZWY2MzJmYTAxY2ZjNDFiMDI3MzI2OSIsInRhZyI6IiJ9",
@@ -1717,7 +1716,8 @@
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImZOUnNnZStRRDNsTUZlOFdaL2ZhRVE9PSIsInZhbHVlIjoiejcwMmU5Yjl1YWdOUDB5ZWI5WTN2dz09IiwibWFjIjoiNWViNzcwZGM3MmJlNTA2NzMyYjUzMTc0NGI3ZWFiODI1ZDIzMDM5Y2FiYzJmNzZjMTZkMjdiYTdlN2JkZWRmOSIsInRhZyI6IiJ9",
         "http://fpo.uiz.ac.ma",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjNTQm1OVHQxNyttWERZQXJtK0VOcFE9PSIsInZhbHVlIjoiaE1YRmNadGN4MVZTbU8xRGthdlEyZz09IiwibWFjIjoiYWVmNDIzOTFmOTk3YjYwMDBmZDI2ODY3Nzg3YTI4MWQyYjdiYjhiMzQ3NjM2NmQxOTM5ODM1MWMwOGMxNWI0OCIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjNTQm1OVHQxNyttWERZQXJtK0VOcFE9PSIsInZhbHVlIjoiaE1YRmNadGN4MVZTbU8xRGthdlEyZz09IiwibWFjIjoiYWVmNDIzOTFmOTk3YjYwMDBmZDI2ODY3Nzg3YTI4MWQyYjdiYjhiMzQ3NjM2NmQxOTM5ODM1MWMwOGMxNWI0OCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImE1cGFJbkNNdzVwbll1dzE2OGFIa2c9PSIsInZhbHVlIjoiOXkxSXpZLzdMLzg0Ykt6TUNZNmJ3UT09IiwibWFjIjoiMjRlMmNiN2M5ZWRiNWJkYjZlMjYzYTFjMmYwYWNhY2JhODZkNTY0OTFmYWI0Y2U2ODUzOTdiM2M4N2RiZWU0YiIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
