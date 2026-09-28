@@ -173,7 +173,8 @@
         "https://ensat.ac.ma/Portail/inscription-des-admis-au-cnc-affectes-a-lensa-de-tanger-6",
         "https://ensat.ac.ma/Portail/avis-aux-etudiants-4",
         "https://ensat.ac.ma/Portail/avis-important-liste-dattente",
-        "https://ensat.ac.ma/Portail/resultats-dacces-aux-ensa-liste-dattente"
+        "https://ensat.ac.ma/Portail/resultats-dacces-aux-ensa-liste-dattente",
+        "https://ensat.ac.ma/Portail/candidats-selectionnes-pour-lepreuve-orale-du-concours-de-recrutement-dun-maitre-de-conferences-mathematiques-appliquees"
     ],
     "ensa_kenitra": [
         "https://ensa.uit.ac.ma/avis-de-soutnance/",
@@ -434,7 +435,8 @@
         "https://fst-usmba.ac.ma/2026/09/avis-inscription-des-candidats-admis-au-cnc-2024-2",
         "https://fst-usmba.ac.ma/2026/09/resultat-du-concours-mc-cloud-computing-et-reseaux-informatiques-session-29-06-2026",
         "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-cycle-lst-tc-et-3eme-annee-lst-et-cycle-ingenieur-1ere-annee",
-        "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-espace-numerique-de-travail"
+        "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-espace-numerique-de-travail",
+        "https://fst-usmba.ac.ma/2026/09/convoques-a-lecrit-du-concours-dun-01-administrateur-2eme-grade-session-04-10-2026"
     ],
     "fst_tanger": [],
     "fst_errachidia": [
@@ -867,7 +869,6 @@
         "http://fmp.um5.ac.ma/sites/default/files/2025-05/Procédure%20Campus%20connecte.pdf"
     ],
     "fmp_casablanca": [
-        "https://www.fmpc.ac.ma/examens-cliniques-repartition-des-candidats-par-service-epreuve-de-gynecologie-vendredi-31-juillet-2026",
         "https://www.fmpc.ac.ma/resultats-finaux-du-concours-de-recrutement-dun-maitre-de-conferences-specialite-anglais",
         "https://www.fmpc.ac.ma/les-reinscriptions-en-ligne-pour-lannee-universitaire-2026-2027-du-05-aout-au-31-septembre-2026",
         "https://www.fmpc.ac.ma/inscription-en-1ere-annee-de-medecine-et-en-1ere-annee-de-pharmacie-2026-2027-iteration2",
@@ -916,7 +917,8 @@
         "https://www.fmpc.ac.ma/avis-relatif-au-concours-de-recrutement-a-la-faculte-de-medecine-et-de-pharmacie-de-casablanca-session-du-11-octobre-2026",
         "https://www.fmpc.ac.ma/1%ca%b3%e1%b5%89-annee-medecine-liste-des-groupes-de-tp-annee-universitaire-2026-2027",
         "https://www.fmpc.ac.ma/avis-dinscription-en-1ere-annee-de-pharmacie-au-titre-de-lannee-universitaire-2026-2027-iteration-4",
-        "https://www.fmpc.ac.ma/avis-aux-etudiants-de-la-1ere-annee-2"
+        "https://www.fmpc.ac.ma/avis-aux-etudiants-de-la-1ere-annee-2",
+        "https://www.fmpc.ac.ma/1%ca%b3%e1%b5%89-annee-pharmacie-liste-des-groupes-de-tp-de-biologie-vegetale-annee-universitaire-2026-2027"
     ],
     "fmp_agadir": [
         "https://fmpa.uiz.ac.ma/avis-de-concours-de-recrutement-des-maitres-de-conferences-au-profit-de-la-faculte-de-medecine-et-de-pharmacie-dagadir-session-du-20-novembre-2025/",
@@ -1410,7 +1412,6 @@
         "https://isadac.ma/assets/images/event/PlaquetteMasterEcritureTheatrale.pdf"
     ],
     "fsjes_agdal": [
-        "http://fsjes-agdal.um5.ac.ma/fr/node/2909",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2934",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/2909",
         "https://www.facebook.com/FSJESAGDAL.ma",
@@ -1459,7 +1460,8 @@
         "http://fsjes-agdal.um5.ac.ma/avis-etudiant",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3012",
         "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3011",
-        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3007"
+        "http://fsjes-agdal.um5.ac.ma/index.php/fr/node/3007",
+        "http://fsjes-agdal.um5.ac.ma/fr/node/2991"
     ],
     "fsjes_souissi": [
         "https://www.facebook.com/FsjessSouissi",
@@ -1668,10 +1670,10 @@
         "http://www.flsh-agadir.ac.ma?p=36858",
         "http://www.flsh-agadir.ac.ma?p=36857",
         "http://www.flsh-agadir.ac.ma?p=36856",
-        "http://www.flsh-agadir.ac.ma?p=31150"
+        "http://www.flsh-agadir.ac.ma?p=31150",
+        "http://www.flsh-agadir.ac.ma?p=36876"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik9XSDBwbkZIUWNSSUQyMDNnNzZxRVE9PSIsInZhbHVlIjoiUWQwbENEdmE4QVlHbkU5bEV1L3E0dz09IiwibWFjIjoiM2E2Y2EzODQxYmVmODdjMWNjMTA4N2ZjMTliYmE4Mzk5MDBhMTQyODI4NzEzZjQwMTM0ZmZmYjNmMjhmZTg2NCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkQzNEg5MG5RMmZqZjBST3c2VXNybnc9PSIsInZhbHVlIjoiOTg1emFQN0NKd2xiSUVQM0IvTi9qZz09IiwibWFjIjoiZWE3YWUyNTNmZmI3NzhkYjdlZjQwMDNiYjQxNzE4NjUxMjQ4MGMzZWZiOGFkMTFmNTFhNGZiOGRhYTdjNTRjNCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImRabDdZS2NVLzhGbTBhZzZXdDM0OFE9PSIsInZhbHVlIjoidE5SNUJyRXhpUTBaVCtNQVhtNmc5dz09IiwibWFjIjoiZjU2NWIwNmU3NTgxMGYxZjE2NWI1MTRiZDU1MjUxZTk3YzVkODZhYmFlZWY2MzJmYTAxY2ZjNDFiMDI3MzI2OSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InllOWliTWpGaEhzU2U1MEFmSnVRQWc9PSIsInZhbHVlIjoidmtOTFNCMS9pQ014V2tHdkdMSzBvZz09IiwibWFjIjoiMGZjMDlhNDEyMGRkZWVmYTMxY2MzMmY4YzY1MWE4Zjk3MjE5YmZmNWQ3Y2IyMzE1ODJlZDgzZTI3NWMwN2ZhNSIsInRhZyI6IiJ9",
@@ -1720,7 +1722,8 @@
         "http://fpo.uiz.ac.ma",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjNTQm1OVHQxNyttWERZQXJtK0VOcFE9PSIsInZhbHVlIjoiaE1YRmNadGN4MVZTbU8xRGthdlEyZz09IiwibWFjIjoiYWVmNDIzOTFmOTk3YjYwMDBmZDI2ODY3Nzg3YTI4MWQyYjdiYjhiMzQ3NjM2NmQxOTM5ODM1MWMwOGMxNWI0OCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImE1cGFJbkNNdzVwbll1dzE2OGFIa2c9PSIsInZhbHVlIjoiOXkxSXpZLzdMLzg0Ykt6TUNZNmJ3UT09IiwibWFjIjoiMjRlMmNiN2M5ZWRiNWJkYjZlMjYzYTFjMmYwYWNhY2JhODZkNTY0OTFmYWI0Y2U2ODUzOTdiM2M4N2RiZWU0YiIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImE1cGFJbkNNdzVwbll1dzE2OGFIa2c9PSIsInZhbHVlIjoiOXkxSXpZLzdMLzg0Ykt6TUNZNmJ3UT09IiwibWFjIjoiMjRlMmNiN2M5ZWRiNWJkYjZlMjYzYTFjMmYwYWNhY2JhODZkNTY0OTFmYWI0Y2U2ODUzOTdiM2M4N2RiZWU0YiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkpyeFF1MTR6bDgyYkttRFBzRjJSdUE9PSIsInZhbHVlIjoiV0k3dVR3ZGN1WkVSZjk2RVphU3pyUT09IiwibWFjIjoiNWZmZDZiNTBkYWYyMjgzYjRlNjQ5ZjA4ZWQzYmFlNzk5ZmQxZTgwNTcxOTkxYmU1Y2VkOTY5OGIwODQ3MTA5ZiIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -1955,7 +1958,6 @@
     ],
     "fsjes_jadida": [],
     "fs_meknes": [
-        "https://e-concours.umi.ac.ma",
         "http://www.fs-umi.ac.ma",
         "https://www.fs-umi.ac.ma/index.php/2026/07/22/ceremonie-des-laureats-promotion-2026",
         "https://www.fs-umi.ac.ma/index.php/2026/07/17/avis-aux-etudiants-annulation-de-la-compensation-2",
@@ -2004,7 +2006,8 @@
         "https://www.fs-umi.ac.ma/index.php/2026/09/24/liste-des-candidats-convoques-a-passer-lepreuve-ecrite-master-en-cybersecurite-des-reseaux-et-des-systemes-dinformation-master-crsi-annee-universitaire-2026-2027",
         "https://www.fs-umi.ac.ma/index.php/2026/09/28/appel-a-candidature-pour-lacces-au-cycle-du-master-formation-initiales-en-temps-amenage-annee-universitaire-2026-2027-2",
         "https://www.fs-umi.ac.ma/index.php/2026/09/28/appel-a-candidature-pour-lacces-au-cycle-de-licence-formation-initiales-en-temps-amenage-annee-universitaire-2026-2027-2",
-        "https://www.fs-umi.ac.ma/index.php/2026/09/28/avis-aux-etudiants-modules-supplementaires"
+        "https://www.fs-umi.ac.ma/index.php/2026/09/28/avis-aux-etudiants-modules-supplementaires",
+        "https://www.fs-umi.ac.ma"
     ],
     "fsjes_meknes": [],
     "fp_errachidia": [
@@ -2553,7 +2556,9 @@
         "https://www.uca.ma/fr/concours/avis-de-concours-de-recrutement-a-luniversite-cadi-ayyad-session-18102026",
         "https://www.uca.ma/fr/medias/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%8A%D8%A7%D8%B6-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%A4%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
         "https://www.uca.ma/fr/medias/le-president-de-luniversite-cadi-ayyad-presente-sur-2m-les-principaux-indicateurs-de-la-rentree-universitaire",
-        "https://www.uca.ma/fr/news/luniversite-cadi-ayyad-explore-de-nouvelles-perspectives-de-cooperation-avec-sncf-hubsetconnexions"
+        "https://www.uca.ma/fr/news/luniversite-cadi-ayyad-explore-de-nouvelles-perspectives-de-cooperation-avec-sncf-hubsetconnexions",
+        "https://www.uca.ma/fr/news/conference-autour-des-grandes-mutations-du-numerique-et-de-lintelligence-artificielle",
+        "https://www.uca.ma/fr/news/campagne-de-don-de-sang-a-luniversite-cadi-ayyad-sous-le-slogan-le-don-de-sang-une-responsabilite-collective"
     ],
     "univ_ucd": [
         "https://www.youtube.com/channel/UCNTbX8mEanI3hb-IfKbx_6w",
@@ -2804,7 +2809,8 @@
         "https://fes.uvillage.ma",
         "https://ueuromed.org/fr/actualites/visite-de-s-e-mme-marjaana-sall-ambassadrice-de-finlande-au-maroc-a-l-universite-euromed-de-fes",
         "https://ueuromed.org/fr/actualites/une-nouvelle-promotion-prend-part-a-la-dynamique-de-la-communaute-euromed",
-        "https://ueuromed.org/fr/actualites/a-l-emadu-une-conference-inaugurale-autour-d-une-nouvelle-approche-de-la-modernite-architecturale"
+        "https://ueuromed.org/fr/actualites/a-l-emadu-une-conference-inaugurale-autour-d-une-nouvelle-approche-de-la-modernite-architecturale",
+        "https://ueuromed.org/fr/actualites/classement-international-ui-green-metric-2026-l-universite-euromed-de-fes-est-1ere-au-maroc-et-323eme-a-l-echelle-mondiale"
     ],
     "aui_ifrane": [
         "https://aui.ma",
@@ -2963,7 +2969,6 @@
         "https://www.9rayti.com/actualite/la-faculte-de-medecine-de-kenitra-ouvre-officiellement-ses-portes"
     ],
     "supmaroc": [
-        "https://whatsapp.com/channel/0029Va8Ns1VIiRozWhAm5L0P",
         "https://www.supmaroc.com/resultats-encg-dakhla-tafsem-s5-et-s7-2026-2027",
         "https://www.supmaroc.com/fst-al-hoceima-concours-licence-s5-lst-2026-2027",
         "https://www.supmaroc.com/news",
@@ -3012,7 +3017,8 @@
         "https://www.supmaroc.com/resultats-definitifs-ispm-agadir-3eme-licence-2026-2027",
         "https://www.supmaroc.com/resultats-definitifs-ispm-agadir-2eme-licence-2026-2027",
         "https://www.supmaroc.com/ensa-oujda-concours-master-mgsi-2026-2027",
-        "https://www.supmaroc.com/iscae-concours-cycle-expertise-comptable-2026-2027"
+        "https://www.supmaroc.com/iscae-concours-cycle-expertise-comptable-2026-2027",
+        "https://twitter.com/supmaroc"
     ],
     "tawjih_info": [
         "https://www.tawjih.info/avisconcours.php",
@@ -3033,8 +3039,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23540",
-        "https://www.alwadifa-maroc.com/offre/show/id/23539",
         "https://www.alwadifa-maroc.com/offre/show/id/23541",
         "https://www.alwadifa-maroc.com/offre/show/id/23549",
         "https://www.alwadifa-maroc.com/offre/show/id/23548",
@@ -3082,11 +3086,11 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23605",
         "https://www.alwadifa-maroc.com/offre/show/id/23606",
         "https://www.alwadifa-maroc.com/actualite/show/id/2153",
-        "https://www.alwadifa-maroc.com/offre/show/id/23608"
+        "https://www.alwadifa-maroc.com/offre/show/id/23608",
+        "https://www.alwadifa-maroc.com/offre/show/id/23611",
+        "https://www.alwadifa-maroc.com/offre/show/id/23610"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2fd197fa-88b7-43bb-a82b-47025bb2b806",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d1ca8465-2c81-4aa4-b382-9ff412a4231a",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/f8fd2d0d-5d98-42d7-8229-9924acf1c303",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3d6e4275-fe42-4fa4-b135-22595857f77b",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/96befce5-f00d-4b7f-b79f-c0264b354c77",
@@ -3134,7 +3138,9 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ed630ef0-6659-4ad0-a7a4-2a649cba9e8c",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1059490d-33d9-47a0-be74-bb2b4de63959",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/9a15ca18-932d-423d-9a51-518d86edf1d3",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/0ff4b3d4-d709-498f-a12c-84fd01f4e5a9"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/0ff4b3d4-d709-498f-a12c-84fd01f4e5a9",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/5f822675-7577-4c68-afed-350b0dfc7e2d",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/25f1da08-b608-4d16-a841-1d7fe4f499a3"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
