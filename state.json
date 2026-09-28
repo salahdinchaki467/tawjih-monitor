@@ -276,7 +276,8 @@
         "https://encg.uit.ac.ma/avis-depot-des-rapports-de-stage-s6",
         "https://encg.uit.ac.ma/tafem-2026-4eme-iteration-avis-dinscription-liste-dattente-et-amelioration-de-choix",
         "https://encg.uit.ac.ma/avis-aux-etudiants-33",
-        "https://ped.uit.ac.ma/avis-aux-candidats-au-cycle-doctoral-resultats-de-la-preselection-2026-2027"
+        "https://ped.uit.ac.ma/avis-aux-candidats-au-cycle-doctoral-resultats-de-la-preselection-2026-2027",
+        "https://encg.uit.ac.ma/avis-aux-etudiants-cnaem-et-transfert-choix-dorientation-des-filieres"
     ],
     "encg_meknes": [
         "https://e-concours.umi.ac.ma/",
@@ -432,7 +433,8 @@
         "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-de-3eme-annee-lst-resultats-des-demandes-de-reorientation",
         "https://fst-usmba.ac.ma/2026/09/avis-inscription-des-candidats-admis-au-cnc-2024-2",
         "https://fst-usmba.ac.ma/2026/09/resultat-du-concours-mc-cloud-computing-et-reseaux-informatiques-session-29-06-2026",
-        "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-cycle-lst-tc-et-3eme-annee-lst-et-cycle-ingenieur-1ere-annee"
+        "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-cycle-lst-tc-et-3eme-annee-lst-et-cycle-ingenieur-1ere-annee",
+        "https://fst-usmba.ac.ma/2026/09/avis-aux-etudiants-espace-numerique-de-travail"
     ],
     "fst_tanger": [],
     "fst_errachidia": [
@@ -975,7 +977,8 @@
         "http://fmpl.uiz.ac.ma/2026/09/12/inscription-de-la-liste-dattente-du-concours-dacces-2026-2027-2eme-iteration",
         "http://fmpl.uiz.ac.ma/2026/09/20/planification-des-cours-du-21-09-2026-au-26-09-2026",
         "http://fmpl.uiz.ac.ma/2026/09/22/inscription-de-la-liste-dattente-du-concours-dacces-2026-2027-3eme-iteration",
-        "http://fmpl.uiz.ac.ma/2026/09/24/stages-hospitaliers-2026-09-28-au-2026-10-16"
+        "http://fmpl.uiz.ac.ma/2026/09/24/stages-hospitaliers-2026-09-28-au-2026-10-16",
+        "http://fmpl.uiz.ac.ma/2026/09/28/planification-des-cours-du-28-09-2026-au-02-10-2026"
     ],
     "fmp_guelmim": [
         "https://www.facebook.com/profile.php?id=61566890891731",
@@ -1952,9 +1955,6 @@
     ],
     "fsjes_jadida": [],
     "fs_meknes": [
-        "https://www.fs-umi.ac.ma/index.php/2026/07/12/avis-aux-etudiants-reclamations-et-traitement-des-reclamations/",
-        "https://www.fs-umi.ac.ma/index.php/2026/07/11/avis-a-tous-les-etudiants-pris-en-delit-de-fraude-durant-les-examens-de-la-session-de-rattrapage-du-semestre-de-printemps-2026/",
-        "https://www.fs-umi.ac.ma",
         "https://e-concours.umi.ac.ma",
         "http://www.fs-umi.ac.ma",
         "https://www.fs-umi.ac.ma/index.php/2026/07/22/ceremonie-des-laureats-promotion-2026",
@@ -2001,7 +2001,10 @@
         "https://www.fs-umi.ac.ma/index.php/category/actualite/master",
         "https://www.fs-umi.ac.ma/index.php/2026/09/24/liste-des-candidats-retenus-pour-lentretien-oral-master-parcours-dexcellence-ingenierie-des-materiaux-et-des-procedes-industriels-master-impi-annee-universitaire-2026-2027",
         "https://www.fs-umi.ac.ma/index.php/2026/09/24/liste-principale-des-etudiants-admis-a-linscription-dans-la-filiere-informatique-appliquee-annee-universitaire-2026-2027",
-        "https://www.fs-umi.ac.ma/index.php/2026/09/24/liste-des-candidats-convoques-a-passer-lepreuve-ecrite-master-en-cybersecurite-des-reseaux-et-des-systemes-dinformation-master-crsi-annee-universitaire-2026-2027"
+        "https://www.fs-umi.ac.ma/index.php/2026/09/24/liste-des-candidats-convoques-a-passer-lepreuve-ecrite-master-en-cybersecurite-des-reseaux-et-des-systemes-dinformation-master-crsi-annee-universitaire-2026-2027",
+        "https://www.fs-umi.ac.ma/index.php/2026/09/28/appel-a-candidature-pour-lacces-au-cycle-du-master-formation-initiales-en-temps-amenage-annee-universitaire-2026-2027-2",
+        "https://www.fs-umi.ac.ma/index.php/2026/09/28/appel-a-candidature-pour-lacces-au-cycle-de-licence-formation-initiales-en-temps-amenage-annee-universitaire-2026-2027-2",
+        "https://www.fs-umi.ac.ma/index.php/2026/09/28/avis-aux-etudiants-modules-supplementaires"
     ],
     "fsjes_meknes": [],
     "fp_errachidia": [
@@ -2960,7 +2963,6 @@
         "https://www.9rayti.com/actualite/la-faculte-de-medecine-de-kenitra-ouvre-officiellement-ses-portes"
     ],
     "supmaroc": [
-        "https://twitter.com/supmaroc",
         "https://whatsapp.com/channel/0029Va8Ns1VIiRozWhAm5L0P",
         "https://www.supmaroc.com/resultats-encg-dakhla-tafsem-s5-et-s7-2026-2027",
         "https://www.supmaroc.com/fst-al-hoceima-concours-licence-s5-lst-2026-2027",
@@ -3009,7 +3011,8 @@
         "https://www.facebook.com/supmaroc.site",
         "https://www.supmaroc.com/resultats-definitifs-ispm-agadir-3eme-licence-2026-2027",
         "https://www.supmaroc.com/resultats-definitifs-ispm-agadir-2eme-licence-2026-2027",
-        "https://www.supmaroc.com/ensa-oujda-concours-master-mgsi-2026-2027"
+        "https://www.supmaroc.com/ensa-oujda-concours-master-mgsi-2026-2027",
+        "https://www.supmaroc.com/iscae-concours-cycle-expertise-comptable-2026-2027"
     ],
     "tawjih_info": [
         "https://www.tawjih.info/avisconcours.php",
@@ -3082,9 +3085,6 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23608"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7792d478-dc56-4703-bd71-52f357490bf1",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/72dee6dc-3616-4378-bbe8-96a92d0e4805",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dd179ffe-9a20-4ef7-b4de-c0437b48a01a",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2fd197fa-88b7-43bb-a82b-47025bb2b806",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d1ca8465-2c81-4aa4-b382-9ff412a4231a",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/f8fd2d0d-5d98-42d7-8229-9924acf1c303",
@@ -3131,7 +3131,10 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/b1362832-d6dd-42b4-b630-d53e5d4bcbb7",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/f547a6c3-eb88-468f-8903-e78b47cdf0a5",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/379ce8bb-4e44-471f-ab7e-a37246900d64",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ed630ef0-6659-4ad0-a7a4-2a649cba9e8c"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ed630ef0-6659-4ad0-a7a4-2a649cba9e8c",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1059490d-33d9-47a0-be74-bb2b4de63959",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/9a15ca18-932d-423d-9a51-518d86edf1d3",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/0ff4b3d4-d709-498f-a12c-84fd01f4e5a9"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
