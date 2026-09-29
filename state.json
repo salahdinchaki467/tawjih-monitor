@@ -365,7 +365,8 @@
         "https://www.fsts.ac.ma/actualites/important-candidats-admis-a-sinscrire-en-en-s5-des-lst-via-passerelle-externe",
         "https://www.fsts.ac.ma/actualites/-1",
         "https://www.fsts.ac.ma/actualites/deuxieme-liste-dattente-pour-lacces-a-la-lst-add-via-passerelle-externe",
-        "https://www.fsts.ac.ma/actualites/debut-de-la-rentree-universitaire-20262027-emplois-du-temps-mst-et-fi"
+        "https://www.fsts.ac.ma/actualites/debut-de-la-rentree-universitaire-20262027-emplois-du-temps-mst-et-fi",
+        "https://www.fsts.ac.ma/actualites/formations-en-temps-amenage"
     ],
     "fst_marrakech": [
         "https://www.fstg-marrakech.ac.ma/fichiers/SKILLUP-V1.pdf",
@@ -765,8 +766,6 @@
         "http://ensam.um5.ac.ma/index%2ephp"
     ],
     "ens_rabat": [
-        "http://ens.um5.ac.ma/affiche-annonce-14",
-        "http://ens.um5.ac.ma/affiche-annonce-13",
         "http://ens.um5.ac.ma",
         "http://ens.um5.ac.ma/concours",
         "http://ens.um5.ac.ma/affiche-annonce-21",
@@ -814,11 +813,12 @@
         "http://ens.um5.ac.ma/affiche-annonce-35",
         "http://ens.um5.ac.ma/affiche-annonce-liste-dattente-s1",
         "http://ens.um5.ac.ma/affiche-annonce-alntyjt-alnhayyt-lmbarat-twzyf-tqnyyn-mn-aldrjt-althaltht-mnsbyn-athnyn-02",
-        "http://ens.um5.ac.ma/affiche-annonce-master"
+        "http://ens.um5.ac.ma/affiche-annonce-master",
+        "http://ens.um5.ac.ma/affiche-annonce-master-1",
+        "http://ens.um5.ac.ma/affiche-annonce-layht-almtrshhyn-almdwyn-lajtyaz-almrhlt-althanyt-alkhast-lmbarat-twzyf-astadh"
     ],
     "ens_marrakech": [],
     "fmp_rabat": [
-        "https://www.facebook.com/profile.php?id=100064849861888",
         "http://fmp.um5.ac.ma",
         "https://www.linkedin.com/company/fmpr/about",
         "https://www.instagram.com/fmpr.official",
@@ -867,15 +867,10 @@
         "http://fmp.um5.ac.ma/node/master_cbbda_2627_oral",
         "http://fmp.um5.ac.ma/index.php/node/master_cbbda_2627_oral",
         "http://fmp.um5.ac.ma/index.php/sites/default/files/2025-05/Proc%C3%A9dure%2520Campus%2520connecte.pdf",
-        "http://fmp.um5.ac.ma/sites/default/files/2025-05/Procédure%20Campus%20connecte.pdf"
+        "http://fmp.um5.ac.ma/sites/default/files/2025-05/Procédure%20Campus%20connecte.pdf",
+        "http://fmp.um5.ac.ma/node/master_bioTech_medical_oral_2627"
     ],
     "fmp_casablanca": [
-        "https://www.fmpc.ac.ma/resultats-finaux-du-concours-de-recrutement-dun-maitre-de-conferences-specialite-anglais",
-        "https://www.fmpc.ac.ma/les-reinscriptions-en-ligne-pour-lannee-universitaire-2026-2027-du-05-aout-au-31-septembre-2026",
-        "https://www.fmpc.ac.ma/inscription-en-1ere-annee-de-medecine-et-en-1ere-annee-de-pharmacie-2026-2027-iteration2",
-        "https://www.fmpc.ac.ma/diplome-interuniversitaire-maladies-inflammatoires-chroniques-de-lintestin-mici-annee-universitaire-2026-2027",
-        "https://www.fmpc.ac.ma/avis-relatif-aux-demandes-de-transfert",
-        "https://www.fmpc.ac.ma/avis-relatif-aux-demandes-de-derogation",
         "https://www.fmpc.ac.ma/avis-aux-etudiants-redoublants-en-2eme-annee-de-medecine-2025-2026",
         "https://www.fmpc.ac.ma/avis-relatif-au-concours-dacces-en-3%e1%b5%89-annee-de-la-filiere-pharmacie-au-titre-de-lannee-universitaire-2026-2027",
         "https://www.fmpc.ac.ma/tag/concours-dacces-3a-ph",
@@ -919,7 +914,13 @@
         "https://www.fmpc.ac.ma/1%ca%b3%e1%b5%89-annee-medecine-liste-des-groupes-de-tp-annee-universitaire-2026-2027",
         "https://www.fmpc.ac.ma/avis-dinscription-en-1ere-annee-de-pharmacie-au-titre-de-lannee-universitaire-2026-2027-iteration-4",
         "https://www.fmpc.ac.ma/avis-aux-etudiants-de-la-1ere-annee-2",
-        "https://www.fmpc.ac.ma/1%ca%b3%e1%b5%89-annee-pharmacie-liste-des-groupes-de-tp-de-biologie-vegetale-annee-universitaire-2026-2027"
+        "https://www.fmpc.ac.ma/1%ca%b3%e1%b5%89-annee-pharmacie-liste-des-groupes-de-tp-de-biologie-vegetale-annee-universitaire-2026-2027",
+        "https://www.fmpc.ac.ma/avis-dinscription-a-lexamen-clinique-en-pharmacie-session-de-novembre-2026",
+        "https://www.fmpc.ac.ma/3%e1%b5%89-annee-pharmacie-liste-des-groupes-de-tp-module-essais-physicochimiques-et-nomenclature-2026-2027",
+        "https://www.fmpc.ac.ma/calendrier-des-examens-cliniques-3",
+        "https://www.fmpc.ac.ma/programme-des-competences-cliniques-avancees-6%e1%b5%89-et-7%e1%b5%89-annees-de-medecine-session-doctobre",
+        "https://www.fmpc.ac.ma/resultats-finaux-du-concours-de-recrutement-des-techniciens-de-3%e1%b5%89-grade-specialite-secretariat-de-direction-session-du-05-juillet-2026",
+        "https://www.fmpc.ac.ma/modification-de-la-date-dorganisation-du-deuxieme-concours-national-de-residanat-au-titre-de-lannee-2026"
     ],
     "fmp_agadir": [
         "https://fmpa.uiz.ac.ma/avis-de-concours-de-recrutement-des-maitres-de-conferences-au-profit-de-la-faculte-de-medecine-et-de-pharmacie-dagadir-session-du-20-novembre-2025/",
@@ -1124,7 +1125,8 @@
         "https://www.fmd-uh2c.ac.ma?p=3462",
         "https://www.fmd-uh2c.ac.ma?p=3466",
         "https://www.fmd-uh2c.ac.ma?p=3474",
-        "https://www.fmd-uh2c.ac.ma?p=3477"
+        "https://www.fmd-uh2c.ac.ma?p=3477",
+        "https://www.fmd-uh2c.ac.ma?p=3481"
     ],
     "ena_rabat": [
         "https://www.enarabat.ac.ma/evenements/ena-archi-concours-didees/",
@@ -1677,7 +1679,6 @@
         "http://www.flsh-agadir.ac.ma?p=36876"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/files/cadre-tpA.pdf",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik8xNzQ2SlpsVW9kRVJXL0FtWjdSanc9PSIsInZhbHVlIjoiaVNad3d6bHFyY2lkV0xoS0pTN1YxUT09IiwibWFjIjoiNDhiNThlY2NjMzI5MTNiZjhhNjM2OWUwMjRkM2Y3NzhiYzUwZTZlZGYyMDQ1NmM2YTgxMGE0MDZjYTU2MzAzZSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IityU1Z2akxCV0NnNnYyQU00MjIrWnc9PSIsInZhbHVlIjoiN2pOekdtaGRSVEc5Zk5WV0cxRmJuZz09IiwibWFjIjoiMzVkMjVhMDk0ZGQ0Y2Y0Njc2ZDg4MDUzMGEwMmMyN2E2NGUzZDNmN2Q1Mzg0NjM3MWM2Y2Q0MmNkMDczODdiZiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjkvL1lCMS9oQWQzc2F2cWp1S1VSQVE9PSIsInZhbHVlIjoiRVNiQWdmWDdmMDYvb3Yyb1QzbW1FZz09IiwibWFjIjoiOWI2M2I4ODc2OTc4NjAyYjA3MTJkZTMwZGIzZjQ0MjViZTliNGU0MGExY2YyN2JjODI2YmYxYTk0NTAwNjUyZCIsInRhZyI6IiJ9",
@@ -1726,7 +1727,8 @@
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkpyeFF1MTR6bDgyYkttRFBzRjJSdUE9PSIsInZhbHVlIjoiV0k3dVR3ZGN1WkVSZjk2RVphU3pyUT09IiwibWFjIjoiNWZmZDZiNTBkYWYyMjgzYjRlNjQ5ZjA4ZWQzYmFlNzk5ZmQxZTgwNTcxOTkxYmU1Y2VkOTY5OGIwODQ3MTA5ZiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik5EaEZWdFZDRFZCdk5DYUpabHFZdlE9PSIsInZhbHVlIjoid1dtM0RqTW1zMDZvVkM4MUhSMm5kdz09IiwibWFjIjoiNGM3NTdmZDVjZDU5MWI0YzgxMDI3ODExZjYzODJlNTJmOGQ2OTEzZWM2MDQxNWQ0MzE5OWIzZDQ5Yjk5NGMzNiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkZ4M09IUStvTlhWRU1kZ2QwbGprd1E9PSIsInZhbHVlIjoiZDVPbW9LNXFrTHl6TzdnYXhzd0JOdz09IiwibWFjIjoiYmE2N2ZlODJiNDBmZmU1NGZlZTc3NWEwNjRhNjFkNDk0OWE0N2U0MGUwMTE0ZGU1OGFiNTkwZTAxZGYwZDQyMSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IiswV3hiN2t1QmR2UnRuQlNrb0lhT1E9PSIsInZhbHVlIjoiUDhvNU5oM2thdkNUMm9xaDBFbGYxdz09IiwibWFjIjoiNmU1NTZjOTkzMjk2NDYyZjkwZDU3N2U5NjA4ZGY1OThjOGM4NWQ0MjBmM2FkZmVhMmJhNTU3N2JjOWRjZGI4MiIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IiswV3hiN2t1QmR2UnRuQlNrb0lhT1E9PSIsInZhbHVlIjoiUDhvNU5oM2thdkNUMm9xaDBFbGYxdz09IiwibWFjIjoiNmU1NTZjOTkzMjk2NDYyZjkwZDU3N2U5NjA4ZGY1OThjOGM4NWQ0MjBmM2FkZmVhMmJhNTU3N2JjOWRjZGI4MiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImFUbzdDM1VTM3hLYzFsdm1Calp4MWc9PSIsInZhbHVlIjoiT0hmRSswTHFnUCtOaVlNK2J6VlQrUT09IiwibWFjIjoiNTU5YWU4N2QzODJkODk2YWVhNDA2NmRhMWIyMmVhN2FiMDRmNmYyYWJhYWFiNTY3YjY3NWExZGVlYjljZDFmZSIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -2602,7 +2604,8 @@
         "https://www.ucd.ac.ma/emeritat-2026-lancement-de-lappel-a-candidatures",
         "https://www.ucd.ac.ma/nouveau-bus-universite-chouaib-doukkali-partenariat-international",
         "https://www.ucd.ac.ma/journee-internationale-sport-universitaire-course-10-km-ucd",
-        "https://www.ucd.ac.ma/4e-forum-germano-africain-hydrogene-vert"
+        "https://www.ucd.ac.ma/4e-forum-germano-africain-hydrogene-vert",
+        "https://www.ucd.ac.ma/la-liste-des-projets-retenus-dans-le-cadre-du-programme-progres-edition-2026"
     ],
     "univ_umi": [
         "https://e-concours.umi.ac.ma/",
@@ -2790,7 +2793,8 @@
         "https://um6ss.ma/fr/um6ss/actualites/avis-de-concours-d-internat-en-pharmacie-session-octobre-2026",
         "https://um6ss.ma/fr/um6ss/actualites/concours-des-professeurs-agreges-faculte-mohammed-vi-de-medecine-dentaire-session-octobre-2026",
         "https://um6ss.ma/fr/um6ss/actualites/septembre-en-or",
-        "https://um6ss.ma/fr/um6ss/actualites/concours-d-internat-en-medecine-session-decembre-2026"
+        "https://um6ss.ma/fr/um6ss/actualites/concours-d-internat-en-medecine-session-decembre-2026",
+        "https://um6ss.ma/fr/um6ss/actualites/concours-de-recrutement-de-maitres-de-conferences-faculte-mohammed-vi-de-1"
     ],
     "uiass_rabat": [],
     "ueuromed_fes": [
@@ -2819,7 +2823,8 @@
         "https://ueuromed.org/fr/actualites/visite-de-s-e-mme-marjaana-sall-ambassadrice-de-finlande-au-maroc-a-l-universite-euromed-de-fes",
         "https://ueuromed.org/fr/actualites/une-nouvelle-promotion-prend-part-a-la-dynamique-de-la-communaute-euromed",
         "https://ueuromed.org/fr/actualites/a-l-emadu-une-conference-inaugurale-autour-d-une-nouvelle-approche-de-la-modernite-architecturale",
-        "https://ueuromed.org/fr/actualites/classement-international-ui-green-metric-2026-l-universite-euromed-de-fes-est-1ere-au-maroc-et-323eme-a-l-echelle-mondiale"
+        "https://ueuromed.org/fr/actualites/classement-international-ui-green-metric-2026-l-universite-euromed-de-fes-est-1ere-au-maroc-et-323eme-a-l-echelle-mondiale",
+        "https://ueuromed.org/fr/actualites/don-de-sang-la-communaute-uemf-mobilisee-autour-d-un-geste-solidaire"
     ],
     "aui_ifrane": [
         "https://aui.ma",
@@ -2884,7 +2889,6 @@
         "https://ismac.ac.ma"
     ],
     "tawjihnet": [
-        "https://www.tawjihnet.net/resultats-definitifs-ensiasd-taroudant-cycle-preparatoire-2026-2027",
         "https://ismagi.ma?utm_source=tawjihnet&utm_medium=banner&utm_campaign=tawjihnet",
         "https://info.isga.ma/demande-d-information?utm_source=tawjihnet&utm_medium=banner&utm_campaign=tawjihnet",
         "https://www.tawjihnet.net/resultats-definitifs-inas-tanger-2026-2027",
@@ -2933,7 +2937,8 @@
         "https://www.tawjihnet.net/resultats-selection-imt-touissit-2026-2027",
         "https://www.tawjihnet.net/resultats-definitifs-dut-assistants-dentaires-rabat-fmd-2026-2027",
         "https://www.tawjihnet.net/resultats-definitifs-dut-protheses-dentaires-rabat-2026-2027",
-        "https://www.tawjihnet.net/vb/threads/136038"
+        "https://www.tawjihnet.net/vb/threads/136038",
+        "https://www.tawjihnet.net/resultats-definitifs-ispits-2026-2027-2"
     ],
     "moutamadris": [
         "https://moutamadris.ma",
@@ -3100,9 +3105,6 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23612"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/610a541b-4cfe-4d44-8cac-c963b740652f",
-        "https://www.emtiaz.ma",
-        "http://idarati.ma",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ea44973b-a757-408e-a943-d6a143685ab3",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/88c86aa7-6267-4fd1-a3df-a3895a2f9752",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/6e74df82-de06-496c-9cc5-da31641b6492",
@@ -3149,7 +3151,10 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/0fca0944-15a8-4047-848c-aff4995a360e",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/a8dd82ed-4b17-47d4-a09f-18c67481c472",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/4efff28e-8062-4bb0-8a34-882c2f6d0a8e",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c344da0a-a1ea-43db-ae43-c281ae1e2f58"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c344da0a-a1ea-43db-ae43-c281ae1e2f58",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/75fa0dde-30f2-4230-a32a-5acf09582c6f",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ff369c48-1e8c-4336-b2b0-cf57202ff104",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/6aa579ad-7abb-44f1-b036-56e9fbafced8"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
