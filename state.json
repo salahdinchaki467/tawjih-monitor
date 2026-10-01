@@ -1690,9 +1690,6 @@
         "http://www.flsh-agadir.ac.ma?p=36876"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/avis",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InJKd3FUMnVRamRqYjhvVWIxWkR1aUE9PSIsInZhbHVlIjoiRGJKMHl1azA3ZGM1MkhxdnFzeWpJUT09IiwibWFjIjoiOWFkMzdkZjljYzEyYTRjODUyYmRjM2Q2OWIzYmU4ZmE2NDFhZThkMGJjYTIwMDJjNTA0YjEzZTA0ZDViMjYzZCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlVZZGVjOGsrc0QrSldzRERJWm1iaXc9PSIsInZhbHVlIjoiL05IYnlMNE4rdytWcHpGQnhiMjBldz09IiwibWFjIjoiMTA3YzNiODIzOWJhNjQzNDY3NzY4NDBiYjJlNmU0MTczYjVlYjQ0N2U2MzVjNmE3NTY5NTlkZTZmOTJlY2U3MCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImtMajNmZXRhMGgrbHhyTjN3VTNBTFE9PSIsInZhbHVlIjoidTNaR1VRa0pyNFRaR0M0RVNxNjdlUT09IiwibWFjIjoiZDhjM2YyNjI4ZjBhZTY2MmY4YTMzZmI4OTJmMDkwNjE0MmQyOTUzYjUxNzI0OGM4ZGZlODMwMjgwMTA2MDVlZSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Im10K2FMcXRveWhncHNrTEIyL1kyOEE9PSIsInZhbHVlIjoiRnVhV2pReEpueUVYaVo5a0hzWGlxQT09IiwibWFjIjoiYjVmZGRlYjMzODA2MTVhMTQ4ZmEyMmRjZGUwZDRjZmM4ZjlkZmEzZWI3ODdkNjgxOGFjZjA5NjE0ZjIzMTFhYiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkdTamFOUXl1cmZrdkZsaTA2WUlhRGc9PSIsInZhbHVlIjoiU0tmS0hocklwQUM4VWlHTENkOHNEUT09IiwibWFjIjoiNTQyNTYwOWMxMTQ1MjhiNTU4YjQxOWExZGEyZWFkMmY5MWU0YmFlNGY0ZWYxYzYzMzRlOGJkZGU2NDQ1ODY1ZCIsInRhZyI6IiJ9",
@@ -1739,7 +1736,10 @@
         "https://fpo.uiz.ac.ma/files/Calendar.pdf",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjNaL3poWUtMV3hMTU96TVUxNTlRc1E9PSIsInZhbHVlIjoicndtblBNZ0VlL0xPWjRqcy9aWkdzQT09IiwibWFjIjoiODRhODgwYzBlZDFkMjI0ZTBmY2E1MDVjZWU1ZTY4MzU5Njc0ZjEzNGZlNmIxMmVmYTMzZGRkNGU0ZjE4YzNlZCIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlVxc2N6NDQ2RVlaRjRIK2MrQi9OOHc9PSIsInZhbHVlIjoiS0ppaVFUM3ZHTWh3NE92VytscXNDUT09IiwibWFjIjoiZTM4ODg1YjBjOGJiM2JiYjM2YTU2OTVkYzZjNGEzNzc4OGFhMjRkYTk0NmQ0OGM4YTc4YjE2MWRmNzg0YWMwZSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik1CMm5tYmdZcHcrc1RGcUhxbHIrOEE9PSIsInZhbHVlIjoidHF5MFR6a1V2bzVQU0YrUHJGaEd6QT09IiwibWFjIjoiZGI4YmFiODM5ZDBjNmIyMGI4YzE3ZTA0YzQzYzE0ODcyZjBlOTE0YTdkNTQzMTE5MWIxYTk4YjliODJiM2U5YiIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik1CMm5tYmdZcHcrc1RGcUhxbHIrOEE9PSIsInZhbHVlIjoidHF5MFR6a1V2bzVQU0YrUHJGaEd6QT09IiwibWFjIjoiZGI4YmFiODM5ZDBjNmIyMGI4YzE3ZTA0YzQzYzE0ODcyZjBlOTE0YTdkNTQzMTE5MWIxYTk4YjliODJiM2U5YiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ii9JTno3UTgzNmFYVmljOTlJMStHTlE9PSIsInZhbHVlIjoicTNhbzA4YlJxMmtOb2MvSlQwUEZmUT09IiwibWFjIjoiZDMyYWE3YzMyZjQ5MTcwNzdjMDdjYzgxYjhiMDgwNGNlYzNjZWY3NjJjNGE5ZjM4ODg3MzRhMGNkNzZjZGU4MyIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkEzQm1OOU10MFo5R2gvWFgxSTZ6UUE9PSIsInZhbHVlIjoiNWtOZGc4Yk9SMDlqdURjUmo2a3dnZz09IiwibWFjIjoiZTdlMWZhYTBkZDk4NjQyOWRiNmI1N2RkMzcwM2U2MDI4MmRlZDI5MDY1MTViNGMyYTM0NmYyZjdlYWE5NjIzYyIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlViOXBSd0NKL3kyMGhPamxFOVR0aFE9PSIsInZhbHVlIjoiTnhYbW1pTGZVbFA1cytMNlZxcCs0dz09IiwibWFjIjoiNzI5ZjliN2RmMWE4NDM3ZDYyZWRiMjNjNzkzZTg4MmI5MTNmNTU0MmIwYWQ2YmU3OTVjZjhkNDBkZTQwMmQyOCIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -3002,8 +3002,6 @@
         "https://www.9rayti.com/actualite/la-faculte-de-medecine-de-kenitra-ouvre-officiellement-ses-portes"
     ],
     "supmaroc": [
-        "https://www.supmaroc.com/encg-commerce",
-        "https://www.supmaroc.com/ecole-dingenieurs",
         "https://www.supmaroc.com/category/ecole-dingenieurs",
         "https://www.supmaroc.com/preselections-fse-rabat-licence-education-s3-2026-2027",
         "https://www.supmaroc.com/preselection-ens-tetouan-s3-licence-education-2026-2027",
@@ -3051,7 +3049,9 @@
         "https://www.supmaroc.com/resultats-definitifs-ens-tetouan-s3-licence-education-2026-2027",
         "https://www.supmaroc.com/resultats-preselection-aat-casa-filieres-techniques-2026-2027",
         "https://www.supmaroc.com/news",
-        "https://www.supmaroc.com/recrutement"
+        "https://www.supmaroc.com/recrutement",
+        "https://www.supmaroc.com/master",
+        "https://www.supmaroc.com/licence-professionnelle"
     ],
     "tawjih_info": [
         "https://www.tawjih.info/avisconcours.php",
