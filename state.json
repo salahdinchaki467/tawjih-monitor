@@ -368,7 +368,8 @@
         "https://www.fsts.ac.ma/actualites/deuxieme-liste-dattente-pour-lacces-a-la-lst-add-via-passerelle-externe",
         "https://www.fsts.ac.ma/actualites/debut-de-la-rentree-universitaire-20262027-emplois-du-temps-mst-et-fi",
         "https://www.fsts.ac.ma/actualites/formations-en-temps-amenage",
-        "https://www.fsts.ac.ma/actualites/groupes-et-emplois-du-temps-des-etudiants"
+        "https://www.fsts.ac.ma/actualites/groupes-et-emplois-du-temps-des-etudiants",
+        "https://www.fsts.ac.ma/actualites/important-debut-des-enseignements-des-td-des-troncs-communs"
     ],
     "fst_marrakech": [
         "https://www.fstg-marrakech.ac.ma/fichiers/SKILLUP-V1.pdf",
@@ -835,7 +836,6 @@
     ],
     "ens_marrakech": [],
     "fmp_rabat": [
-        "http://fmp.um5.ac.ma/node/inscription_concoursMEDPH_20262027",
         "http://fmp.um5.ac.ma/index.php/node/inscriptionDOC_2026",
         "http://fmp.um5.ac.ma/index.php/node/reinscription_doctorat2027",
         "http://fmp.um5.ac.ma/index.php",
@@ -884,7 +884,8 @@
         "http://fmp.um5.ac.ma/index.php/node/master_bioTech_medical_oral_2627",
         "http://fmp.um5.ac.ma/index.php/node/Resultas_finaux_Concours_Computational_Biology_Medicale_2026",
         "https://www.facebook.com/pages/Facult%C3%A9%20de%20M%C3%A9decine%20et%20de%20Pharmacie%20de%20Rabat/537661656280993",
-        "https://www.linkedin.com/company/fmpr"
+        "https://www.linkedin.com/company/fmpr",
+        "http://fmp.um5.ac.ma/sites/default/files/2025-05/Proc%C3%A9dure%2520Campus%2520connecte.pdf"
     ],
     "fmp_casablanca": [
         "https://www.fmpc.ac.ma/avis-important-aux-etudiants-a1-a2-a3-a4-a5",
