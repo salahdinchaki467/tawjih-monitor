@@ -1005,7 +1005,8 @@
         "http://fmpl.uiz.ac.ma/2026/09/22/inscription-de-la-liste-dattente-du-concours-dacces-2026-2027-3eme-iteration",
         "http://fmpl.uiz.ac.ma/2026/09/24/stages-hospitaliers-2026-09-28-au-2026-10-16",
         "http://fmpl.uiz.ac.ma/2026/09/28/planification-des-cours-du-28-09-2026-au-02-10-2026",
-        "http://fmpl.uiz.ac.ma/2026/10/02/repartition-des-stages-hospitaliers-2026-2027"
+        "http://fmpl.uiz.ac.ma/2026/10/02/repartition-des-stages-hospitaliers-2026-2027",
+        "http://fmpl.uiz.ac.ma/2026/10/04/planification-des-cours-du-05-10-2026-au-09-10-2026"
     ],
     "fmp_guelmim": [
         "http://fmpg.uiz.ac.ma/actualites/communique",
@@ -2702,7 +2703,8 @@
         "https://www.umi.ac.ma/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84-22",
         "https://www.umi.ac.ma/centre-detudes-doctorales-en-sciences-juridiques-economiques-sociales-et-de-gestion-calendrier-du-concours-du-cycle-doctoral-2026-2027",
         "https://www.umi.ac.ma/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84%d9%85-31",
-        "https://www.umi.ac.ma/listes-des-candidats-convoques-au-test-ecrit-cycle-doctoral-2026-27-cedoc-sjesg"
+        "https://www.umi.ac.ma/listes-des-candidats-convoques-au-test-ecrit-cycle-doctoral-2026-27-cedoc-sjesg",
+        "https://www.umi.ac.ma/%d8%a7%d9%84%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a9-%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%aa%d9%88%d8%b8%d9%8a%d9%81-%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-26"
     ],
     "univ_uh1": [
         "https://www.uh1.ac.ma/annonces-et-appels-administratifs/candidatures/",
@@ -2953,7 +2955,6 @@
         "https://ismac.ac.ma"
     ],
     "tawjihnet": [
-        "https://www.tawjihnet.net/resultats-definitifs-ispits-2026-2027",
         "https://www.tawjihnet.net/resultats-preselection-ispits-2026-2027",
         "https://www.tawjihnet.net/inscription-concours-ispits-2026-2027",
         "https://www.tawjihnet.net/resultats-cpge-listes-principales-lp-2026-2027",
@@ -3002,7 +3003,8 @@
         "https://ismagi.ma?utm_source=tawjihnet&utm_medium=banner&utm_campaign=tawjihnet",
         "https://info.isga.ma/demande-d-information?utm_source=tawjihnet&utm_medium=banner&utm_campaign=tawjihnet",
         "https://www.tawjihnet.net/resultats-definitifs-ensam-maroc-2026-2027",
-        "https://www.tawjihnet.net/concours-forces-auxiliaires-eleves-mokhazenis-fa-2026-2027"
+        "https://www.tawjihnet.net/concours-forces-auxiliaires-eleves-mokhazenis-fa-2026-2027",
+        "https://www.tawjihnet.net/preselection-oral-ens-meknes-bac-licence-education-prescolaire-s1-2026-2027"
     ],
     "moutamadris": [
         "https://moutamadris.ma",
@@ -3047,8 +3049,6 @@
         "https://www.9rayti.com/actualite/la-faculte-de-medecine-de-kenitra-ouvre-officiellement-ses-portes"
     ],
     "supmaroc": [
-        "https://www.supmaroc.com/resultats-definitifs-ensiasd-taroudant-1-ere-cycle-ingenieur-2026-2027",
-        "https://www.supmaroc.com/category/licence-professionnelle",
         "https://www.supmaroc.com/resultats-definitifs-ens-marrakech-licence-education-s3-et-s5-2026-2027",
         "https://www.supmaroc.com/preselection-et-resultats-est-meknes-bachelor-dbt-2026-2027",
         "https://www.supmaroc.com/preselection-est-guelmim-bachelor-normal-et-amenage-2026-2027",
@@ -3096,7 +3096,9 @@
         "https://www.supmaroc.com/licence-professionnelle",
         "https://www.supmaroc.com/encg-commerce",
         "https://www.supmaroc.com/ecole-dingenieurs",
-        "https://www.supmaroc.com/category/ecole-dingenieurs"
+        "https://www.supmaroc.com/category/ecole-dingenieurs",
+        "https://www.supmaroc.com/resultats-definitifs-esef-kenitra-licence-education-s3-s5-2026-2027",
+        "https://www.supmaroc.com/resultats-definitifs-ens-fes-master-2026-2027"
     ],
     "tawjih_info": [
         "https://www.tawjih.info/avisconcours.php",
@@ -3326,7 +3328,9 @@
         "http://estd.uiz.ac.ma/liste-des-candidats-admis-en-liste-dattente-dbt-en-systemes-informatique-embarques-temps-normal-au-2026-2027-2",
         "http://estd.uiz.ac.ma/emplois-du-temps-dut-deuxieme-annee-toutes-les-filieres",
         "http://estd.uiz.ac.ma/emplois-du-temps-dut-premiere-annee-toutes-les-filieres-2",
-        "http://estd.uiz.ac.ma/liste-des-admis-au-dbt-sciences-de-donnees-et-systemes-intelligents-liste-n2-temps-normal-annee-universitaire-2026-2027"
+        "http://estd.uiz.ac.ma/liste-des-admis-au-dbt-sciences-de-donnees-et-systemes-intelligents-liste-n2-temps-normal-annee-universitaire-2026-2027",
+        "http://estd.uiz.ac.ma/inscription-des-admis-dans-le-concours-dbt-temps-normal-2eme-liste",
+        "http://estd.uiz.ac.ma/liste-n2-des-admis-au-dbt-cia-temps-normal-annee-universitaire-2026-2027"
     ],
     "inau_rabat": [
         "https://inau.ac.ma",
