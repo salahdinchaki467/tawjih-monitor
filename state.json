@@ -1009,8 +1009,6 @@
         "http://fmpl.uiz.ac.ma/2026/10/04/planification-des-cours-du-05-10-2026-au-09-10-2026"
     ],
     "fmp_guelmim": [
-        "http://fmpg.uiz.ac.ma/actualites/concours-de-recrutement-des-eleves-officiers-par-voie-dintegration-a-lerssm-annee-2026",
-        "http://fmpg.uiz.ac.ma/actualites/celebration-de-la-fete-du-trone-26-anniversaire-de-laccession-de-sa-majeste-le-roi-mohammed-vi-au-trone-de-ses-glorieux-ancetres",
         "http://fmpg.uiz.ac.ma/actualites/recrutement-des-eleves-officiers-par-voie-dintegration-a-lecole-royale-du-service-de-sante-militaire-erssm-session-2026",
         "http://fmpg.uiz.ac.ma/actualites/avis-de-reinscription-des-anciens-etudiants-admis-et-ajournes-annee-universitaire-20262027",
         "http://fmpg.uiz.ac.ma/actualites/avis-dinscription-premiere-annee-des-etudes-medicales-liste-dattente-annee-universitaire-2026-2027",
@@ -1058,7 +1056,9 @@
         "http://fmpg.uiz.ac.ma/actualites",
         "http://fmpg.uiz.ac.ma/actualites/planning-1ere-annee",
         "http://fmpg.uiz.ac.ma/actualites/4eme-annee-emploi-du-temps-3",
-        "http://fmpg.uiz.ac.ma/actualites/3eme-annee-emploi-du-temps-3"
+        "http://fmpg.uiz.ac.ma/actualites/3eme-annee-emploi-du-temps-3",
+        "http://fmpg.uiz.ac.ma/actualites/planning-2eme-annee",
+        "http://fmpg.uiz.ac.ma/recrutement"
     ],
     "fmd_rabat": [
         "http://fmd.um5.ac.ma/?q=news/avis-de-pr%C3%A9inscription-au-dut-des-proth%C3%A9sistes-dentaires-ann%C3%A9e-universitaire-2026-2027",
@@ -3119,7 +3119,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/actualite/show/id/2151",
         "https://www.alwadifa-maroc.com/offre/show/id/23580",
         "https://www.alwadifa-maroc.com/offre/show/id/23579",
         "https://www.alwadifa-maroc.com/offre/show/id/23581",
@@ -3168,7 +3167,8 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23638",
         "https://www.alwadifa-maroc.com/offre/show/id/23637",
         "https://www.alwadifa-maroc.com/offre/show/id/23639",
-        "https://www.alwadifa-maroc.com/actualite/show/id/2155"
+        "https://www.alwadifa-maroc.com/actualite/show/id/2155",
+        "https://www.alwadifa-maroc.com/offre/show/id/23644"
     ],
     "emploi_public": [
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/5bfda42c-9d06-47b5-b5fc-810c1b31a695",
