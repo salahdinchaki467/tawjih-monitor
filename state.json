@@ -1009,9 +1009,6 @@
         "http://fmpl.uiz.ac.ma/2026/10/04/planification-des-cours-du-05-10-2026-au-09-10-2026"
     ],
     "fmp_guelmim": [
-        "http://fmpg.uiz.ac.ma/actualites/communique",
-        "http://fmpg.uiz.ac.ma/recrutement",
-        "http://fmpg.uiz.ac.ma/actualites/avis-aux-etudiants-1ere-2eme-et-3eme-annees-dernier-delai-pour-le-depot-des-demandes-de-derogation-rentree-20262027",
         "http://fmpg.uiz.ac.ma/actualites/concours-de-recrutement-des-eleves-officiers-par-voie-dintegration-a-lerssm-annee-2026",
         "http://fmpg.uiz.ac.ma/actualites/celebration-de-la-fete-du-trone-26-anniversaire-de-laccession-de-sa-majeste-le-roi-mohammed-vi-au-trone-de-ses-glorieux-ancetres",
         "http://fmpg.uiz.ac.ma/actualites/recrutement-des-eleves-officiers-par-voie-dintegration-a-lecole-royale-du-service-de-sante-militaire-erssm-session-2026",
@@ -1058,7 +1055,10 @@
         "https://www.facebook.com/profile.php?id=61566890891731",
         "https://www.instagram.com/fmpg.uiz?igsh=MTd2N3h0dHdybmt6cg==",
         "http://fmpg.uiz.ac.ma",
-        "http://fmpg.uiz.ac.ma/actualites"
+        "http://fmpg.uiz.ac.ma/actualites",
+        "http://fmpg.uiz.ac.ma/actualites/planning-1ere-annee",
+        "http://fmpg.uiz.ac.ma/actualites/4eme-annee-emploi-du-temps-3",
+        "http://fmpg.uiz.ac.ma/actualites/3eme-annee-emploi-du-temps-3"
     ],
     "fmd_rabat": [
         "http://fmd.um5.ac.ma/?q=news/avis-de-pr%C3%A9inscription-au-dut-des-proth%C3%A9sistes-dentaires-ann%C3%A9e-universitaire-2026-2027",
@@ -2955,7 +2955,6 @@
         "https://ismac.ac.ma"
     ],
     "tawjihnet": [
-        "https://www.tawjihnet.net/resultats-preselection-ispits-2026-2027",
         "https://www.tawjihnet.net/inscription-concours-ispits-2026-2027",
         "https://www.tawjihnet.net/resultats-cpge-listes-principales-lp-2026-2027",
         "https://www.tawjihnet.net/resultats-techniciens-ifmeree-oujda-tanger-2026-2027",
@@ -3004,7 +3003,8 @@
         "https://info.isga.ma/demande-d-information?utm_source=tawjihnet&utm_medium=banner&utm_campaign=tawjihnet",
         "https://www.tawjihnet.net/resultats-definitifs-ensam-maroc-2026-2027",
         "https://www.tawjihnet.net/concours-forces-auxiliaires-eleves-mokhazenis-fa-2026-2027",
-        "https://www.tawjihnet.net/preselection-oral-ens-meknes-bac-licence-education-prescolaire-s1-2026-2027"
+        "https://www.tawjihnet.net/preselection-oral-ens-meknes-bac-licence-education-prescolaire-s1-2026-2027",
+        "https://www.tawjihnet.net/resultats-definitifs-ispits-2026-2027"
     ],
     "moutamadris": [
         "https://moutamadris.ma",
