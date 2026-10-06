@@ -376,7 +376,8 @@
         "https://www.fsts.ac.ma/actualites/formations-en-temps-amenage",
         "https://www.fsts.ac.ma/actualites/groupes-et-emplois-du-temps-des-etudiants",
         "https://www.fsts.ac.ma/actualites/important-debut-des-enseignements-des-td-des-troncs-communs",
-        "https://www.fsts.ac.ma/actualites/aaalan-aan-ntyg-mbara-tothyf-mhnds-dol-mn-aldrg-alaol"
+        "https://www.fsts.ac.ma/actualites/aaalan-aan-ntyg-mbara-tothyf-mhnds-dol-mn-aldrg-alaol",
+        "https://www.fsts.ac.ma/actualites/modalites-de-reinscription-aux-modules"
     ],
     "fst_marrakech": [
         "https://www.fstg-marrakech.ac.ma/fichiers/SKILLUP-V1.pdf",
@@ -796,9 +797,6 @@
         "http://ensam.um5.ac.ma/index%2ephp"
     ],
     "ens_rabat": [
-        "http://ens.um5.ac.ma/affiche-annonce-22",
-        "http://ens.um5.ac.ma/affiche-thnyt-yd-alrsh-almjyd",
-        "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/Convocation_entretien_oral_-_Espace_1V6.pdf",
         "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/list_amz.pdf",
         "http://ens.um5.ac.ma/affiche-annonce-lwayh-almtrshhyn-walmtrshhat-almdwyn-lajtyaz-almqablt-alshfwyt-lmbarat-alwlwj-aly",
         "http://ens.um5.ac.ma/affiche-annonce-lwayh-almtrshhyn-walmtrshhat-almdwyn-lajtyaz-almqablt-alshfwyt-lmbarat-alwlwj-aly-0",
@@ -845,7 +843,10 @@
         "http://ens.um5.ac.ma/affiche-annonce-37",
         "http://ens.um5.ac.ma/concours",
         "http://ens.um5.ac.ma/affiche-annonce-39",
-        "http://ens.um5.ac.ma/affiche-annonce-38"
+        "http://ens.um5.ac.ma/affiche-annonce-38",
+        "http://ens.um5.ac.ma/affiche-annonce-41",
+        "http://ens.um5.ac.ma/affiche-annonce-43",
+        "http://ens.um5.ac.ma/affiche-annonce-42"
     ],
     "ens_marrakech": [],
     "fmp_rabat": [
@@ -1577,7 +1578,6 @@
         "http://fsjes-souissi.um5.ac.ma/node/499"
     ],
     "fsjes_sale": [
-        "https://www.instagram.com/fsjes.sale.um5?igsh=N2Nmb2M1NzFseGFt&utm_source=qr",
         "https://www.youtube.com/@UM5R",
         "http://fsjes-sale.um5.ac.ma",
         "https://fsjes-sale.um5.ac.ma/node/714",
@@ -1626,7 +1626,8 @@
         "http://fsjes-sale.um5.ac.ma/index.php/node/754",
         "http://fsjes-sale.um5.ac.ma/index.php/node/756",
         "http://fsjes-sale.um5.ac.ma/node/756",
-        "http://fsjes-sale.um5.ac.ma/index.php/node/750"
+        "http://fsjes-sale.um5.ac.ma/index.php/node/750",
+        "https://www.facebook.com/fsjes.sale.ac.ma"
     ],
     "fs_casa_ain_chock": [
         "http://www.fsac.ac.ma/annonces.html",
@@ -1962,7 +1963,6 @@
         "https://fstt.uae.ac.ma/avis-aux-nouveaux-inscrits-lst-mst-di-activation-des-adresses-e-mails-institutionnelles"
     ],
     "fs_kenitra": [
-        "https://fs.uit.ac.ma/avis-master/",
         "https://fs.uit.ac.ma/avis-aux-etudiants-demande-dajout-de-module-ou-de-changement-de-filiere/",
         "https://fs.uit.ac.ma/avis-doctorat/",
         "https://fs.uit.ac.ma/avis-de-soutenance/",
@@ -2011,7 +2011,8 @@
         "https://fs.uit.ac.ma/avis-aux-etudiants-du-cycle-licence-fondamentale-demarrage-des-seances-de-travaux-diriges-td-semestres-s1-s3-et-s5",
         "https://fs.uit.ac.ma/luniversite-ibn-tofail-de-kenitra-se-distingue-dans-le-classement-mondial-ui-greenmetric-2026",
         "https://fs.uit.ac.ma/%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d9%88%d8%b7%d9%86%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d8%a8%d9%86-%d8%b7%d9%81%d9%8a%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85",
-        "https://fs.uit.ac.ma/avis-aux-candidats-preinscrits-aux-licences-dexcellence-mecatronique-biotechnologies-agroalimentaires-agronomie-et-innovation"
+        "https://fs.uit.ac.ma/avis-aux-candidats-preinscrits-aux-licences-dexcellence-mecatronique-biotechnologies-agroalimentaires-agronomie-et-innovation",
+        "https://fs.uit.ac.ma/avis-aux-candidats-retenus-aux-masters-2026-2027"
     ],
     "fs_jadida": [
         "https://www.youtube.com/channel/UCNTbX8mEanI3hb-IfKbx_6w",
@@ -3083,8 +3084,6 @@
         "https://www.9rayti.com/actualite/la-faculte-de-medecine-de-kenitra-ouvre-officiellement-ses-portes"
     ],
     "supmaroc": [
-        "https://www.supmaroc.com/resultats-definitifs-ens-marrakech-licence-education-s3-et-s5-2026-2027",
-        "https://www.supmaroc.com/preselection-et-resultats-est-meknes-bachelor-dbt-2026-2027",
         "https://www.supmaroc.com/preselection-est-guelmim-bachelor-normal-et-amenage-2026-2027",
         "https://www.supmaroc.com/preselection-ensa-oujda-concours-1ere-annee-ingenieur-2026-2027-2",
         "https://www.supmaroc.com/resultats-definitifs-enam-meknes-1ere-annee-ingenieur-2026-2027",
@@ -3132,7 +3131,9 @@
         "https://www.supmaroc.com/ecole-dingenieurs",
         "https://www.supmaroc.com/category/ecole-dingenieurs",
         "https://www.supmaroc.com/resultats-definitifs-esef-kenitra-licence-education-s3-s5-2026-2027",
-        "https://www.supmaroc.com/resultats-definitifs-ens-fes-master-2026-2027"
+        "https://www.supmaroc.com/resultats-definitifs-ens-fes-master-2026-2027",
+        "https://www.supmaroc.com/preselection-encg-oujda-concours-master-2026-2027",
+        "https://www.supmaroc.com/category/licence-professionnelle"
     ],
     "tawjih_info": [
         "https://www.tawjih.info/avisconcours.php",
@@ -3153,8 +3154,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23589",
-        "https://www.alwadifa-maroc.com/offre/show/id/23588",
         "https://www.alwadifa-maroc.com/offre/show/id/23593",
         "https://www.alwadifa-maroc.com/offre/show/id/23594",
         "https://www.alwadifa-maroc.com/offre/show/id/23597",
@@ -3202,12 +3201,11 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23650",
         "https://www.alwadifa-maroc.com/offre/show/id/23649",
         "https://www.alwadifa-maroc.com/offre/show/id/23647",
-        "https://www.alwadifa-maroc.com/offre/show/id/23646"
+        "https://www.alwadifa-maroc.com/offre/show/id/23646",
+        "https://www.alwadifa-maroc.com/offre/show/id/23658",
+        "https://www.alwadifa-maroc.com/offre/show/id/23657"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2b502cb0-e9ba-4a4d-8776-f52e42edb7c1",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/6922c85a-2b2a-48b3-b6b0-2168d65f2fe8",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/55a68029-909d-4c61-8b94-94976c50be8a",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/5345b015-97b2-4732-9fbf-275fabae6f97",
         "https://www.prixpanafricain-servicepublic.org",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/98bb6a45-de89-4080-8e03-d91f538653dc",
@@ -3254,7 +3252,10 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1e89bc0e-34b3-45dc-b4e8-5189515cdb93",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/b4a98786-21c6-4452-81fe-98be49377f05",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1236acbf-aa6d-4189-9c92-4dbb9c2f0fd0",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/751161c7-a02c-4922-9cab-4f676278cee0"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/751161c7-a02c-4922-9cab-4f676278cee0",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/a097c2eb-d220-4862-9169-ba02560318bb",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3a839b6d-3e1b-4422-bc05-1fed05a651f2",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7b0a1098-efe5-458f-80dd-5feab87b0f47"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -3498,6 +3499,8 @@
         "https://www.ump.ma/storage/images/1/Gallery/5f033c4065056.png",
         "https://www.ump.ma/storage/images/1/Gallery/5f60954570680.jpg",
         "https://www.ump.ma/storage/images/1/Gallery/5e3d35ed33db2.jpg",
-        "https://www.ump.ma/storage/images/1/Gallery/5f033bd0b9b55.png"
+        "https://www.ump.ma/storage/images/1/Gallery/5f033bd0b9b55.png",
+        "https://www.ump.ma/storage/images/1/Gallery/5e3d35abe467b.jpg",
+        "https://www.ump.ma/storage/images/1/Gallery/5f6098314904c.png"
     ]
 }
