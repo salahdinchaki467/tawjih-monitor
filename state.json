@@ -803,7 +803,6 @@
         "http://ensam.um5.ac.ma/index%2ephp"
     ],
     "ens_rabat": [
-        "http://ens.um5.ac.ma/affiche-annonce-lwayh-almtrshhyn-walmtrshhat-almdwyn-lajtyaz-almqablt-alshfwyt-lmbarat-alwlwj-aly",
         "http://ens.um5.ac.ma/affiche-annonce-lwayh-almtrshhyn-walmtrshhat-almdwyn-lajtyaz-almqablt-alshfwyt-lmbarat-alwlwj-aly-0",
         "http://ens.um5.ac.ma/affiche-annonce-23",
         "http://ens.um5.ac.ma/affiche-annonce-liste-des-etudiants-convoques-lentretien-oral-du-master-en-ingenierie-et",
@@ -852,7 +851,8 @@
         "http://ens.um5.ac.ma/affiche-annonce-41",
         "http://ens.um5.ac.ma/affiche-annonce-43",
         "http://ens.um5.ac.ma/affiche-annonce-42",
-        "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/Convocation_entretien_oral_-_Espace_1V6.pdf"
+        "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/Convocation_entretien_oral_-_Espace_1V6.pdf",
+        "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/list_amz.pdf"
     ],
     "ens_marrakech": [],
     "fmp_rabat": [
@@ -3165,7 +3165,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23594",
         "https://www.alwadifa-maroc.com/offre/show/id/23597",
         "https://www.alwadifa-maroc.com/offre/show/id/23596",
         "https://www.alwadifa-maroc.com/offre/show/id/23595",
@@ -3214,11 +3213,10 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23646",
         "https://www.alwadifa-maroc.com/offre/show/id/23658",
         "https://www.alwadifa-maroc.com/offre/show/id/23657",
-        "https://www.alwadifa-maroc.com/offre/show/id/23659"
+        "https://www.alwadifa-maroc.com/offre/show/id/23659",
+        "https://www.alwadifa-maroc.com/offre/show/id/23662"
     ],
     "emploi_public": [
-        "http://idarati.ma",
-        "http://maps.service-public.ma",
         "http://bdj.mmsp.gov.ma",
         "https://www.mmsp.gov.ma",
         "http://zap",
@@ -3266,7 +3264,9 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e8550710-3ecf-47f6-974f-313e8ec70bf4",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1c48b740-191d-4bc2-bdfc-7e5895e3bb08",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/4e558e69-ac29-4153-a076-b83e3fa689ff",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d63baebe-afbb-4ede-9e52-00efec75fbc2"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d63baebe-afbb-4ede-9e52-00efec75fbc2",
+        "https://www.prixpanafricain-servicepublic.org",
+        "https://www.emtiaz.ma"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
