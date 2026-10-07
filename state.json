@@ -642,8 +642,12 @@
         "http://www.esta.ac.ma?page_id=4533",
         "http://www.esta.ac.ma?page_id=4583"
     ],
-    "est_essaouira": [],
-    "est_laayoune": [],
+    "est_essaouira": [
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=www.este.uca.ma"
+    ],
+    "est_laayoune": [
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=estl.uiz.ac.ma"
+    ],
     "est_kenitra": [
         "https://est.uit.ac.ma",
         "https://est.uit.ac.ma/planning-des-examens-de-session-de-printemps-rattrapage-dut-semestre-4-dbt-semestre-2-2025-2026",
@@ -700,7 +704,9 @@
         "https://estfbs.usms.ac.ma?p=5757",
         "https://estfbs.usms.ac.ma?p=5764"
     ],
-    "est_kelaa": [],
+    "est_kelaa": [
+        "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=www.estk.uca.ma"
+    ],
     "ensam_meknes": [
         "http://www.ensam-umi.ac.ma/category/annonces",
         "https://www.ensam-umi.ac.ma/concours-commun-dacces-aux-ensam-maroc-session-du-24-juillet-2026-affectation-des-numeros-des-candidats-et-des-salles-par-centre-dexamen/",
@@ -797,7 +803,6 @@
         "http://ensam.um5.ac.ma/index%2ephp"
     ],
     "ens_rabat": [
-        "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/list_amz.pdf",
         "http://ens.um5.ac.ma/affiche-annonce-lwayh-almtrshhyn-walmtrshhat-almdwyn-lajtyaz-almqablt-alshfwyt-lmbarat-alwlwj-aly",
         "http://ens.um5.ac.ma/affiche-annonce-lwayh-almtrshhyn-walmtrshhat-almdwyn-lajtyaz-almqablt-alshfwyt-lmbarat-alwlwj-aly-0",
         "http://ens.um5.ac.ma/affiche-annonce-23",
@@ -846,7 +851,8 @@
         "http://ens.um5.ac.ma/affiche-annonce-38",
         "http://ens.um5.ac.ma/affiche-annonce-41",
         "http://ens.um5.ac.ma/affiche-annonce-43",
-        "http://ens.um5.ac.ma/affiche-annonce-42"
+        "http://ens.um5.ac.ma/affiche-annonce-42",
+        "https://ens.um5.ac.ma/sites/default/files/listes%2020262027/Convocation_entretien_oral_-_Espace_1V6.pdf"
     ],
     "ens_marrakech": [],
     "fmp_rabat": [
@@ -1028,7 +1034,8 @@
         "http://fmpl.uiz.ac.ma/2026/09/24/stages-hospitaliers-2026-09-28-au-2026-10-16",
         "http://fmpl.uiz.ac.ma/2026/09/28/planification-des-cours-du-28-09-2026-au-02-10-2026",
         "http://fmpl.uiz.ac.ma/2026/10/02/repartition-des-stages-hospitaliers-2026-2027",
-        "http://fmpl.uiz.ac.ma/2026/10/04/planification-des-cours-du-05-10-2026-au-09-10-2026"
+        "http://fmpl.uiz.ac.ma/2026/10/04/planification-des-cours-du-05-10-2026-au-09-10-2026",
+        "http://fmpl.uiz.ac.ma/2026/10/06/avis-de-concours-de-residanat-en-medecine-session-du-16-novembre-2026"
     ],
     "fmp_guelmim": [
         "http://fmpg.uiz.ac.ma/actualites/recrutement-des-eleves-officiers-par-voie-dintegration-a-lecole-royale-du-service-de-sante-militaire-erssm-session-2026",
@@ -1688,7 +1695,11 @@
         "https://fsjesm.ma/2026/09/22/%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86-%d9%81%d9%8a-%d8%a5%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%8a-2",
         "https://fsjesm.ma/2026/09/22/licence-emploi-du-temps-session-dautomne-a-u-2026-2027",
         "https://fsjesm.ma/2026/09/28/avis-dinscription-listes-dattenteannee-universitaire-2026-2027master-temps-amenage-temps-normal",
-        "https://fsjesm.ma/2026/09/25/18873"
+        "https://fsjesm.ma/2026/09/25/18873",
+        "https://fsjesm.ma/2026/10/01/avis-dinscription-liste-dattente-annee-universitaire-2026-2027-master-gouvernance-de-ladministration-publique-temps-normal",
+        "https://fsjesm.ma/2026/09/30/pre-candidature-en-ligne-master-droit-prive-economique-a-u-2026-2027",
+        "https://fsjesm.ma/2026/09/30/bts-%d9%88-dut-%d8%a5%d8%b9%d9%80%d9%80%d9%84%d8%a7%d9%86-%d8%a8%d8%ae%d8%b5%d9%88%d8%b5-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b5%d9%84%d9%8a",
+        "https://fsjesm.ma/2026/09/30/webinaire-national-2026"
     ],
     "flsh_agadir": [
         "http://www.flsh-agadir.ac.ma?p=36533",
@@ -2271,7 +2282,6 @@
     ],
     "flsh_mohammedia": [],
     "flsh_ain_chock": [
-        "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/ara_s2_session2.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/hist_s6_session2_1.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/hist_s2_session2_2.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/exams/printemps_2025-2026/ratt/fra_s6_session2.pdf",
@@ -2320,7 +2330,8 @@
         "https://www.flsh-uh2c.ac.ma/docs/2026/Groupe2_ALDS_2026-2027.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/2026/Orale_osra_grp1.pdf",
         "https://www.flsh-uh2c.ac.ma/docs/2026/Orale_osra_grp2.pdf",
-        "https://www.flsh-uh2c.ac.ma/docs/2026/Orale_osra_grp3.pdf"
+        "https://www.flsh-uh2c.ac.ma/docs/2026/Orale_osra_grp3.pdf",
+        "https://www.flsh-uh2c.ac.ma/docs/2026/Admis_DIS.pdf"
     ],
     "flsh_kenitra": [],
     "flsh_jadida": [
@@ -3154,7 +3165,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23593",
         "https://www.alwadifa-maroc.com/offre/show/id/23594",
         "https://www.alwadifa-maroc.com/offre/show/id/23597",
         "https://www.alwadifa-maroc.com/offre/show/id/23596",
@@ -3203,16 +3213,10 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23647",
         "https://www.alwadifa-maroc.com/offre/show/id/23646",
         "https://www.alwadifa-maroc.com/offre/show/id/23658",
-        "https://www.alwadifa-maroc.com/offre/show/id/23657"
+        "https://www.alwadifa-maroc.com/offre/show/id/23657",
+        "https://www.alwadifa-maroc.com/offre/show/id/23659"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/5345b015-97b2-4732-9fbf-275fabae6f97",
-        "https://www.prixpanafricain-servicepublic.org",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/98bb6a45-de89-4080-8e03-d91f538653dc",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/31d3767b-e0b1-40c2-b102-19e2be6347ea",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/460dbc95-e55e-4118-9201-44ca2d212fff",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/f2547067-e191-4901-b724-8224298564e8",
-        "https://www.emtiaz.ma",
         "http://idarati.ma",
         "http://maps.service-public.ma",
         "http://bdj.mmsp.gov.ma",
@@ -3255,7 +3259,14 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/751161c7-a02c-4922-9cab-4f676278cee0",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/a097c2eb-d220-4862-9169-ba02560318bb",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3a839b6d-3e1b-4422-bc05-1fed05a651f2",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7b0a1098-efe5-458f-80dd-5feab87b0f47"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7b0a1098-efe5-458f-80dd-5feab87b0f47",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/993b97ec-bba2-48ef-b48c-4eca1bb67e62",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/38d40749-9126-4d5e-aca5-49db1305143a",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/5ba46fbd-7b40-4fb9-8430-e1c7e2795fb8",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e8550710-3ecf-47f6-974f-313e8ec70bf4",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1c48b740-191d-4bc2-bdfc-7e5895e3bb08",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/4e558e69-ac29-4153-a076-b83e3fa689ff",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d63baebe-afbb-4ede-9e52-00efec75fbc2"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -3389,7 +3400,8 @@
         "https://inau.ac.ma/concours-dinau-2026-epreuves-ecrites",
         "https://inau.ac.ma/annonce-de-la-soutenance-dune-these-de-doctorat-20",
         "https://inau.ac.ma/concours-dinau-2026-epreuve-orale",
-        "https://inau.ac.ma/concours-dinau-2026-resultats-finaux"
+        "https://inau.ac.ma/concours-dinau-2026-resultats-finaux",
+        "https://inau.ac.ma/concours-dinau-2026-candidats-de-la-liste-dattente"
     ],
     "univ_uae": [
         "https://www.uae.ac.ma",
@@ -3501,6 +3513,7 @@
         "https://www.ump.ma/storage/images/1/Gallery/5e3d35ed33db2.jpg",
         "https://www.ump.ma/storage/images/1/Gallery/5f033bd0b9b55.png",
         "https://www.ump.ma/storage/images/1/Gallery/5e3d35abe467b.jpg",
-        "https://www.ump.ma/storage/images/1/Gallery/5f6098314904c.png"
+        "https://www.ump.ma/storage/images/1/Gallery/5f6098314904c.png",
+        "https://www.ump.ma/storage/images/1/Gallery/5f033950e62a0.png"
     ]
 }
