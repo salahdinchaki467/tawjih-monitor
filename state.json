@@ -702,7 +702,8 @@
         "https://estfbs.usms.ac.ma?p=5727",
         "https://estfbs.usms.ac.ma?p=5740",
         "https://estfbs.usms.ac.ma?p=5757",
-        "https://estfbs.usms.ac.ma?p=5764"
+        "https://estfbs.usms.ac.ma?p=5764",
+        "https://estfbs.usms.ac.ma?p=5783"
     ],
     "est_kelaa": [
         "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=www.estk.uca.ma"
@@ -2747,7 +2748,8 @@
         "https://www.umi.ac.ma/%d8%a7%d9%84%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a9-%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%aa%d9%88%d8%b8%d9%8a%d9%81-%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-26",
         "https://www.umi.ac.ma/avis-resultats-du-concours-du-cycle-doctoral-fsm-umi-2026-2027",
         "https://www.umi.ac.ma/appel-a-candidature-pour-bourses-de-mobilite-erasmus-ka-171-a-luniversite-degli-studi-di-napoli-federico-ii-italie",
-        "https://www.umi.ac.ma/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84%d9%85-32"
+        "https://www.umi.ac.ma/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%8a%d9%86-%d9%84%d8%a7%d8%ac%d8%aa%d9%8a%d8%a7%d8%b2-%d8%a7%d9%84%d9%85-32",
+        "https://www.umi.ac.ma/%d8%a7%d9%84%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a9-%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%aa%d9%88%d8%b8%d9%8a%d9%81-%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-27"
     ],
     "univ_uh1": [
         "https://www.uh1.ac.ma/annonces-et-appels-administratifs/candidatures/",
@@ -3217,11 +3219,6 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23662"
     ],
     "emploi_public": [
-        "http://bdj.mmsp.gov.ma",
-        "https://www.mmsp.gov.ma",
-        "http://zap",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/6dd1a8e7-db3b-4c53-976a-61acb1a41560",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2fd197fa-88b7-43bb-a82b-47025bb2b806",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/bca396eb-03a2-4648-94e9-2f4bd888ee07",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/baa76d68-c2e1-4f61-a5af-07e3e8ce0afb",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c501a3f6-ccf8-4903-9796-51a2991bc8b1",
@@ -3266,7 +3263,12 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/4e558e69-ac29-4153-a076-b83e3fa689ff",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d63baebe-afbb-4ede-9e52-00efec75fbc2",
         "https://www.prixpanafricain-servicepublic.org",
-        "https://www.emtiaz.ma"
+        "https://www.emtiaz.ma",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e1715ac9-9212-43e3-8f9a-c13af31771ce",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/b0920762-16db-4739-9042-edd74eadc660",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/70765bc3-af31-45a0-91f9-0863f6873763",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/6e16e0de-bd90-41bc-977d-44d6b1714726",
+        "http://idarati.ma"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
