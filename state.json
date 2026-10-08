@@ -3181,9 +3181,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23603",
-        "https://www.alwadifa-maroc.com/actualite/show/id/2152",
-        "https://www.alwadifa-maroc.com/offre/show/id/23604",
         "https://www.alwadifa-maroc.com/offre/show/id/23605",
         "https://www.alwadifa-maroc.com/offre/show/id/23606",
         "https://www.alwadifa-maroc.com/actualite/show/id/2153",
@@ -3230,19 +3227,12 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23670",
         "https://www.alwadifa-maroc.com/offre/show/id/23669",
         "https://www.alwadifa-maroc.com/offre/show/id/23668",
-        "https://www.alwadifa-maroc.com/offre/show/id/23667"
+        "https://www.alwadifa-maroc.com/offre/show/id/23667",
+        "https://www.alwadifa-maroc.com/offre/show/id/23601",
+        "https://www.alwadifa-maroc.com/actualite/show/id/2156",
+        "https://www.alwadifa-maroc.com/offre/show/id/23672"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/fe98697d-1e4a-4d03-9aa6-43880dd1b6c0",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/8905b0cc-8191-4de4-b4cb-9b1152a1e7a2",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dc56038c-0645-4711-8230-061e12f986bc",
-        "https://www.emploi-public.ma",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e7790234-1391-45fb-9402-068f3dcf6123",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c81e6d32-314a-493c-8f32-b7783c06c47f",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/631b8feb-8f8f-43c3-82c5-1277ebbb180a",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2a110605-02cb-47f7-968c-21c520c5c62d",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7f82e828-6baa-4c87-8c3c-59bb35155f2b",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1c4103fd-834b-4fd0-bb46-a6d0b02fedc0",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e8f0f77d-859e-429d-be9d-c7e2f20c3641",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/63d8913e-9ea3-44ac-9763-fe24c32cc21d",
@@ -3282,7 +3272,17 @@
         "http://maps.service-public.ma",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/62a2c235-5b35-426b-8bd4-caafd3fd4217",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/03d70f77-ba09-43d8-bc67-e37a21fc7bf1",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/17357991-65cd-40a2-888f-4dd974b40c93"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/17357991-65cd-40a2-888f-4dd974b40c93",
+        "https://www.emploi-public.ma/ar",
+        "https://www.emploi-public.ma/ar/%D8%A7%D8%B7%D8%B1%D8%AD-%D8%B3%D8%A4%D8%A7%D9%84%D8%A7",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/18520698-f2a0-4892-a70d-271cba2595bb",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/cfc0aa8f-d446-420a-aba9-89fd86712da9",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/54274e99-578d-4f3e-b78d-42730cc9cd4e",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/a7bf3e0d-6e35-4f60-83df-8c720e12c447",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/fd65d05e-29c8-4108-8d2b-5efef8e1b4b0",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/78808ac1-5f15-4baf-aed3-6e2fc710ea24",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/13ad6289-7cfe-441a-9922-c71f51c040f1",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/8c6b2d92-3dde-414b-a877-caa39dadaba6"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -3530,6 +3530,8 @@
         "https://www.ump.ma/storage/images/1/Gallery/5f033bd0b9b55.png",
         "https://www.ump.ma/storage/images/1/Gallery/5e3d35abe467b.jpg",
         "https://www.ump.ma/storage/images/1/Gallery/5f6098314904c.png",
-        "https://www.ump.ma/storage/images/1/Gallery/5f033950e62a0.png"
+        "https://www.ump.ma/storage/images/1/Gallery/5f033950e62a0.png",
+        "https://www.ump.ma/storage/images/1/Gallery/5f033d5d26a6f.png",
+        "https://www.ump.ma/storage/images/1/Gallery/5f033a159af71.png"
     ]
 }
