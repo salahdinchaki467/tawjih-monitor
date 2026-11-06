@@ -372,7 +372,6 @@
         "http://www.fstm.ac.ma/vie_estudiantine/activites/Capgemini26/Capgemini26.php"
     ],
     "fst_settat": [
-        "http://www.fsts.ac.ma/actualites",
         "https://www.fsts.ac.ma/actualites/important-inscription-au-master-en-sciences-et-techniques",
         "https://www.fsts.ac.ma/actualites/important-convocation-a-lepreuve-orale-du-concours-dacces-au-mst-management-et-qualite-en-agroalimentaire-dans-les-grandes-distributions",
         "https://www.fsts.ac.ma/actualites/important-appel-a-candidature-pour-lacces-au-master-en-sciences-et-techniques-mathematiques-et-technologies-emergentes",
@@ -421,7 +420,8 @@
         "https://www.fsts.ac.ma/index.php/actualites/inscriptions-des-candidats-retenus-formation-initiale-en-temps-amenage-avis-aux-fonctionnaires-et-salaries",
         "https://www.fsts.ac.ma/index.php/actualites/formations-en-temps-amenage-2-eme-appel",
         "https://www.fsts.ac.ma/index.php/actualites/alntayg-alnhayy-lmbara-tothyf-astath-mhadr-bkly-alaalom-oaltknyat-bstat-dor-20260704",
-        "http://www.fsts.ac.ma"
+        "http://www.fsts.ac.ma",
+        "https://www.fsts.ac.ma/actualites"
     ],
     "fst_marrakech": [
         "https://www.fstg-marrakech.ac.ma/fichiers/SKILLUP-V1.pdf",
@@ -1900,12 +1900,6 @@
         "https://www.flsh-agadir.ac.ma?p=36886"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InpjNzlFTVNZWFEzQ1dnSUxLcEsxMmc9PSIsInZhbHVlIjoiR0dDc0hDSGNHMU5RSEZCOGV2TzVEdz09IiwibWFjIjoiOGMxMWY4Yjk2MTdmZTAwZmIyYmE4YzQxODMwODA2N2FmNmY3MDFjNjA2YWM0Y2Y4NDhhMjAzNWMxYTJhYWNmOCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImlPL3BrdHcvRmRhMHhaWHk4bUpyYWc9PSIsInZhbHVlIjoiMEpSQUxxaHh5d3VyRE1uc0JkSHQ1Zz09IiwibWFjIjoiMjJkYTMwZjBmMWIyMDU4OWI5MGM5MGE4OTY1ZGMxNjU0M2Y1MGFlNTI0NGE4NmYwZGVhNWIzYTNmMDRmMzU5NCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/files/cadre-tpA.pdf",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik94Wk1sRlYzMXRFMGdGdmtsdGh2bGc9PSIsInZhbHVlIjoiZHR4YjYrL1JjL0pVM2ZrR1NVU3hqZz09IiwibWFjIjoiMWRlNDkxZDI5ZjYxYjk5NDM1MWYwZWNmNWUwM2NhZDE3ZGQyNTdmZWUzYTJkNzdkNDliZTRkNmMxYWQxODcwMSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImRZZmpWbVpqNW1BbUhUZEdJNFRuc3c9PSIsInZhbHVlIjoiK1dvcEVZRzJkR2lTNnk0a1p2V0hGZz09IiwibWFjIjoiOWI5NDVjNWMwMmY5MWVmMmVmYTIwNTNhMmQ5ZjZlZTY4ZThjMjI5YzAxNmY0YTljNGU4YTI2MDY1NThjOWFlYyIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkR4TU15ekNjdlNFKzNmVG1haXpTdkE9PSIsInZhbHVlIjoiVzhOLzVobW92bjBERnRBVzBCeEZLZz09IiwibWFjIjoiMGJlODgyNjMwY2FlNjI1ZDQ3YWY5YjAxNmZlNTJiNDhmOTRiMTc0MjRiZjQ2YjNlMjlmNmZiZjE5ZTEwYWUzYSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjdvakJudXJ1aG5za0xsdVh4UittYmc9PSIsInZhbHVlIjoieEJTQTVQaXlLWnhkN2duSG4yV01Odz09IiwibWFjIjoiNzEzMjhjYjM1MDUyMWI0ZGRhZjc4ZDU3YjQ0OTUzNmE1NmFiYzZjOWVmNWQxMjQ4Y2ZiYzVmODNjYzY1MTRiOSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImdPMnZubjVzb0hyS2FUdWdYNEhDNEE9PSIsInZhbHVlIjoid09zUFdwKzFoVFNualJ5TmJORkFCdz09IiwibWFjIjoiODVjNzgyYzZjZjgzNjYyMDBhZGQ1NDMxOGRmYThhNDJiNjQxNTlmODIyMmMwYjAzNWY1NmY1YjIxNzg3NGZlYSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjQ3T1ZYSHhDbDBWOVJ4MnNhMHFiWkE9PSIsInZhbHVlIjoiWjNnYWYxSlhmd0RjTG1ySGp0ai9idz09IiwibWFjIjoiNjQxOGUyNThjMDU3NTU1Y2NmOWJhNDFlNzNjYTM2Mzg0YzU5ZTJiMTc0N2I5MmIwMjNmNGY0MjY4ZjgxMjNmOCIsInRhZyI6IiJ9",
@@ -1949,7 +1943,13 @@
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjAvK3Jya01WMnpWR2Q0Q0pZL1ZzUWc9PSIsInZhbHVlIjoiRnRUWkhSV3AwRGRyL2d3UXVrVHU3UT09IiwibWFjIjoiOTMwYzJkY2ExMmQ0ZTNhM2QwYmY5MTdkNGYwYjJjOWZmZTE4NGFiY2E2Njg5Yjg5NDk0OGYzODIzMzhkNjAxMSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImYxbVA0SUt4bkZQTUgwNlV5VjM3eWc9PSIsInZhbHVlIjoiRVpDTTcwMlMxYlBqelFIbjcvNXdtdz09IiwibWFjIjoiZDhmYWY4ZjE0MTI0ZTEyMWM2NTJlODZhMWQ0NjJkZjRkMmZlZTM2ZGIwZjk2YTk4ODBjYzIwZTdkZmZhNGJmMSIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InlpVEF4Q2RnNWIweklLUVZISnJjVWc9PSIsInZhbHVlIjoid1FMOHAyQ0hGY0JrNERQbmNuQlNFUT09IiwibWFjIjoiZWEwZDk1Y2UwYWQ3ZWIyNGY4MTIzZGFiZGM4Zjc2YzAyZjEwNjllNDViOGNjMTEwNThhNTAzYjVkZjJjOTI0NCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IndHMWZ3N1lRbVl1SkZOdldoKzZuRGc9PSIsInZhbHVlIjoibDc0YmhXRUh3NGUzbno0MHNoVTBmQT09IiwibWFjIjoiYzdjOGJjZDg4YjM5ZmUxYmUwNWUxMDljNDc3MmUyMWQ1OGU1Njk4OWU1NGE5MDIyYjBmOWU4NTAyNzUxYWE3NiIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IndHMWZ3N1lRbVl1SkZOdldoKzZuRGc9PSIsInZhbHVlIjoibDc0YmhXRUh3NGUzbno0MHNoVTBmQT09IiwibWFjIjoiYzdjOGJjZDg4YjM5ZmUxYmUwNWUxMDljNDc3MmUyMWQ1OGU1Njk4OWU1NGE5MDIyYjBmOWU4NTAyNzUxYWE3NiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImxhdnhjNk5WTWFFblN6UUMzNFdINlE9PSIsInZhbHVlIjoiQVcxaUIzOXExaTkwaEJ3RlZFMEtVUT09IiwibWFjIjoiNjVjMTg2ZTRkMTZjOTgzNzk0OTBhMDFkNWU3YWE2YThhYmE0YmMyY2VmZGQwMDFlMzU1MGY2ZGUzOTY1MDI1MSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjJKajFPaU1TMUxvVTAvRS84Rit6N2c9PSIsInZhbHVlIjoiNGlkYVlKMVZJOGNaMGlHVW5NNlEwdz09IiwibWFjIjoiMWQ3NDk2NmQ5MjA3ZGUyOWMyN2ViMWI0ZTM1NWNjNTUyNThkNDQ2YmIzOWExNjRlZWUwNmY2NjgxYTM2ZDcyNiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlV1ai9YV0crN0lYck5QcVNuUEFqQXc9PSIsInZhbHVlIjoibTdVKy9mcGlFSmVVNUc3bkVNOEV2dz09IiwibWFjIjoiNjY2NDI0MmNkMjk4NDc1ZGJjOGIyMTc2NDFmODIyMDgzOWI4OGFiN2IzNDU0OGNlZTBmYzg1Njk3MzNjNWQ0YiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkNQY2tnNlBVSGxXczluekdVOU13U2c9PSIsInZhbHVlIjoiaEtjT1Ixa0plNFRkVDFaS3BEOVNZQT09IiwibWFjIjoiYzk0ZmIyZmMyMzNiNzgwZWRlNTk2YjlkYmEwMjc1OTY3MGM1M2E0NjljN2Q0YmMyYzhkZTQ3ZTkzYTM5M2U5YiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ikt4bkZ3UWFYejY5c0ZzcTJtcWtJK0E9PSIsInZhbHVlIjoiMG9yWGtTTitFWWRteC9jTkplYjVjUT09IiwibWFjIjoiMTc4MzJhMzI2ZWI4NGJhZjZmOGQ3MjQxM2UxN2Q3OWM4ZWJiNGRkMzgxZjg0NWNlYzAzZWU0NWFkYzNhMWY1MiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlpUTmdLcXFETHBUdTNEMFQ1R3JKdlE9PSIsInZhbHVlIjoiRFF3alFlS1BIa0F1OFFRRHk2czE1Zz09IiwibWFjIjoiNDhkMjdlMWQ1YmQ0ODZjNjZhODc0NmYwNzA3MDExNTQzZWNjOWNkODU0MGI0NmQ0MzMyY2UxMmZhOTNmODA2ZSIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -2816,8 +2816,6 @@
         "https://www.univh2c.ma/fr/node/1922"
     ],
     "univ_cadi_ayyad": [
-        "https://www.uca.ma/fr/news/inscription-des-nouveaux-etudiants-au-titre-de-lannee-universitaire-2026-2027",
-        "https://www.uca.ma/fr/news/visite-dune-delegation-economique-chinoise-a-luniversite-cadi-ayyad",
         "https://www.uca.ma/fr/concours/appel-a-candidatures-pour-les-postes-vacants-de-chefs-de-divisions-a-la-presidence-de-luniversite-cadi-ayyad",
         "https://www.uca.ma/fr/news/message-de-condoleances",
         "https://www.uca.ma/fr/concours/avis-de-concours-de-recrutement-a-luniversite-cadi-ayyad-session-11102026",
@@ -2865,7 +2863,9 @@
         "https://www.uca.ma/fr/concours/liste-des-candidats-convoques-a-lentretien-oral-du-concours-de-recrutement-session-du-18102026",
         "https://www.uca.ma/fr/news/moroccan-sahara-innovation-challenge-2026-luca-mobilise-linnovation-et-lentrepreneuriat-au-service-des-provinces-du-sud",
         "https://www.uca.ma/fr/news/luniversite-cadi-ayyad-et-luniversite-dhbw-ravensburg-echangent-sur-le-renouvellement-de-leur-partenariat",
-        "https://www.uca.ma/fr/mobilites/appel-a-candidature-universite-castilla-la-mancha-espagne-universite-de-palacky-university-olomouc-republique-tcheque"
+        "https://www.uca.ma/fr/mobilites/appel-a-candidature-universite-castilla-la-mancha-espagne-universite-de-palacky-university-olomouc-republique-tcheque",
+        "https://www.uca.ma/fr/news/luniversite-cadi-ayyad-commemore-le-51-anniversaire-de-la-marche-verte",
+        "https://www.uca.ma/fr/concours/avis-de-concours-de-recrutement-a-luniversite-cadi-ayyad-session-29112026"
     ],
     "univ_ucd": [
         "https://www.youtube.com/channel/UCNTbX8mEanI3hb-IfKbx_6w",
@@ -3085,7 +3085,8 @@
         "https://www.uit.ac.ma/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d8%a8%d9%86-%d8%b7%d9%81%d9%8a%d9%84-%d8%aa%d9%87%d9%86%d8%a6-%d8%a7%d9%84%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-%d8%b9%d8%b2-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d9%85%d9%8a",
         "https://www.uit.ac.ma/classement-stanford-elsevier-sept-chercheurs-de-luniversite-ibn-tofail-parmi-les-2-des-scientifiques-les-plus-influents-au-monde",
         "https://www.uit.ac.ma/luniversite-ibn-tofail-se-classe-1%ca%b3%e1%b5%89-au-niveau-national-et-progresse-de-47-places-dans-le-qs-arab-region-university-rankings-2027",
-        "https://www.uit.ac.ma/luniversite-ibn-tofail-se-classe-premiere-a-lechelle-nationale-et-progresse-de-47-places-dans-le-qs-arab-region-university-rankings-2027"
+        "https://www.uit.ac.ma/luniversite-ibn-tofail-se-classe-premiere-a-lechelle-nationale-et-progresse-de-47-places-dans-le-qs-arab-region-university-rankings-2027",
+        "https://www.uit.ac.ma/the-arab-university-rankings-2027-luniversite-ibn-tofail-premiere-universite-publique-du-maroc"
     ],
     "uir_rabat": [
         "https://www.uir.ac.ma/fr/page/calendrier-des-concours",
@@ -3476,10 +3477,6 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23806"
     ],
     "emploi_public": [
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/e71fcd3e-7771-47e8-a700-fd6db45b4eb0",
-        "http://bdj.mmsp.gov.ma",
-        "https://www.emploi-public.ma/ar",
-        "https://www.prixpanafricain-servicepublic.org",
         "https://www.emtiaz.ma",
         "https://www.emploi-public.ma/ar/%D8%A7%D8%B7%D8%B1%D8%AD-%D8%B3%D8%A4%D8%A7%D9%84%D8%A7",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/768f9441-de1e-46d9-965f-530e9f745b8b",
@@ -3525,7 +3522,11 @@
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/d19fded1-36a4-4108-8637-69297dbd27bc",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/81c9c92e-640b-49c2-a7bf-d1e037deca8e",
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/72d7f4f3-b81d-4f01-b750-c84c9fdb3db1",
-        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1874ae4c-94d6-4af0-9575-a39ede5189ff"
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/1874ae4c-94d6-4af0-9575-a39ede5189ff",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/0ce1c9ce-1d0d-4ee0-a8cb-5b05f5d4e640",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/284c1fe0-0a78-4892-87df-3e083e6a65d2",
+        "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/75a63a0e-655b-4db8-8d4a-ffdeed8e61f9",
+        "http://maps.service-public.ma"
     ],
     "cmc_souss_massa": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -3808,6 +3809,8 @@
         "https://www.ump.ma/fr/actualite/aaalan-aan-fth-bab-altrshyh-lolog-atar-asatth-altaalym-alaaaly",
         "https://www.ump.ma/fr/actualite/layh-almtrshhyn-almdaaoyn-lagtyaz-almrhl-althany",
         "https://www.ump.ma/fr/actualite/listes-des-candidats-retenus-pour-passer-lepreuve-orale-du-concours-de-recrutement-des-administrateurs-a-la-faculte-des-sciences-de-la-societe-de-berkane",
-        "https://www.ump.ma/fr/actualite/listes-des-candidats-retenus-pour-passer-lepreuve-orale-du-concours-de-recrutement-des-administrateurs-a-la-faculte-deconomie-et-de-gestion-de-taourirt"
+        "https://www.ump.ma/fr/actualite/listes-des-candidats-retenus-pour-passer-lepreuve-orale-du-concours-de-recrutement-des-administrateurs-a-la-faculte-deconomie-et-de-gestion-de-taourirt",
+        "https://www.ump.ma/fr/actualite/layh-almtrshhyn-almdaaoyn-lagtyaz-almrhl-althany-kly-alaalom-o-altkntyat-taoryrt",
+        "https://www.ump.ma/fr/actualite/avis-de-concours-pour-le-recrutement-des-maitres-de-conferences-20112029"
     ]
 }
