@@ -1,6 +1,5 @@
 {
     "ministry_men": [
-        "http://www.men.gov.ma/Actualit%C3%A9s091026_01",
         "http://www.men.gov.ma/%D8%A7%D8%AE%D8%AA%D8%AA%D8%A7%D9%85-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%C2%ABmaroc-cap%E2%80%99lecture%C2%BB-%D9%84%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA",
         "http://www.men.gov.ma/%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A8%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA",
         "http://www.men.gov.ma/Actualit%C3%A9s161026_01",
@@ -49,7 +48,8 @@
         "http://www.men.gov.ma/Actualit%C3%A9s111126_01",
         "http://www.men.gov.ma/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%B4%D9%88%D9%85%D9%8A-%D9%8A%D8%AC%D9%8A%D8%A8-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%8A%D9%86-%D8%B9%D9%86-%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A-%D9%88%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA",
         "http://www.men.gov.ma/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%B4%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AF%D8%A8-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%81-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A-%D9%88%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%8A%D8%AC%D9%8A%D8%A8-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%8A%D9%86-%D8%B9%D9%86-%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B4%D9%81%D9%87%D9%8A%D8%A9-%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A-%D9%88%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA",
-        "http://www.men.gov.ma/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%8A%D8%AA%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%A3%D9%84%D9%83%D8%B3%D9%88-%D9%88%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%82%D8%AF-%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D8%B9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D9%86%D8%B8%D8%B1%D8%A7%D8%A6%D9%87/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA"
+        "http://www.men.gov.ma/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D9%8A%D8%AA%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%A3%D9%84%D9%83%D8%B3%D9%88-%D9%88%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%82%D8%AF-%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D8%B9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D9%86%D8%B8%D8%B1%D8%A7%D8%A6%D9%87/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA",
+        "http://www.men.gov.ma/Actualit%C3%A9s161126_01"
     ],
     "ofppt": [
         "https://www.ofppt.ma/fr/actualites/au-coeur-de-la-ceremonie-de-remise-des-prix-du-concours-tyab-bladna-2024",
@@ -942,7 +942,6 @@
     ],
     "ens_marrakech": [],
     "fmp_rabat": [
-        "http://fmp.um5.ac.ma/node/concours_residanat_16Novembre2026",
         "http://fmp.um5.ac.ma/index.php/node/Resultas_finaux_MASTER_Biotech_M%C3%A9dicale_2026",
         "http://fmp.um5.ac.ma/index.php/node/annonceexamenscliniques300920261500",
         "http://fmp.um5.ac.ma/index.php/node/concours_residanat_16Novembre2026",
@@ -991,12 +990,10 @@
         "http://fmp.um5.ac.ma/index.php/node/S%C3%A9ance_affectation_7%C3%A8me",
         "https://www.facebook.com/pages/Facult%C3%A9%20de%20M%C3%A9decine%20et%20de%20Pharmacie%20de%20Rabat/537661656280993",
         "https://www.linkedin.com/company/fmpr",
-        "http://fmp.um5.ac.ma/sites/default/files/2025-05/Proc%C3%A9dure%2520Campus%2520connecte.pdf"
+        "http://fmp.um5.ac.ma/sites/default/files/2025-05/Proc%C3%A9dure%2520Campus%2520connecte.pdf",
+        "http://fmp.um5.ac.ma/node/concours_iteration6_2627"
     ],
     "fmp_casablanca": [
-        "https://www.fmpc.ac.ma/resultats-finaux-du-concours-de-recrutement-des-techniciens-de-3%e1%b5%89-grade-specialite-secretariat-de-direction-session-du-05-juillet-2026",
-        "https://www.fmpc.ac.ma/modification-de-la-date-dorganisation-du-deuxieme-concours-national-de-residanat-au-titre-de-lannee-2026",
-        "https://www.fmpc.ac.ma/ateliers-de-simulation-pour-la-revalidation-des-stages-3%e1%b5%89-annee-medecine-periode-5",
         "https://www.fmpc.ac.ma/avis-aux-medecins-et-pharmaciens-specialistes-laureats-de-la-promotion-2026",
         "https://www.fmpc.ac.ma/category/avis-etudiants",
         "https://www.fmpc.ac.ma/prolongation-de-la-reinscription",
@@ -1043,10 +1040,12 @@
         "https://www.fmpc.ac.ma/consignes-aux-candidats-au-concours-de-residanat-session-de-novembre-2026",
         "https://www.fmpc.ac.ma/calendrier-des-deliberations-des-concours-de-residanat-en-medecine-et-en-pharmacie-session-des-16-et-17-novembre-2026",
         "https://www.fmpc.ac.ma/liste-des-candidats-admis-au-concours-de-recrutement-de-maitres-de-conferences-au-profit-de-la-faculte-de-medecine-et-de-pharmacie-de-casablanca-session-du-10-juillet-2026",
-        "https://www.fmpc.ac.ma/repartition-des-groupes-de-tp-de-chimie-generale-et-minerale"
+        "https://www.fmpc.ac.ma/repartition-des-groupes-de-tp-de-chimie-generale-et-minerale",
+        "https://www.fmpc.ac.ma/avis-dinscription-en-1ere-annee-de-pharmacie-au-titre-de-lannee-universitaire-2026-2027-iteration-6",
+        "https://www.fmpc.ac.ma/liste-des-candidats-admis-a-passer-le-concours-de-recrutement-de-maitres-de-conferences-au-profit-de-la-faculte-de-medecine-et-de-pharmacie-de-casablanca-session-du-25-novembre-2026",
+        "https://www.fmpc.ac.ma/liste-des-candidats-admis-a-passer-le-concours-de-recrutement-de-maitres-de-conferences-au-profit-de-la-faculte-de-medecine-et-de-pharmacie-de-settat-session-du-25-novembre-2026"
     ],
     "fmp_agadir": [
-        "https://fmpa.uiz.ac.ma/avis-aux-etudiants-master-biotechnologie-medicale",
         "https://fmpa.uiz.ac.ma/repartition-actualisee-des-etudiants-de-1a-medecine-par-groupes-tp-2026-2027",
         "https://fmpa.uiz.ac.ma/resultats-definitifs-du-concours-des-maitres-de-conferences-session-25-juin-2026_page-0001",
         "https://fmpa.uiz.ac.ma/avis-aux-etudiants-4",
@@ -1095,7 +1094,8 @@
         "https://fmpa.uiz.ac.ma/la-liste-des-candidats-convoques-pour-participer-au-concours-de-recrutement-du-corps-administratif-specialite-informatique-session-du-15-novembre-2026",
         "https://fmpa.uiz.ac.ma/liste-des-candidats-admissibles-pour-passer-les-concours-de-recrutement-de-maitre-de-conference-civils-au-profit-de-la-faculte-de-medecine-et-de-pharmacie-dagadir-session-12-novembre-2026",
         "https://fmpa.uiz.ac.ma/jury_-concours-de-residanat-filiere-pharmacie_-session-16-novembre-2026",
-        "https://fmpa.uiz.ac.ma/avis-de-concours-des-maitres-de-conferences-session-10-decembre-2026"
+        "https://fmpa.uiz.ac.ma/avis-de-concours-des-maitres-de-conferences-session-10-decembre-2026",
+        "https://fmpa.uiz.ac.ma/liste-des-candidats-convoques-pour-concours-residanat-session-16-novembre-2026"
     ],
     "fmp_laayoune": [
         "http://fmpl.uiz.ac.ma/category/avis/",
@@ -1724,7 +1724,6 @@
         "http://fsjes-souissi.um5.ac.ma/index.php/node/507"
     ],
     "fsjes_sale": [
-        "https://www.instagram.com/um5.fsjes.sale?igsi=MTQwMHh6ZjN1eG4wMA%3D%3D",
         "http://fsjes-sale.um5.ac.ma/node/734",
         "http://fsjes-sale.um5.ac.ma/node/733",
         "http://fsjes-sale.um5.ac.ma/node/735",
@@ -1773,7 +1772,8 @@
         "https://fsjes-sale.um5.ac.ma/node/771",
         "http://fsjes-sale.um5.ac.ma/index.php/node/770",
         "http://fsjes-sale.um5.ac.ma/index.php/node/777",
-        "http://fsjes-sale.um5.ac.ma/node/777"
+        "http://fsjes-sale.um5.ac.ma/node/777",
+        "http://fsjes-sale.um5.ac.ma/index.php/node/779"
     ],
     "fs_casa_ain_chock": [
         "http://www.fsac.ac.ma/annonces.html",
@@ -1928,13 +1928,6 @@
         "https://www.flsh-agadir.ac.ma?p=36886"
     ],
     "fp_ouarzazate": [
-        "https://fpo.uiz.ac.ma/avis",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InJGSjdZUnlWVUJzMWp2YmorNnNsY2c9PSIsInZhbHVlIjoiajVWTGE1aERQVVJ6NTAzemhWejJGdz09IiwibWFjIjoiNjZhOTYyNjI5ZTJkZDQxMzUzMzlkZTU2MDBlMDBlYmJkMDM3ZGVkZjAxODI2N2I4ZTgxMjQyNmExZmQ0MzRhMiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Im1LdERSZ28wVUR5MzB1Tk1CUmdadmc9PSIsInZhbHVlIjoidFJuWEx5QXV4alI5WUVYLzlHVHZKdz09IiwibWFjIjoiOWUyZjU5MzVlNzY1NmFiNDI2MDE2NTEzNjE0NzU1NjhlNjA4YjJhMDFmMzQ2M2ViNThlZTQ4NmRkNWFjMWU1MCIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IjR1cEY0MGNmd2NRMnE5Y0NLZkxqaUE9PSIsInZhbHVlIjoiaFNIUDJoWC91Vjh6d01MMldsaFVQUT09IiwibWFjIjoiNGQ4ZTUyY2Y4ZmYwYzE4YzQ5MzljMjlhNDMxODAyMzRlNWQ4ZDdjNWYzMDZmZGU1OTkxZTVhN2I5ZTE5YjJhMiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlFucTRVbmZ3MzNzWlk4eVIyb1RDWWc9PSIsInZhbHVlIjoiYS9oNHZBVDJvcWxGTVVORFZCL1ZOdz09IiwibWFjIjoiNmEwNTQzY2UyYzliMjg1YWY3NjE5YzYzNmM0NjA1NDYxNmQ5NzE1YTkxYjE2NTI2ZjJkYzQ3MTcyOWY2NjhkMiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkxzeisvV2czQ3VjTzVhSm9SbVZqcEE9PSIsInZhbHVlIjoiOGxCMWN4VmcyVzdqVTVWR09uZFVTQT09IiwibWFjIjoiYmU1YTVmNmZkMGU4N2Q5YjFiNGNmNzU5MDRkZWI3NmU0ZGJlN2Y2MzUzNTg5ZGZmM2UxOWRjMTNkZjQyOWJjZSIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InZqV0NrL3ZWYyt1VkxqZjVaS2x4eUE9PSIsInZhbHVlIjoiL3U5eVVtMnV1VlMwcEdvSlYzWUhvUT09IiwibWFjIjoiOTIzOWNiMDZkZWQ5ZTI5NTFhMTYxYmRlNDlhNjA2ZjRhMWRiYTdjOTU4YzMyZGM2NGIxNmM2YjY1OTZlOGI2ZiIsInRhZyI6IiJ9",
         "https://docs.google.com/forms/d/e/1FAIpQLSdDFQ_4IcQK-UAL5P0cdz-a3zdc-Lqoi7mhVwl4sBcEQYNJLg/viewform?usp=preview",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InhjU2ZGWG9NRmJpRElhUlZXbDEzOUE9PSIsInZhbHVlIjoicGVlZkdXZmQxS1NsOXVsbkpyWmRuUT09IiwibWFjIjoiMWU3YTUwNDgzZGYyZWMwZTc1NjQwYTI3OThlOTQ2OGFkMzJiMDMwOWFmMjA1YWNjMDQ0OGJjZDAxYjBkOWVjYiIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ilk5WDlROEN5d1FDSndwTFRqYUcvRkE9PSIsInZhbHVlIjoidWh2RC9vNDRxbTdBSUkzelVwWU5vdz09IiwibWFjIjoiOGUyNmQ0YjU0NDgwNDIzMDE1OWM5NWNjZDUyNzdkNTAzZDViNWI2MGFjODA0ZGVmMGUyZWY5ZGQ0M2ZmN2FmYSIsInRhZyI6IiJ9",
@@ -1977,7 +1970,14 @@
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Im5qNy85bEx2Z1R1WnpXYkdJaXQwUUE9PSIsInZhbHVlIjoic1dTSjNPaVZkOUNzWUk0RFBiOHRYQT09IiwibWFjIjoiMDc2NDU0M2E1MWQ2Njg1ZTEyNzM0NDhlZDNkYjZhMmFkN2U3MDY2MDk2MzMwMjg5NTdiOTg1YmRhMzllOTNlNyIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6InAwSWRWNHNOVVdNQU4ybjJqZW5RVkE9PSIsInZhbHVlIjoicGNhTEZqTDV1YUR2VCt4VEJ6aEdpUT09IiwibWFjIjoiNGM3MmE2ZjAzMmZhMTE1OWU5ZGZjNmU1MTRkOGViYzY4ZDZjMDYyMTRlZGUzNzMzODliZjdlMzAyNDEwYmMxYyIsInRhZyI6IiJ9",
         "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ik9GRVk2Q0d3NXNFcVpoUFBIUnVvemc9PSIsInZhbHVlIjoiWW9MOVhWdTdyc3paSXJYTnpWdndPUT09IiwibWFjIjoiODQ2ZWY2ZjA5Y2IyOGM5ZTg5NzY0ZTc2ODg0NjFkNTc5OTc3ZDUwZmY4MGUzNDY2MjNiMjY4YzlmMjEzZDA1MiIsInRhZyI6IiJ9",
-        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkdKU0xZTXA5cldXdnBDOWdleTcrZ1E9PSIsInZhbHVlIjoia0tzOFgxSm4zNHVwVFhLc0FpY0kzQT09IiwibWFjIjoiODBhMWExNzkyMTUxNDg4MjEwYWU0OTE3NmQ0NTI5ZDA2YTYzZDNiMmUzODI0YzE3ZWRkYjllYjRlOTNkYTY1ZiIsInRhZyI6IiJ9"
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkdKU0xZTXA5cldXdnBDOWdleTcrZ1E9PSIsInZhbHVlIjoia0tzOFgxSm4zNHVwVFhLc0FpY0kzQT09IiwibWFjIjoiODBhMWExNzkyMTUxNDg4MjEwYWU0OTE3NmQ0NTI5ZDA2YTYzZDNiMmUzODI0YzE3ZWRkYjllYjRlOTNkYTY1ZiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/files/Calendar.pdf",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IklNV0RVUm4yeTBGSFl3dFJoTVc1VVE9PSIsInZhbHVlIjoiZFoxb09vN1BqRXd5MGxIbmlUY0ZNQT09IiwibWFjIjoiYTZkNzBjZjRiYTE2NjliMTc4MWM2MGNmYzcxNmI2MTliZjMzYWU3MWYzMzg0ZjYzNTgxYWVkNzM5MzliM2M0NCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IkhFVTN0d2U0Q3FkT3g3cEhHMmZTWmc9PSIsInZhbHVlIjoiYWJwK2pMazkzYXE1U1VzRUwrR0RaZz09IiwibWFjIjoiYzU2YThiZTQyZDFiMTQyNjAxNTE4MWFiZDY5NzM2OTA3ODc4ZTc0N2Q2YmFkMTlkYWEwODcxODk4NWM0ZmIxMSIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ijdvakx1ODliOHdtSkxVRkUxeERzQXc9PSIsInZhbHVlIjoiMlM4aGFzSG9RYk9wazNFdG1XSDhsdz09IiwibWFjIjoiYTI2OGI1MTUxMTUxZGEwMTMyYzAyNTFkZDM0ODA3OGRiYTZhNmViZWU5YzQ4ZTAyMmMxZjIxODgzZTlhNDk4ZiIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6Ijl1dFQ5Mjl2a2NmbTkyekxIRVF2M0E9PSIsInZhbHVlIjoicUtZSCtKdzFoNDJVeDcyNWtRUlJyUT09IiwibWFjIjoiNjc0YzBkMWZlYmUzMTM1NWUzMDllYzE0MjQ5YWUyYmJjMTNjNTI2ZjIyMGNhZmE4MjUwMDhmNjk1ZGU2OTE1OCIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6ImxMYVJac2V2WkVyOHpNU2QvSFdTRmc9PSIsInZhbHVlIjoiMlZENTRzaCtwZjZmS2RlL2V4N1BuZz09IiwibWFjIjoiNTJhZmM4ZjQxYzkzNjU4NzJmMzI1MjJhOTVjYTczNTg3Mjc5ZGY0MTQ0NGExZTFlOWYzZTBiYzVjOTEzZGU5NyIsInRhZyI6IiJ9",
+        "https://fpo.uiz.ac.ma/avis-aux-etudiants/eyJpdiI6IlNLZU83VHNGNVRIN0lBVElmR1lyV0E9PSIsInZhbHVlIjoic05tYWJ3N3FYTmxRbStJWUNzQXJOQT09IiwibWFjIjoiNTI3MTMyYTI0MjUyZDBjMTI0MGZlOTRkZjE3ODgwNzIzZDJiOWE4ZjE2ZTM3MWMyZGJmYzM1YjNhMDA4MmY3NiIsInRhZyI6IiJ9"
     ],
     "fs_marrakech": [
         "https://www.uca.ma/fssm/fr",
@@ -3480,11 +3480,6 @@
         "https://www.tawjih.info/ingenieur.php"
     ],
     "alwadifa_maroc": [
-        "https://www.alwadifa-maroc.com/offre/show/id/23797",
-        "https://www.alwadifa-maroc.com/offre/show/id/23796",
-        "https://www.alwadifa-maroc.com/actualite/show/id/2166",
-        "https://www.alwadifa-maroc.com/offre/show/id/23798",
-        "https://www.alwadifa-maroc.com/actualite/show/id/2167",
         "https://www.alwadifa-maroc.com/offre/show/id/23801",
         "https://www.alwadifa-maroc.com/offre/show/id/23800",
         "https://www.alwadifa-maroc.com/offre/show/id/23804",
@@ -3529,7 +3524,12 @@
         "https://www.alwadifa-maroc.com/offre/show/id/23849",
         "https://www.alwadifa-maroc.com/offre/show/id/23848",
         "https://www.alwadifa-maroc.com/offre/show/id/23854",
-        "https://www.alwadifa-maroc.com/offre/show/id/23853"
+        "https://www.alwadifa-maroc.com/offre/show/id/23853",
+        "https://www.alwadifa-maroc.com/offre/show/id/23862",
+        "https://www.alwadifa-maroc.com/offre/show/id/23861",
+        "https://www.alwadifa-maroc.com/offre/show/id/23860",
+        "https://www.alwadifa-maroc.com/offre/show/id/23859",
+        "https://www.alwadifa-maroc.com/offre/show/id/23858"
     ],
     "emploi_public": [
         "https://www.emploi-public.ma/ar/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ef29d95b-43bb-4653-b7c3-6633e0471481",
@@ -3838,7 +3838,8 @@
         "https://encgt.uae.ac.ma/avis-aux-etudiants-lancement-de-la-plateforme-numerique-e-scolarite",
         "https://encgt.uae.ac.ma/avis-important-et-urgent-a-lensemble-des-etudiantes-et-etudiants",
         "https://encgt.uae.ac.ma/avis-important-concours-dacces-au-master-annee-universitaire-2026-2027-report-du-delai-de-depot-des-justificatifs-de-paiement-masters-en-temps-amenage",
-        "https://encgt.uae.ac.ma/avis-aux-candidats-admis-aux-masters-annee-universitaire-2026-2027-demarrage-des-enseignements-des-masters-temps-normal-et-temps-amenage"
+        "https://encgt.uae.ac.ma/avis-aux-candidats-admis-aux-masters-annee-universitaire-2026-2027-demarrage-des-enseignements-des-masters-temps-normal-et-temps-amenage",
+        "https://encgt.uae.ac.ma/avis-aux-doctorantes-formation-doctorale-economie-gestion-et-societe-encg-tanger-appel-a-candidatures-bourses-des-doctorants-moniteurs-pass-2026-2027"
     ],
     "univ_ump": [
         "https://www.ump.ma/fr/offres-concours",
